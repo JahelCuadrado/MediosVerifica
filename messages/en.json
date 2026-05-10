@@ -117,22 +117,22 @@
     "weightsTitle": "Weighting",
     "weightsDescription": "Each category has a specific weight in the final grade.",
     "gradesTitle": "Grading system",
-    "gradeA": "Excellent — The outlet meets the highest standards of reliability and neutrality.",
-    "gradeB": "Good — The outlet is reliable and fairly neutral, with room for improvement.",
-    "gradeC": "Fair — The outlet has positive aspects but also significant shortcomings.",
-    "gradeD": "Poor — The outlet presents serious reliability or neutrality issues.",
-    "gradeE": "Very Poor — The outlet does not meet minimum standards."
+    "gradeA": "Reliable — The outlet meets reliability and neutrality standards, following good journalistic practices.",
+    "gradeB": "Improvable — The outlet is reliable and reasonably neutral, though it has areas for improvement.",
+    "gradeC": "With reservations — The outlet has positive aspects, but some issues require attention.",
+    "gradeD": "Serious — The outlet is very uneven, with significant issues that deserve consideration.",
+    "gradeE": "Very serious — The outlet raises very serious reliability or neutrality concerns."
   },
   "about": {
     "title": "About MediosVerifica",
     "subtitle": "An independent project for media transparency in Spain."
   },
   "grades": {
-    "A": "Excellent",
-    "B": "Good",
-    "C": "Fair",
-    "D": "Poor",
-    "E": "Very Poor"
+    "A": "Reliable",
+    "B": "Improvable",
+    "C": "With reservations",
+    "D": "Serious",
+    "E": "Very serious"
   },
   "common": {
     "score": "Score",

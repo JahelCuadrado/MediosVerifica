@@ -117,22 +117,22 @@
     "weightsTitle": "Haztapena",
     "weightsDescription": "Kategoria bakoitzak pisu espezifikoa du azken notan.",
     "gradesTitle": "Nota-sistema",
-    "gradeA": "Bikaina — Hedabideak fidagarritasun eta neutraltasuneko estandar altuenak betetzen ditu.",
-    "gradeB": "Ona — Hedabidea fidagarria eta nahiko neutrala da, hobetzeko tartearekin.",
-    "gradeC": "Onartgarria — Hedabideak alderdi positiboak ditu baina baita akats esanguratsuak ere.",
-    "gradeD": "Eskasa — Hedabideak fidagarritasun edo neutraltasun arazo larriak aurkezten ditu.",
-    "gradeE": "Oso eskasa — Hedabideak ez ditu gutxieneko estandarrak betetzen."
+    "gradeA": "Fidagarria — Hedabideak fidagarritasun eta neutraltasuneko estandarrak betetzen ditu, kazetaritza-praktika onak jarraituz.",
+    "gradeB": "Hobetzekoa — Hedabidea fidagarria eta arrazoiz neutrala da, nahiz eta hobetzeko arloak dituen.",
+    "gradeC": "Erreserbekin — Hedabideak alderdi positiboak ditu, baina arazo batzuek arreta eskatzen dute.",
+    "gradeD": "Larria — Hedabidea oso irregularra da, kontuan hartu beharreko arazo garrantzitsuekin.",
+    "gradeE": "Oso larria — Hedabideak fidagarritasun edo neutraltasun arazo oso larriak aurkezten ditu."
   },
   "about": {
     "title": "MediosVerifica-ri buruz",
     "subtitle": "Proiektu independente bat Espainiako hedabide-gardentasunerako."
   },
   "grades": {
-    "A": "Bikaina",
-    "B": "Ona",
-    "C": "Onartgarria",
-    "D": "Eskasa",
-    "E": "Oso eskasa"
+    "A": "Fidagarria",
+    "B": "Hobetzekoa",
+    "C": "Erreserbekin",
+    "D": "Larria",
+    "E": "Oso larria"
   },
   "common": {
     "score": "Puntuazioa",

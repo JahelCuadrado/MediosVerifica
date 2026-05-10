@@ -117,22 +117,22 @@
     "weightsTitle": "Ponderación",
     "weightsDescription": "Cada categoría ten un peso específico na nota final.",
     "gradesTitle": "Sistema de notas",
-    "gradeA": "Excelente — O medio cumpre os máis altos estándares de fiabilidade e neutralidade.",
-    "gradeB": "Bo — O medio é fiable e bastante neutral, con marxe de mellora.",
-    "gradeC": "Aceptable — O medio ten aspectos positivos pero tamén deficiencias significativas.",
-    "gradeD": "Deficiente — O medio presenta problemas graves de fiabilidade ou neutralidade.",
-    "gradeE": "Moi deficiente — O medio non cumpre os estándares mínimos."
+    "gradeA": "Fiable — O medio cumpre cos estándares de fiabilidade e neutralidade, respectando as boas prácticas xornalísticas.",
+    "gradeB": "Mellorable — O medio é fiable e razoablemente neutral, aínda que presenta áreas de mellora.",
+    "gradeC": "Con reservas — O medio ten aspectos positivos, pero algúns problemas requiren atención.",
+    "gradeD": "Grave — O medio é moi desigual, con problemas importantes que merecen consideración.",
+    "gradeE": "Moi grave — O medio presenta problemas moi serios de fiabilidade ou neutralidade."
   },
   "about": {
     "title": "Sobre MediosVerifica",
     "subtitle": "Un proxecto independente para a transparencia mediática en España."
   },
   "grades": {
-    "A": "Excelente",
-    "B": "Bo",
-    "C": "Aceptable",
-    "D": "Deficiente",
-    "E": "Moi deficiente"
+    "A": "Fiable",
+    "B": "Mellorable",
+    "C": "Con reservas",
+    "D": "Grave",
+    "E": "Moi grave"
   },
   "common": {
     "score": "Puntuación",
