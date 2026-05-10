@@ -1,0 +1,78 @@
+{
+  "id": "el-independiente",
+  "slug": "el-independiente",
+  "name": "El Independiente",
+  "logo": "/logos/el-independiente.jpg",
+  "website": "https://www.elindependiente.com",
+  "type": "digital-native",
+  "ownership": {
+    "company": "El Independiente Digital S.L.",
+    "shareholders": ["Casimiro Garcia-Abadillo (fundador y director)"],
+    "governmentFunding": false,
+    "fundingNotes": "Founded in 2016 by Casimiro Garcia-Abadillo, former director of El Mundo. Revenue from digital advertising and subscriptions. Center-liberal editorial line."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.18,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 6.00, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes. El perfil profesional del director aporta rigor en la identificacion.", "en": "Good source identification. Director's professional profile contributes rigor to identification.", "ca": "Bona identificacio de fonts.", "eu": "Iturrien identifikazio ona.", "gl": "Boa identificacion de fontes." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Predominan fuentes de perfil centrista-liberal.", "en": "Moderate diversity. Centrist-liberal profile sources predominate.", "ca": "Diversitat moderada.", "eu": "Aniztasun moderatua.", "gl": "Diversidade moderada." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Buen uso de enlaces como medio digital nativo.", "en": "Good link usage as digital-native outlet.", "ca": "Bon us d'enllacos.", "eu": "Esteken erabilera ona.", "gl": "Bo uso de enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion adjunta moderada.", "en": "Moderate attached documentation.", "ca": "Documentacio moderada.", "eu": "Dokumentazio moderatua.", "gl": "Documentacion moderada." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Infografias y datos de calidad aceptable.", "en": "Acceptable quality infographics and data.", "ca": "Infografies acceptables.", "eu": "Kalitate onargarriko infografiak.", "gl": "Infografias aceptables." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.33, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente.", "en": "Corrections policy exists.", "ca": "Politica existent.", "eu": "Politika existitzen da.", "gl": "Politica existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores baja.", "en": "Low error ratio.", "ca": "Ratio baixa.", "eu": "Ratio baxua.", "gl": "Ratio baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada.", "en": "Moderate rectification.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares alineados con contenido. Menor clickbait.", "en": "Headlines aligned with content. Less clickbait.", "ca": "Titulars alineats.", "eu": "Titularrak lerratuta.", "gl": "Titulares alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals.", "eu": "Denbora-markak.", "gl": "Marcas temporais." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia profesional.", "en": "Professional multimedia material.", "ca": "Material professional.", "eu": "Material profesionala.", "gl": "Material profesional." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de analistas. Sesgo centrista-liberal.", "en": "Good analyst selection. Centrist-liberal bias.", "ca": "Bona seleccio d'analistes.", "eu": "Analisten hautaketa ona.", "gl": "Boa seleccion de analistas." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.75, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos firmados.", "en": "Signed articles.", "ca": "Articles signats.", "eu": "Sinatutako artikuluak.", "gl": "Artigos asinados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Sin Defensor del Lector formal.", "en": "No formal Reader's Ombudsman.", "ca": "Sense Defensor.", "eu": "Defendatzailerik gabe.", "gl": "Sen Defensor." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado.", "en": "Labeled sponsored content.", "ca": "Contingut patrocinat etiquetat.", "eu": "Etiketatutako babestutako edukia.", "gl": "Contido patrocinado etiquetado." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre IA.", "en": "No public AI policy.", "ca": "Sense politica.", "eu": "Politikarik gabe.", "gl": "Sen politica." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.65,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.33, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. Tono profesional centrista predominante.", "en": "Moderate adjectival load. Predominant centrist professional tone.", "ca": "Carrega moderada.", "eu": "Karga moderatua.", "gl": "Carga moderada." }, "evidence": [] },
+            "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros.", "en": "Generally neutral attribution verbs.", "ca": "Verbs neutres.", "eu": "Berbo neutroak.", "gl": "Verbos neutros." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. Linea editorial centrista-liberal visible.", "en": "Differentiated opinion section. Visible centrist-liberal editorial line.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita.", "gl": "Seccion de opinion diferenciada." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.25, "criteria": {
+            "coverageBalance": { "score": 6, "justification": { "es": "Cobertura moderadamente equilibrada. Ligero sesgo critico con el Gobierno.", "en": "Moderately balanced coverage. Slight Government-critical bias.", "ca": "Cobertura moderadament equilibrada.", "eu": "Estaldura moderatuki orekatua.", "gl": "Cobertura moderadamente equilibrada." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial leve. Mayor escrutinio al Gobierno que a la oposicion.", "en": "Slight editorial asymmetry. Greater Government scrutiny than opposition.", "ca": "Asimetria lleu.", "eu": "Asimetria txikia.", "gl": "Asimetria leve." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo centrista-liberal moderado.", "en": "Moderate centrist-liberal narrative framing.", "ca": "Enquadrament centrista-liberal.", "eu": "Narrazio-markaketa zentrismo-liberal moderatua.", "gl": "Encadramento centrista-liberal." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas estandar.", "en": "Standard poll treatment.", "ca": "Tractament estandard.", "eu": "Trataera estandarra.", "gl": "Tratamento estandar." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 7.00, "criteria": {
+            "photoSelection": { "score": 7, "justification": { "es": "Seleccion fotografica profesional y equilibrada.", "en": "Professional and balanced photo selection.", "ca": "Seleccio equilibrada.", "eu": "Hautaketa orekatua.", "gl": "Seleccion equilibrada." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.33, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Propiedad del fundador conocida.", "en": "Founder ownership known.", "ca": "Propietat coneguda.", "eu": "Sortzailearen jabetza ezaguna.", "gl": "Propiedade conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 5, "justification": { "es": "Recibe publicidad institucional. Proporcion no publica.", "en": "Receives institutional advertising. Proportion not public.", "ca": "Rep publicitat institucional.", "eu": "Publizitate instituzionala jasotzen du.", "gl": "Recibe publicidade institucional." }, "evidence": [] },
+            "conflictOfInterest": { "score": 4, "justification": { "es": "La relacion del director con la elite mediatica y politica puede condicionar la cobertura.", "en": "Director's relationship with media and political elite may condition coverage.", "ca": "La relacio del director pot condicionar.", "eu": "Zuzendariaren harremanak estaldura baldintzatu dezake.", "gl": "A relacion do director pode condicionar." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.97,
+      "overallGrade": "B"
+    }
+  ]
+}

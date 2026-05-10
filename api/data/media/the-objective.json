@@ -1,0 +1,78 @@
+{
+  "id": "the-objective",
+  "slug": "the-objective",
+  "name": "The Objective",
+  "logo": "/logos/the-objective.png",
+  "website": "https://theobjective.com",
+  "type": "digital-native",
+  "ownership": {
+    "company": "The Objective Media S.L.",
+    "shareholders": ["Alvaro Nieto (fundador)", "Inversores privados"],
+    "governmentFunding": false,
+    "fundingNotes": "Founded in 2015. Revenue from digital advertising and subscriptions. Center-right liberal editorial line with international perspective."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.03,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.80, "criteria": {
+            "sourceIdentifiability": { "score": 6, "justification": { "es": "Identificacion de fuentes aceptable. Las columnas de opinion superan al contenido informativo con fuentes.", "en": "Acceptable source identification. Opinion columns exceed news content with sources.", "ca": "Identificacio de fonts acceptable.", "eu": "Iturrien identifikazio onargarria.", "gl": "Identificacion de fontes aceptable." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Predominan analistas liberales y conservadores. Voces progresistas minoritarias.", "en": "Moderate diversity. Liberal and conservative analysts predominate. Minority progressive voices.", "ca": "Diversitat moderada.", "eu": "Aniztasun moderatua.", "gl": "Diversidade moderada." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Buen uso de enlaces como medio digital.", "en": "Good link usage as digital outlet.", "ca": "Bon us d'enllacos.", "eu": "Esteken erabilera ona.", "gl": "Bo uso de enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion adjunta moderada. Enfoque mas analitico que documental.", "en": "Moderate attached documentation. More analytical than documentary focus.", "ca": "Documentacio adjunta moderada.", "eu": "Erantsitako dokumentazio moderatua.", "gl": "Documentacion adxunta moderada." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Datos e infografias de calidad aceptable.", "en": "Acceptable quality data and infographics.", "ca": "Dades i infografies acceptables.", "eu": "Kalitate onargarriko datuak.", "gl": "Datos e infografias aceptables." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.00, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente pero poco visible.", "en": "Corrections policy exists but not very visible.", "ca": "Politica existent.", "eu": "Politika existitzen da.", "gl": "Politica existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 6, "justification": { "es": "Ratio de errores moderada.", "en": "Moderate error ratio.", "ca": "Ratio moderada.", "eu": "Ratio moderatua.", "gl": "Ratio moderada." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada.", "en": "Moderate rectification.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares generalmente alineados con contenido. Menor clickbait que competidores.", "en": "Headlines generally aligned with content. Less clickbait than competitors.", "ca": "Titulars alineats.", "eu": "Titularrak lerratuta.", "gl": "Titulares alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals.", "eu": "Denbora-markak.", "gl": "Marcas temporais." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia profesional.", "en": "Professional multimedia material.", "ca": "Material professional.", "eu": "Multimedia material profesionala.", "gl": "Material profesional." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de columnistas internacionales. Sesgo liberal.", "en": "Good selection of international columnists. Liberal bias.", "ca": "Bona seleccio de columnistes internacionals.", "eu": "Nazioarteko zutabegileen hautaketa ona.", "gl": "Boa seleccion de columnistas internacionais." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.75, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos y columnas firmados.", "en": "Signed articles and columns.", "ca": "Articles signats.", "eu": "Sinatutako artikuluak.", "gl": "Artigos asinados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Sin Defensor del Lector formal.", "en": "No formal Reader's Ombudsman.", "ca": "Sense Defensor.", "eu": "Defendatzailerik gabe.", "gl": "Sen Defensor." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado.", "en": "Labeled sponsored content.", "ca": "Contingut patrocinat etiquetat.", "eu": "Etiketatutako babestutako edukia.", "gl": "Contido patrocinado etiquetado." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre IA.", "en": "No public AI policy.", "ca": "Sense politica sobre IA.", "eu": "IAri buruzko politikarik gabe.", "gl": "Sen politica sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.33,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.00, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. Tono analitico liberal predominante.", "en": "Moderate adjectival load. Predominant liberal analytical tone.", "ca": "Carrega moderada.", "eu": "Karga moderatua.", "gl": "Carga moderada." }, "evidence": [] },
+            "attributionVerbs": { "score": 6, "justification": { "es": "Verbos con asimetria moderada liberal-conservadora.", "en": "Verbs with moderate liberal-conservative asymmetry.", "ca": "Verbs amb asimetria moderada.", "eu": "Berboak asimetria moderatuarekin.", "gl": "Verbos con asimetria moderada." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada pero el enfoque editorial liberal permea las noticias.", "en": "Differentiated opinion section but liberal editorial focus permeates news.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita.", "gl": "Seccion de opinion diferenciada." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 4.75, "criteria": {
+            "coverageBalance": { "score": 5, "justification": { "es": "Sesgo liberal-conservador en seleccion de temas. Mayor cobertura critica del Gobierno.", "en": "Liberal-conservative bias in topic selection. Greater critical Government coverage.", "ca": "Biaix liberal-conservador.", "eu": "Joera liberal-kontserbadorea.", "gl": "Nesgo liberal-conservador." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial moderada. Mayor escrutinio al Gobierno.", "en": "Moderate editorial asymmetry. Greater Government scrutiny.", "ca": "Asimetria moderada.", "eu": "Asimetria moderatua.", "gl": "Asimetria moderada." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre narrativo liberal-conservador. Las politicas del Gobierno de coalicion se enmarcan desde la critica liberal.", "en": "Liberal-conservative narrative framing. Coalition Government policies framed from liberal criticism.", "ca": "Enquadrament liberal-conservador.", "eu": "Narrazio-markaketa liberal-kontserbadorea.", "gl": "Encadramento liberal-conservador." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas con sesgo centro-derecha.", "en": "Center-right poll treatment bias.", "ca": "Tractament amb biaix centre-dreta.", "eu": "Inkesten trataera joera zentro-eskuinarekin.", "gl": "Tratamento con nesgo centro-dereita." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 6.00, "criteria": {
+            "photoSelection": { "score": 6, "justification": { "es": "Seleccion visual profesional con asimetria leve.", "en": "Professional visual selection with slight asymmetry.", "ca": "Seleccio professional.", "eu": "Hautaketa bisual profesionala.", "gl": "Seleccion profesional." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.33, "criteria": {
+            "ownershipTransparency": { "score": 6, "justification": { "es": "Propiedad del fundador conocida. Estructura menos transparente.", "en": "Founder ownership known. Structure less transparent.", "ca": "Propietat coneguda.", "eu": "Sortzailearen jabetza ezaguna.", "gl": "Propiedade conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 5, "justification": { "es": "Recibe publicidad institucional. Proporcion no publica.", "en": "Receives institutional advertising. Proportion not public.", "ca": "Rep publicitat institucional.", "eu": "Publizitate instituzionala jasotzen du.", "gl": "Recibe publicidade institucional." }, "evidence": [] },
+            "conflictOfInterest": { "score": 5, "justification": { "es": "Potenciales conflictos por relacion entre inversores y linea editorial.", "en": "Potential conflicts from investor and editorial line relationship.", "ca": "Potencials conflictes.", "eu": "Potentzialeko gatazkak.", "gl": "Potenciais conflitos." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.75,
+      "overallGrade": "B"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "cuatro",
+  "slug": "cuatro",
+  "name": "Cuatro",
+  "logo": "/logos/cuatro.png",
+  "website": "https://www.cuatro.com",
+  "type": "television",
+  "ownership": {
+    "company": "Mediaset Espana",
+    "shareholders": ["MFE-MediaForEurope (~55%)", "Accionistas institucionales"],
+    "governmentFunding": false,
+    "fundingNotes": "Part of Mediaset Espana alongside Telecinco. Revenue from commercial advertising. Less news-focused than Telecinco."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 5.30,
+        "grade": "C",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.00, "criteria": {
+            "sourceIdentifiability": { "score": 6, "justification": { "es": "Identificacion aceptable en informativos. Menor rigor en programas de magazine.", "en": "Acceptable identification in newscasts. Less rigor in magazine programs.", "ca": "Identificacio acceptable en informatius.", "eu": "Identifikazio onargarria informatiboetan.", "gl": "Identificacion aceptable en informativos." }, "evidence": [] },
+            "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad limitada. Programacion informativa mas reducida que su cadena hermana Telecinco.", "en": "Limited diversity. Less extensive news programming than sister channel Telecinco.", "ca": "Diversitat limitada.", "eu": "Aniztasun mugatua.", "gl": "Diversidade limitada." }, "evidence": [] },
+            "directLinking": { "score": 4, "justification": { "es": "Enlaces a fuentes primarias muy escasos. La web esta orientada mas al entretenimiento que a la informacion.", "en": "Very scarce links to primary sources. Website oriented more toward entertainment than information.", "ca": "Enllacos a fonts primaries molt escassos.", "eu": "Iturri primariotarako esteka oso gutxi.", "gl": "Enlaces a fontes primarias moi escasos." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion limitada. Los programas de reportaje como 'En el punto de mira' incluyen documentacion visual.", "en": "Limited documentation. Report programs like 'In the Spotlight' include visual documentation.", "ca": "Documentacio limitada.", "eu": "Dokumentazio mugatua.", "gl": "Documentacion limitada." }, "evidence": [] },
+            "rawDataAccess": { "score": 5, "justification": { "es": "Sin seccion de datos. Infografias basicas ocasionales en la web.", "en": "No data section. Occasional basic infographics on the website.", "ca": "Sense seccio de dades.", "eu": "Datu-atalik gabe.", "gl": "Sen seccion de datos." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 5.33, "criteria": {
+            "correctionsPolicy": { "score": 5, "justification": { "es": "Politica de correcciones no visible. Errores corregidos sin reconocimiento.", "en": "No visible corrections policy. Errors corrected without acknowledgment.", "ca": "Politica de correccions no visible.", "eu": "Ikusgarritasun gutxiko zuzenketa-politika.", "gl": "Politica de correccions non visible." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 6, "justification": { "es": "Ratio de errores moderada. Menos contenido informativo que otras cadenas.", "en": "Moderate error ratio. Less news content than other channels.", "ca": "Ratio d'errors moderada.", "eu": "Akatsen ratio moderatua.", "gl": "Ratio de erros moderada." }, "evidence": [] },
+            "proactiveRectification": { "score": 5, "justification": { "es": "Rectificacion minima. Pocos mecanismos de autocorreccion.", "en": "Minimal rectification. Few self-correction mechanisms.", "ca": "Rectificacio minima.", "eu": "Gutxieneko zuzenketa.", "gl": "Rectificacion minima." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 5.50, "criteria": {
+            "headlineBodyConsistency": { "score": 5, "justification": { "es": "Tendencia al sensacionalismo y al enfoque emocional. Los titulares web buscan impacto.", "en": "Sensationalism and emotional focus tendency. Web headlines seek impact.", "ca": "Tendencia al sensacionalisme i enfocament emocional.", "eu": "Sentsazionalismo eta ikusmolde emozionalerako joera.", "gl": "Tendencia ao sensacionalismo e enfoque emocional." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes en web.", "en": "Timestamps present on website.", "ca": "Marques temporals presents.", "eu": "Denbora-markak webean.", "gl": "Marcas temporais presentes." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 5, "justification": { "es": "Material audiovisual con edicion dramatica. Priorizacion del impacto visual sobre precision.", "en": "Audiovisual material with dramatic editing. Visual impact prioritized over accuracy.", "ca": "Material audiovisual amb edicio dramatica.", "eu": "Ikus-entzunezko materiala edizio dramatikoarekin.", "gl": "Material audiovisual con edicion dramatica." }, "evidence": [] },
+            "expertRelevance": { "score": 5, "justification": { "es": "Seleccion de expertos limitada. Los programas de debate priorizan el entretenimiento.", "en": "Limited expert selection. Debate programs prioritize entertainment.", "ca": "Seleccio d'experts limitada.", "eu": "Adituen hautaketa mugatua.", "gl": "Seleccion de expertos limitada." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.25, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Presentadores identificados en informativos.", "en": "Anchors identified in newscasts.", "ca": "Presentadors identificats.", "eu": "Aurkezleak identifikatuak.", "gl": "Presentadores identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 3, "justification": { "es": "Sin mecanismo de rendicion de cuentas editorial.", "en": "No editorial accountability mechanism.", "ca": "Sense mecanisme de rendicio de comptes.", "eu": "Kontu-emateko mekanismo editorialik gabe.", "gl": "Sen mecanismo de rendicion de contas." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Publicidad televisiva regulada. Product placement en programas de entretenimiento.", "en": "Regulated television advertising. Product placement in entertainment programs.", "ca": "Publicitat televisiva regulada. Product placement.", "eu": "Telebista-publizitatea erregulatua.", "gl": "Publicidade televisiva regulada." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica sobre uso de IA.", "en": "No policy on AI usage.", "ca": "Sense politica sobre IA.", "eu": "IAri buruzko politikarik gabe.", "gl": "Sen politica sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 4.98,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 5.33, "criteria": {
+            "adjectiveLoad": { "score": 5, "justification": { "es": "Carga adjetival moderada-alta. Tendencia al dramatismo en cobertura de sucesos.", "en": "Moderate-high adjectival load. Drama tendency in crime coverage.", "ca": "Carrega adjectival moderada-alta.", "eu": "Karga adjektibal moderatu-altua.", "gl": "Carga adxectival moderada-alta." }, "evidence": [] },
+            "attributionVerbs": { "score": 6, "justification": { "es": "Verbos de atribucion con asimetria leve.", "en": "Attribution verbs with slight asymmetry.", "ca": "Verbs d'atribucio amb asimetria lleu.", "eu": "Atribuzio-berboak asimetria txikiarekin.", "gl": "Verbos de atribucion con asimetria leve." }, "evidence": [] },
+            "opinionLabeling": { "score": 5, "justification": { "es": "Fronteras entre informacion y opinion difusas en programas de actualidad y debate.", "en": "Blurred boundaries between information and opinion in current affairs and debate programs.", "ca": "Fronteres difuses entre informacio i opinio.", "eu": "Informazioaren eta iritziaren arteko muga lausoak.", "gl": "Fronteiras difusas entre informacion e opinion." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 4.75, "criteria": {
+            "coverageBalance": { "score": 5, "justification": { "es": "Cobertura con enfoque sensacionalista. Priorizacion de sucesos y sociedad sobre politica.", "en": "Sensationalist focus coverage. Crime and society prioritized over politics.", "ca": "Cobertura amb enfocament sensacionalista.", "eu": "Estaldura ikusmolde sentsazionalistarekin.", "gl": "Cobertura con enfoque sensacionalista." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria moderada. Influencia de la linea editorial de Mediaset.", "en": "Moderate asymmetry. Mediaset editorial line influence.", "ca": "Asimetria moderada. Influencia de Mediaset.", "eu": "Asimetria moderatua. Mediaset-en lerro editorialaren eragina.", "gl": "Asimetria moderada. Influencia de Mediaset." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre narrativo sensacionalista y emocional. Menor enfoque politico que Telecinco.", "en": "Sensationalist and emotional narrative framing. Less political focus than Telecinco.", "ca": "Enquadrament sensacionalista i emocional.", "eu": "Narrazio-markaketa sentsazionalista eta emozionala.", "gl": "Encadramento sensacionalista e emocional." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas basico. Poca cobertura electoral.", "en": "Basic poll treatment. Little electoral coverage.", "ca": "Tractament d'enquestes basic.", "eu": "Inkesten oinarrizko trataera.", "gl": "Tratamento de enquisas basico." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 5.00, "criteria": {
+            "photoSelection": { "score": 5, "justification": { "es": "Material visual orientado al impacto emocional y espectacularidad.", "en": "Visual material oriented toward emotional impact and spectacle.", "ca": "Material visual orientat a l'impacte emocional.", "eu": "Material bisuala inpaktu emozionalera eta ikusgarritasunera bideratua.", "gl": "Material visual orientado ao impacto emocional." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.67, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Mediaset Espana cotizada. Estructura accionarial publica.", "en": "Mediaset Espana listed. Public shareholding structure.", "ca": "Mediaset Espanya cotitzada.", "eu": "Mediaset Espaina kotizatua.", "gl": "Mediaset Espana cotizada." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Alta dependencia publicitaria. Proporcion institucional no desglosada.", "en": "High advertising dependence. Institutional proportion not broken down.", "ca": "Alta dependencia publicitaria.", "eu": "Publizitate-menpekotasun altua.", "gl": "Alta dependencia publicitaria." }, "evidence": [] },
+            "conflictOfInterest": { "score": 3, "justification": { "es": "Conflictos de interes por la estructura accionarial y la presion publicitaria de Mediaset.", "en": "Conflicts of interest due to Mediaset shareholding structure and advertising pressure.", "ca": "Conflictes d'interes per l'estructura accionarial de Mediaset.", "eu": "Interes-gatazkak Mediaset-en akziodun-egitura eta publizitate-presioagatik.", "gl": "Conflitos de interese pola estrutura accionarial de Mediaset." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.17,
+      "overallGrade": "C"
+    }
+  ]
+}

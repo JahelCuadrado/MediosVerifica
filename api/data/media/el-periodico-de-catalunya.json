@@ -1,0 +1,78 @@
+{
+  "id": "el-periodico-de-catalunya",
+  "slug": "el-periodico-de-catalunya",
+  "name": "El Periodico de Catalunya",
+  "logo": "/logos/el-periodico-de-catalunya.png",
+  "website": "https://www.elperiodico.com",
+  "type": "newspaper",
+  "ownership": {
+    "company": "Prensa Iberica",
+    "shareholders": ["Grupo Prensa Iberica (Francisco Javier Moll de Miguel)"],
+    "governmentFunding": false,
+    "fundingNotes": "Acquired by Prensa Iberica in 2020. Previously owned by Grupo Zeta. Published in both Catalan and Spanish. Revenue from subscriptions, advertising and institutional advertising."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.18,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.80, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en informacion local y catalana. Fuentes institucionales bien citadas.", "en": "Good source identification in local and Catalan information. Institutional sources well cited.", "ca": "Bona identificacio de fonts en informacio local i catalana.", "eu": "Iturrien identifikazio ona tokiko eta kataluniar informazioan.", "gl": "Boa identificacion de fontes en informacion local e catala." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Predominan fuentes progresistas y catalanistas. En cobertura del proceso independentista, pluralidad limitada.", "en": "Moderate diversity. Progressive and Catalanist sources predominate. Limited plurality in independence process coverage.", "ca": "Diversitat moderada. Predominen fonts progressistes i catalanistes.", "eu": "Aniztasun moderatua. Iturri progresistak eta katalanistak nagusitzen dira.", "gl": "Diversidade moderada. Predominan fontes progresistas e catalanistas." }, "evidence": [] },
+            "directLinking": { "score": 5, "justification": { "es": "Enlaces a fuentes primarias presentes pero no sistematicos. Mejora progresiva en la version digital.", "en": "Links to primary sources present but not systematic. Progressive improvement in digital version.", "ca": "Enllacos a fonts primaries presents pero no sistematics.", "eu": "Iturri primariotarako estekak baina ez sistematikoak.", "gl": "Enlaces a fontes primarias presentes pero non sistematicos." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion adjunta infrecuente. Mayor presencia en reportajes de investigacion.", "en": "Infrequent attached documentation. Greater presence in investigative reports.", "ca": "Documentacio adjunta infrequent.", "eu": "Erantsitako dokumentazioa gutxitan.", "gl": "Documentacion adxunta infrecuente." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Infografias y datos visuales de calidad aceptable. Sin seccion de datos abiertos.", "en": "Acceptable quality infographics and visual data. No open data section.", "ca": "Infografies i dades visuals de qualitat acceptable.", "eu": "Kalitate onargarriko infografiak eta datu bisualak.", "gl": "Infografias e datos visuais de calidade aceptable." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.33, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones poco visible. Los errores se corrigen sin notificacion al lector.", "en": "Low-visibility corrections policy. Errors corrected without reader notification.", "ca": "Politica de correccions poc visible.", "eu": "Ikusgarritasun gutxiko zuzenketa-politika.", "gl": "Politica de correccions pouco visible." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores moderada-baja. Precision factual aceptable en cobertura local.", "en": "Moderate-low error ratio. Acceptable factual accuracy in local coverage.", "ca": "Ratio d'errors moderada-baixa.", "eu": "Akatsen ratio moderatu-baxua.", "gl": "Ratio de erros moderada-baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada. Los errores significativos se corrigen.", "en": "Moderate rectification. Significant errors corrected.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares web con cierta tendencia al clickbait. Edicion impresa mas mesurada.", "en": "Web headlines with some clickbait tendency. Print edition more measured.", "ca": "Titulars web amb tendencia al clickbait.", "eu": "Web titularrak clickbait joera batekin.", "gl": "Titulares web con tendencia ao clickbait." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales en todos los articulos.", "en": "Timestamps in all articles.", "ca": "Marques temporals en tots els articles.", "eu": "Denbora-markak artikulu guztietan.", "gl": "Marcas temporais en todos os artigos." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia correcto y atribuido. Fotografias de calidad profesional.", "en": "Correct and attributed multimedia material. Professional quality photographs.", "ca": "Material multimedia correcte i atribuit.", "eu": "Multimedia material zuzena eta esleitua.", "gl": "Material multimedia correcto e atribuido." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de expertos locales y catalanes. Menor diversidad en temas nacionales.", "en": "Good selection of local and Catalan experts. Less diversity in national topics.", "ca": "Bona seleccio d'experts locals i catalans.", "eu": "Tokiko eta kataluniar adituen hautaketa ona.", "gl": "Boa seleccion de expertos locais e catalans." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 6.00, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos firmados por periodistas identificados.", "en": "Articles signed by identified journalists.", "ca": "Articles signats per periodistes identificats.", "eu": "Identifikatutako kazetariek sinatutako artikuluak.", "gl": "Artigos asinados por xornalistas identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Sin Defensor del Lector activo. El cambio de propiedad a Prensa Iberica redujo la independencia editorial.", "en": "No active Reader's Ombudsman. Change of ownership to Prensa Iberica reduced editorial independence.", "ca": "Sense Defensor del Lector actiu.", "eu": "Irakurleen Defendatzaile aktiborik gabe.", "gl": "Sen Defensor do Lector activo." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado pero con formatos que pueden confundir al lector.", "en": "Labeled sponsored content but with formats that may confuse readers.", "ca": "Contingut patrocinat etiquetat pero amb formats confusos.", "eu": "Etiketatutako babestutako edukia baina irakurlea nahasi dezaketen formatuekin.", "gl": "Contido patrocinado etiquetado pero con formatos confusos." }, "evidence": [] },
+            "aiDisclosure": { "score": 6, "justification": { "es": "Incipiente transparencia sobre uso de IA, alineada con las politicas de Prensa Iberica.", "en": "Nascent AI transparency, aligned with Prensa Iberica policies.", "ca": "Incipient transparencia sobre l'us d'IA.", "eu": "Hasierako gardentasuna IAren erabilerari buruz.", "gl": "Incipiente transparencia sobre o uso de IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.38,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.00, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. En cobertura del proceso catalan, tono mas empatico con posiciones catalanistas.", "en": "Moderate adjectival load. In Catalan process coverage, more empathetic tone with Catalanist positions.", "ca": "Carrega adjectival moderada. To empatia amb catalanisme.", "eu": "Karga adjektibal moderatua. Prozesu katalanean tonu enpatikoagoa.", "gl": "Carga adxectival moderada. Ton empatico con catalanismo." }, "evidence": [] },
+            "attributionVerbs": { "score": 6, "justification": { "es": "Verbos de atribucion con asimetria moderada en cobertura politica catalana.", "en": "Attribution verbs with moderate asymmetry in Catalan political coverage.", "ca": "Verbs d'atribucio amb asimetria moderada.", "eu": "Atribuzio-berboak asimetria moderatuarekin.", "gl": "Verbos de atribucion con asimetria moderada." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. Editoriales con posicionamiento progresista-catalanista claro.", "en": "Differentiated opinion section. Editorials with clear progressive-Catalanist positioning.", "ca": "Seccio d'opinio diferenciada. Editorials progressistes-catalanistes.", "eu": "Iritzi-atala bereizita. Editorialak posizionamendu progresista-katalanista argiarekin.", "gl": "Seccion de opinion diferenciada. Editoriais progresistas-catalanistas." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.00, "criteria": {
+            "coverageBalance": { "score": 5, "justification": { "es": "Sesgo catalanista-progresista en seleccion de temas. Mayor cobertura de temas catalanes y sociales.", "en": "Catalanist-progressive bias in topic selection. Greater coverage of Catalan and social topics.", "ca": "Biaix catalanista-progressista en seleccio de temes.", "eu": "Joera katalanista-progresista gaien hautaketan.", "gl": "Nesgo catalanista-progresista na seleccion de temas." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial moderada. Mayor escrutinio al constitucionalismo que al catalanismo.", "en": "Moderate editorial asymmetry. Greater scrutiny of constitutionalism than Catalanism.", "ca": "Asimetria editorial moderada.", "eu": "Asimetria editorial moderatua.", "gl": "Asimetria editorial moderada." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con sesgo catalanista moderado. Las noticias sobre Cataluna se enmarcan frecuentemente desde la identidad catalana.", "en": "Moderate Catalanist narrative framing bias. News about Catalonia frequently framed from Catalan identity.", "ca": "Enquadrament narratiu amb biaix catalanista moderat.", "eu": "Narrazio-markaketa joera katalanista moderatuarekin.", "gl": "Encadramento narrativo con nesgo catalanista moderado." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas estandar. Las encuestas sobre el sentimiento independentista se presentan con enfoque empatico.", "en": "Standard poll treatment. Independence sentiment polls presented with empathetic focus.", "ca": "Tractament d'enquestes estandard.", "eu": "Inkesten trataera estandarra.", "gl": "Tratamento de enquisas estandar." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 6.00, "criteria": {
+            "photoSelection": { "score": 6, "justification": { "es": "Seleccion fotografica profesional. En cobertura del proceso catalan, ligero sesgo visual empatico.", "en": "Professional photo selection. In Catalan process coverage, slight empathetic visual bias.", "ca": "Seleccio fotografica professional.", "eu": "Argazki-hautaketa profesionala.", "gl": "Seleccion fotografica profesional." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.00, "criteria": {
+            "ownershipTransparency": { "score": 6, "justification": { "es": "Propiedad de Prensa Iberica conocida. Estructura del grupo menos transparente al no ser cotizada.", "en": "Prensa Iberica ownership known. Group structure less transparent as non-listed.", "ca": "Propietat de Prensa Iberica coneguda.", "eu": "Prensa Ibericaren jabetza ezaguna.", "gl": "Propiedade de Prensa Iberica conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Recibe publicidad institucional de la Generalitat y ayuntamientos. Proporcion no transparente.", "en": "Receives institutional advertising from Generalitat and city councils. Proportion not transparent.", "ca": "Rep publicitat institucional de la Generalitat i ajuntaments.", "eu": "Publizitate instituzionala jasotzen du Generalitat eta udaletatik.", "gl": "Recibe publicidade institucional da Generalitat e concellos." }, "evidence": [] },
+            "conflictOfInterest": { "score": 5, "justification": { "es": "La dependencia de publicidad institucional catalana y la pertenencia a Prensa Iberica crean potenciales conflictos de interes.", "en": "Dependence on Catalan institutional advertising and Prensa Iberica membership create potential conflicts of interest.", "ca": "La dependencia de publicitat institucional catalana crea potencials conflictes.", "eu": "Publizitate instituzional katalanaren menpekotasunak potentzialeko interes-gatazkak sortzen ditu.", "gl": "A dependencia de publicidade institucional catala crea potenciais conflitos." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.86,
+      "overallGrade": "B"
+    }
+  ]
+}

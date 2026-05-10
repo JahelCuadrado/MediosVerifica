@@ -1,0 +1,78 @@
+{
+  "id": "el-espanol",
+  "slug": "el-espanol",
+  "name": "El Espanol",
+  "logo": "/logos/el-espanol.png",
+  "website": "https://www.elespanol.com",
+  "type": "digital-native",
+  "ownership": {
+    "company": "El Leon de El Espanol Publicaciones S.A.",
+    "shareholders": ["Pedro J. Ramirez (fundador y director)", "Inversores privados"],
+    "governmentFunding": false,
+    "fundingNotes": "Founded in 2015 by Pedro J. Ramirez after his departure from El Mundo. Revenue from digital subscriptions and advertising. Known for investigative journalism."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.43,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 6.40, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en investigacion. Pedro J. Ramirez aporta una red de contactos consolidada.", "en": "Good source identification in investigation. Pedro J. Ramirez brings a consolidated network of contacts.", "ca": "Bona identificacio de fonts en investigacio.", "eu": "Iturrien identifikazio ona ikerketan.", "gl": "Boa identificacion de fontes en investigacion." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Fuentes criticas con el Gobierno predominan en cobertura politica. Mayor equilibrio en otras areas.", "en": "Moderate diversity. Government-critical sources predominate in political coverage. Greater balance in other areas.", "ca": "Diversitat moderada. Fonts critiques amb el Govern predominen.", "eu": "Aniztasun moderatua. Gobernuarekiko iturri kritikoak nagusitzen dira.", "gl": "Diversidade moderada. Fontes criticas co Goberno predominan." }, "evidence": [] },
+            "directLinking": { "score": 7, "justification": { "es": "Buen uso de enlaces a fuentes primarias como medio digital nativo. Documentos y datos frecuentemente enlazados.", "en": "Good use of links to primary sources as digital-native outlet. Documents and data frequently linked.", "ca": "Bon us d'enllacos a fonts primaries.", "eu": "Iturri primariotarako esteken erabilera ona.", "gl": "Bo uso de enlaces a fontes primarias." }, "evidence": [] },
+            "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion adjunta frecuente en exclusivas e investigacion. Estandar superior al promedio digital.", "en": "Frequent attached documentation in exclusives and investigation. Standard above digital average.", "ca": "Documentacio adjunta frequent en exclusives.", "eu": "Erantsitako dokumentazioa maiztasunez esklusibetan.", "gl": "Documentacion adxunta frecuente en exclusivas." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Seccion de datos e infografias. Sin acceso sistematico a datos brutos pero con visualizaciones de calidad.", "en": "Data and infographics section. No systematic raw data access but quality visualizations.", "ca": "Seccio de dades i infografies.", "eu": "Datu eta infografia atala.", "gl": "Seccion de datos e infografias." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.33, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente. Las correcciones se realizan en el texto digital.", "en": "Corrections policy exists. Corrections made in the digital text.", "ca": "Politica de correccions existent.", "eu": "Zuzenketa-politika existitzen da.", "gl": "Politica de correccions existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores moderada-baja. Las exclusivas suelen ser contrastadas aunque con sesgo de seleccion.", "en": "Moderate-low error ratio. Exclusives usually verified though with selection bias.", "ca": "Ratio d'errors moderada-baixa.", "eu": "Akatsen ratio moderatu-baxua.", "gl": "Ratio de erros moderada-baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada. Los errores se corrigen con razonable rapidez.", "en": "Moderate rectification. Errors corrected with reasonable speed.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.75, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares con cierta tendencia al impacto pero generalmente alineados con el contenido. Menor clickbait que competidores directos.", "en": "Headlines with some impact tendency but generally aligned with content. Less clickbait than direct competitors.", "ca": "Titulars amb tendencia a l'impacte pero alineats.", "eu": "Titularrak inpaktu-joera batekin baina orokorrean edukiarekin lerratuta.", "gl": "Titulares con tendencia ao impacto pero alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 8, "justification": { "es": "Marcas temporales claras y actualizaciones frecuentes como medio digital.", "en": "Clear timestamps and frequent updates as digital outlet.", "ca": "Marques temporals clares i actualitzacions frequents.", "eu": "Denbora-marka argiak eta eguneratze maiztasunekoak.", "gl": "Marcas temporais claras e actualizacions frecuentes." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia de calidad profesional. Buen uso de infografias y video.", "en": "Professional quality multimedia material. Good use of infographics and video.", "ca": "Material multimedia de qualitat professional.", "eu": "Kalitate profesionaleko multimedia materiala.", "gl": "Material multimedia de calidade profesional." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de analistas y expertos. Predominan perfiles criticos con el Gobierno.", "en": "Good selection of analysts and experts. Government-critical profiles predominate.", "ca": "Bona seleccio d'analistes i experts.", "eu": "Analista eta adituen hautaketa ona.", "gl": "Boa seleccion de analistas e expertos." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 6.25, "criteria": {
+            "authorship": { "score": 8, "justification": { "es": "Articulos firmados. Pedro J. Ramirez como director tiene alta visibilidad editorial.", "en": "Signed articles. Pedro J. Ramirez as director has high editorial visibility.", "ca": "Articles signats. Pedro J. Ramirez amb alta visibilitat.", "eu": "Sinatutako artikuluak. Pedro J. Ramirez zuzendari gisa ikusgarritasun altukoa.", "gl": "Artigos asinados. Pedro J. Ramirez con alta visibilidade." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Sin Defensor del Lector formal. El director asume la responsabilidad editorial publica.", "en": "No formal Reader's Ombudsman. The director assumes public editorial responsibility.", "ca": "Sense Defensor del Lector formal.", "eu": "Irakurleen Defendatzaile formalik gabe.", "gl": "Sen Defensor do Lector formal." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado. Modelo de negocio mixto con mezcla de suscripcion y publicidad.", "en": "Labeled sponsored content. Mixed business model with subscription and advertising mix.", "ca": "Contingut patrocinat etiquetat.", "eu": "Etiketatutako babestutako edukia.", "gl": "Contido patrocinado etiquetado." }, "evidence": [] },
+            "aiDisclosure": { "score": 6, "justification": { "es": "Incipiente transparencia sobre uso de IA en la produccion de contenidos digitales.", "en": "Nascent transparency on AI usage in digital content production.", "ca": "Incipient transparencia sobre l'us d'IA.", "eu": "Hasierako gardentasuna IAren erabilerari buruz.", "gl": "Incipiente transparencia sobre o uso de IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.47,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.00, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. En exclusivas politicas, mayor carga editorial. En otras areas, tono profesional.", "en": "Moderate adjectival load. In political exclusives, higher editorial charge. In other areas, professional tone.", "ca": "Carrega adjectival moderada.", "eu": "Karga adjektibal moderatua.", "gl": "Carga adxectival moderada." }, "evidence": [] },
+            "attributionVerbs": { "score": 6, "justification": { "es": "Verbos de atribucion con asimetria moderada. El Gobierno recibe verbos ligeramente mas connotativos.", "en": "Attribution verbs with moderate asymmetry. Government receives slightly more connotative verbs.", "ca": "Verbs d'atribucio amb asimetria moderada.", "eu": "Atribuzio-berboak asimetria moderatuarekin.", "gl": "Verbos de atribucion con asimetria moderada." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. Las columnas del director y los analisis tienen tinte editorial que no siempre se etiqueta.", "en": "Differentiated opinion section. Director columns and analyses have editorial tint not always labeled.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita.", "gl": "Seccion de opinion diferenciada." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.00, "criteria": {
+            "coverageBalance": { "score": 5, "justification": { "es": "Sesgo critico con el Gobierno en la seleccion de temas. Las exclusivas se enfocan mas en escandalos del Gobierno.", "en": "Government-critical bias in topic selection. Exclusives focus more on Government scandals.", "ca": "Biaix critic amb el Govern en seleccio de temes.", "eu": "Joera kritikoa Gobernuarekin gaien hautaketan.", "gl": "Nesgo critico co Goberno na seleccion de temas." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial moderada. Mayor escrutinio al Gobierno que a la oposicion.", "en": "Moderate editorial asymmetry. Greater scrutiny of Government than opposition.", "ca": "Asimetria editorial moderada.", "eu": "Asimetria editorial moderatua.", "gl": "Asimetria editorial moderada." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con perspectiva critica-liberal. Pedro J. Ramirez imprime un enfoque editorial critico con el Gobierno de coalicion.", "en": "Critical-liberal narrative framing perspective. Pedro J. Ramirez imprints a critical editorial focus on the coalition Government.", "ca": "Enquadrament narratiu amb perspectiva critica-liberal.", "eu": "Narrazio-markaketa perspektiba kritiko-liberalarekin.", "gl": "Encadramento narrativo con perspectiva critica-liberal." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas con ligero sesgo. Las encuestas desfavorables al Gobierno reciben mas cobertura.", "en": "Slightly biased poll treatment. Government-unfavorable polls receive more coverage.", "ca": "Tractament d'enquestes amb lleuger biaix.", "eu": "Inkesten trataera joera txikiarekin.", "gl": "Tratamento de enquisas con lixeiro nesgo." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 6.00, "criteria": {
+            "photoSelection": { "score": 6, "justification": { "es": "Seleccion fotografica profesional con ligera asimetria en la representacion de actores politicos.", "en": "Professional photo selection with slight asymmetry in political actor representation.", "ca": "Seleccio fotografica professional amb lleugera asimetria.", "eu": "Argazki-hautaketa profesionala asimetria txikiarekin.", "gl": "Seleccion fotografica profesional con lixeira asimetria." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.33, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Pedro J. Ramirez como propietario y director es conocido. Estructura accionarial menos transparente.", "en": "Pedro J. Ramirez as owner and director is known. Shareholding structure less transparent.", "ca": "Pedro J. Ramirez com a propietari i director es conegut.", "eu": "Pedro J. Ramirez jabea eta zuzendari gisa ezaguna da.", "gl": "Pedro J. Ramirez como propietario e director e conecido." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 5, "justification": { "es": "Recibe publicidad institucional. La proporcion no se publica. Modelo de negocio mixto.", "en": "Receives institutional advertising. Proportion not published. Mixed business model.", "ca": "Rep publicitat institucional.", "eu": "Publizitate instituzionala jasotzen du.", "gl": "Recibe publicidade institucional." }, "evidence": [] },
+            "conflictOfInterest": { "score": 4, "justification": { "es": "El director-propietario como unica referencia editorial genera concentracion de poder. La relacion entre Pedro J. Ramirez y actores politicos puede condicionar la cobertura.", "en": "Director-owner as sole editorial reference generates power concentration. Pedro J. Ramirez's relationship with political actors may condition coverage.", "ca": "El director-propietari genera concentracio de poder.", "eu": "Zuzendari-jabeak erreferentzia editorial bakarra izateak botere-kontzentrazioa sortzen du.", "gl": "O director-propietario xera concentracion de poder." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 6.05,
+      "overallGrade": "B"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "onda-cero",
+  "slug": "onda-cero",
+  "name": "Onda Cero",
+  "logo": "/logos/onda-cero.png",
+  "website": "https://www.ondacero.es",
+  "type": "radio",
+  "ownership": {
+    "company": "Atresmedia Corporacion",
+    "shareholders": ["Planeta DeAgostini (Grupo Planeta, ~42%)"],
+    "governmentFunding": false,
+    "fundingNotes": "Part of Atresmedia group alongside Antena 3 and La Sexta. Revenue from commercial advertising. Third-largest radio station in Spain."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.13,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.80, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en informativos. Periodistas experimentados bien identificados.", "en": "Good source identification in newscasts. Experienced journalists well identified.", "ca": "Bona identificacio de fonts en informatius.", "eu": "Iturrien identifikazio ona informatiboetan.", "gl": "Boa identificacion de fontes en informativos." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Tertulias con cierta pluralidad pero con tendencia centro-liberal.", "en": "Moderate diversity. Discussions with some plurality but center-liberal tendency.", "ca": "Diversitat moderada. Tertulies amb tendencia centre-liberal.", "eu": "Aniztasun moderatua. Solasaldiak aniztasun batekin baina joera zentro-liberalarekin.", "gl": "Diversidade moderada. Tertulias con tendencia centro-liberal." }, "evidence": [] },
+            "directLinking": { "score": 5, "justification": { "es": "Formato radiofonico limita enlaces. La web complementa con algunos enlaces.", "en": "Radio format limits links. Website complements with some links.", "ca": "Format radiofonic limita enllacos.", "eu": "Irrati-formatuak estekak mugatzen ditu.", "gl": "Formato radiofonico limita enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion complementaria moderada en la web. Mejora en contenido digital propio.", "en": "Moderate complementary documentation on the website. Improvement in own digital content.", "ca": "Documentacio complementaria moderada a la web.", "eu": "Webeko dokumentazio osagarri moderatua.", "gl": "Documentacion complementaria moderada na web." }, "evidence": [] },
+            "rawDataAccess": { "score": 5, "justification": { "es": "Contenido de datos basico en la web. Sin seccion de datos brutos.", "en": "Basic data content on website. No raw data section.", "ca": "Contingut de dades basic a la web.", "eu": "Oinarrizko datu-edukia webean.", "gl": "Contido de datos basico na web." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.33, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente pero poco visible. Errores se corrigen en antena cuando se detectan.", "en": "Corrections policy exists but not very visible. Errors corrected on air when detected.", "ca": "Politica de correccions existent.", "eu": "Zuzenketa-politika existitzen da.", "gl": "Politica de correccions existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores moderada-baja. Informativos con precision aceptable.", "en": "Moderate-low error ratio. Newscasts with acceptable accuracy.", "ca": "Ratio d'errors moderada-baixa.", "eu": "Akatsen ratio moderatu-baxua.", "gl": "Ratio de erros moderada-baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada. Los errores significativos se corrigen en emisiones posteriores.", "en": "Moderate rectification. Significant errors corrected in subsequent broadcasts.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares web moderadamente alineados. Los programas de radio son fieles al contenido.", "en": "Moderately aligned web headlines. Radio programs are faithful to content.", "ca": "Titulars web moderadament alineats.", "eu": "Web titularrak moderatuki lerratuta.", "gl": "Titulares web moderadamente alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales en contenido web.", "en": "Timestamps in web content.", "ca": "Marques temporals en contingut web.", "eu": "Denbora-markak web edukian.", "gl": "Marcas temporais en contido web." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia en la web correcto y atribuido. Podcasts de calidad profesional.", "en": "Correct and attributed multimedia on the website. Professional quality podcasts.", "ca": "Material multimedia correcte a la web.", "eu": "Webeko multimedia materiala zuzena.", "gl": "Material multimedia correcto na web." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Seleccion de expertos moderada en tertulias. Mayor pluralidad que COPE pero menor que SER.", "en": "Moderate expert selection in discussions. Greater plurality than COPE but less than SER.", "ca": "Seleccio d'experts moderada.", "eu": "Adituen hautaketa moderatua solasaldietan.", "gl": "Seleccion de expertos moderada." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.75, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Periodistas identificados en antena y web.", "en": "Journalists identified on air and web.", "ca": "Periodistes identificats.", "eu": "Kazetariak identifikatuak.", "gl": "Xornalistas identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 4, "justification": { "es": "Sin Defensor del Oyente. Sin mecanismo formal de rendicion de cuentas.", "en": "No Listener Ombudsman. No formal accountability mechanism.", "ca": "Sense Defensor de l'Oient.", "eu": "Entzuleen Defendatzailerik gabe.", "gl": "Sen Defensor do Ointe." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Publicidad radiofonica regulada. Menciones integradas de presentadores difuminan la linea.", "en": "Regulated radio advertising. Integrated anchor mentions blur the line.", "ca": "Publicitat radiofonica regulada.", "eu": "Irrati-publizitatea erregulatua.", "gl": "Publicidade radiofonica regulada." }, "evidence": [] },
+            "aiDisclosure": { "score": 6, "justification": { "es": "Incipiente transparencia sobre herramientas digitales, alineada con la politica de Atresmedia.", "en": "Nascent transparency on digital tools, aligned with Atresmedia policy.", "ca": "Incipient transparencia sobre eines digitals.", "eu": "Hasierako gardentasuna tresna digitalei buruz.", "gl": "Incipiente transparencia sobre ferramentas dixitais." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.67,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.33, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. Estilo mas mesurado que COPE. Informativos con tono profesional.", "en": "Moderate adjectival load. More measured style than COPE. Newscasts with professional tone.", "ca": "Carrega adjectival moderada.", "eu": "Karga adjektibal moderatua.", "gl": "Carga adxectival moderada." }, "evidence": [] },
+            "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros en informativos. Mayor carga en tertulias.", "en": "Generally neutral attribution verbs in newscasts. Higher charge in discussions.", "ca": "Verbs d'atribucio generalment neutres.", "eu": "Atribuzio-berbo orokorrean neutroak.", "gl": "Verbos de atribucion xeralmente neutros." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Informativos separados de tertulias. Programas matinales combinan informacion y analisis.", "en": "Newscasts separated from discussions. Morning programs combine information and analysis.", "ca": "Informatius separats de tertulies.", "eu": "Informatiboak solasaldietatik bereizita.", "gl": "Informativos separados de tertulias." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.25, "criteria": {
+            "coverageBalance": { "score": 6, "justification": { "es": "Cobertura razonablemente equilibrada con ligero sesgo centro-liberal.", "en": "Reasonably balanced coverage with slight center-liberal bias.", "ca": "Cobertura raonablement equilibrada.", "eu": "Estaldura arrazoiz orekatua.", "gl": "Cobertura razoablemente equilibrada." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Simetria editorial moderada. Influencia de la linea editorial de Atresmedia.", "en": "Moderate editorial symmetry. Atresmedia editorial line influence.", "ca": "Simetria editorial moderada.", "eu": "Simetria editorial moderatua.", "gl": "Simetria editorial moderada." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con tendencia centro-liberal moderada. En economia, perspectiva liberal.", "en": "Moderate center-liberal narrative framing tendency. Liberal perspective in economics.", "ca": "Enquadrament narratiu centre-liberal moderat.", "eu": "Narrazio-markaketa zentro-liberal moderatua.", "gl": "Encadramento narrativo centro-liberal moderado." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas estandar con ficha tecnica. Sin sesgo marcado.", "en": "Standard poll treatment with technical sheets. No marked bias.", "ca": "Tractament d'enquestes estandard.", "eu": "Inkesten trataera estandarra.", "gl": "Tratamento de enquisas estandar." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 7.00, "criteria": {
+            "photoSelection": { "score": 7, "justification": { "es": "Material visual web equilibrado. La naturaleza radiofonica limita el impacto visual.", "en": "Balanced web visual material. Radio nature limits visual impact.", "ca": "Material visual web equilibrat.", "eu": "Webeko material bisual orekatua.", "gl": "Material visual web equilibrado." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.00, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Atresmedia grupo cotizado con estructura publica.", "en": "Atresmedia listed group with public structure.", "ca": "Atresmedia grup cotitzat.", "eu": "Atresmedia talde kotizatua.", "gl": "Atresmedia grupo cotizado." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Recibe publicidad institucional. Proporcion no desglosada.", "en": "Receives institutional advertising. Proportion not broken down.", "ca": "Rep publicitat institucional.", "eu": "Publizitate instituzionala jasotzen du.", "gl": "Recibe publicidade institucional." }, "evidence": [] },
+            "conflictOfInterest": { "score": 4, "justification": { "es": "Cobertura de Grupo Planeta y Atresmedia condicionada. Conflictos comunes al grupo.", "en": "Grupo Planeta and Atresmedia coverage conditioned. Common group conflicts.", "ca": "Cobertura del Grup Planeta condicionada.", "eu": "Planeta Taldearen estaldura baldintzatua.", "gl": "Cobertura do Grupo Planeta condicionada." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.95,
+      "overallGrade": "B"
+    }
+  ]
+}

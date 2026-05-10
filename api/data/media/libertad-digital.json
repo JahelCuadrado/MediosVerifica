@@ -1,0 +1,78 @@
+{
+  "id": "libertad-digital",
+  "slug": "libertad-digital",
+  "name": "Libertad Digital",
+  "logo": "/logos/libertad-digital.png",
+  "website": "https://www.libertaddigital.com",
+  "type": "digital-native",
+  "ownership": {
+    "company": "Libertad Digital S.A.",
+    "shareholders": ["Federico Jimenez Losantos (fundador y director)", "Inversores privados"],
+    "governmentFunding": false,
+    "fundingNotes": "Founded in 2000 by Federico Jimenez Losantos. Revenue from advertising and esRadio. Known for right-wing conservative editorial line."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 4.60,
+        "grade": "C",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 4.40, "criteria": {
+            "sourceIdentifiability": { "score": 5, "justification": { "es": "Identificacion de fuentes deficiente en informacion politica. Alta dependencia de fuentes anonimas en exclusivas politicas.", "en": "Deficient source identification in political information. High dependence on anonymous sources in political exclusives.", "ca": "Identificacio de fonts deficient en politica.", "eu": "Iturrien identifikazio eskasa informazio politikoan.", "gl": "Identificacion de fontes deficiente en politica." }, "evidence": [] },
+            "sourceDiversity": { "score": 4, "justification": { "es": "Diversidad de fuentes muy baja. Las fuentes son casi exclusivamente conservadoras y criticas con la izquierda. Voces progresistas solo en contexto de critica.", "en": "Very low source diversity. Sources almost exclusively conservative and left-critical. Progressive voices only in critical context.", "ca": "Diversitat de fonts molt baixa.", "eu": "Iturrien aniztasun oso baxua.", "gl": "Diversidade de fontes moi baixa." }, "evidence": [] },
+            "directLinking": { "score": 4, "justification": { "es": "Enlaces a fuentes primarias escasos. Predominan enlaces internos y a fuentes del propio ecosistema mediatico.", "en": "Scarce links to primary sources. Internal links and own media ecosystem sources predominate.", "ca": "Enllacos a fonts primaries escassos.", "eu": "Iturri primariotarako esteka gutxi.", "gl": "Enlaces a fontes primarias escasos." }, "evidence": [] },
+            "attachedDocumentation": { "score": 4, "justification": { "es": "Documentacion adjunta infrecuente. El formato es mas de opinion y analisis que de investigacion documentada.", "en": "Infrequent attached documentation. Format is more opinion and analysis than documented investigation.", "ca": "Documentacio adjunta infrequent.", "eu": "Erantsitako dokumentazioa gutxitan.", "gl": "Documentacion adxunta infrecuente." }, "evidence": [] },
+            "rawDataAccess": { "score": 5, "justification": { "es": "Sin seccion de datos brutos. Contenido basado en opinion y analisis mas que en datos.", "en": "No raw data section. Content based on opinion and analysis rather than data.", "ca": "Sense seccio de dades brutes.", "eu": "Datu gordinetako atalik gabe.", "gl": "Sen seccion de datos brutos." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 4.33, "criteria": {
+            "correctionsPolicy": { "score": 4, "justification": { "es": "Politica de correcciones practicamente inexistente. Los errores no se reconocen formalmente.", "en": "Practically nonexistent corrections policy. Errors not formally acknowledged.", "ca": "Politica de correccions practicament inexistent.", "eu": "Ia existitzen ez den zuzenketa-politika.", "gl": "Politica de correccions practicamente inexistente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 5, "justification": { "es": "Ratio de errores moderada-alta. Verificadores han senalado informaciones enganosas o descontextualizadas.", "en": "Moderate-high error ratio. Fact-checkers have flagged misleading or decontextualized information.", "ca": "Ratio d'errors moderada-alta.", "eu": "Akatsen ratio moderatu-altua.", "gl": "Ratio de erros moderada-alta." }, "evidence": [] },
+            "proactiveRectification": { "score": 4, "justification": { "es": "Rectificacion practicamente inexistente. Las informaciones desmentidas rara vez se corrigen.", "en": "Practically nonexistent rectification. Debunked information rarely corrected.", "ca": "Rectificacio practicament inexistent.", "eu": "Ia existitzen ez den zuzenketa.", "gl": "Rectificacion practicamente inexistente." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 4.75, "criteria": {
+            "headlineBodyConsistency": { "score": 4, "justification": { "es": "Titulares frecuentemente sensacionalistas y con carga ideologica. Exageracion sistematica en temas politicos.", "en": "Frequently sensationalist and ideologically charged headlines. Systematic exaggeration in political topics.", "ca": "Titulars sensacionalistes amb carrega ideologica.", "eu": "Titular sentsazionalistak eta karga ideologikoa dutenak maiz.", "gl": "Titulares sensacionalistas con carga ideoloxica." }, "evidence": [] },
+            "updateTimestamp": { "score": 6, "justification": { "es": "Marcas temporales presentes en articulos web.", "en": "Timestamps present in web articles.", "ca": "Marques temporals presents.", "eu": "Denbora-markak web artikuluetan.", "gl": "Marcas temporais presentes." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 5, "justification": { "es": "Seleccion multimedia con sesgo ideologico. Imagenes seleccionadas para reforzar la narrativa editorial.", "en": "Ideologically biased multimedia selection. Images selected to reinforce editorial narrative.", "ca": "Seleccio multimedia amb biaix ideologic.", "eu": "Multimedia hautaketa joera ideologikoarekin.", "gl": "Seleccion multimedia con nesgo ideoloxixo." }, "evidence": [] },
+            "expertRelevance": { "score": 4, "justification": { "es": "Seleccion de expertos con sesgo conservador extremo. Los analistas son exclusivamente del espectro de derechas.", "en": "Expert selection with extreme conservative bias. Analysts exclusively from right-wing spectrum.", "ca": "Seleccio d'experts amb biaix conservador extrem.", "eu": "Adituen hautaketa joera kontserbadore muturreko.", "gl": "Seleccion de expertos con nesgo conservador extremo." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.00, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos firmados. Federico Jimenez Losantos con maxima visibilidad editorial.", "en": "Signed articles. Federico Jimenez Losantos with maximum editorial visibility.", "ca": "Articles signats.", "eu": "Sinatutako artikuluak.", "gl": "Artigos asinados." }, "evidence": [] },
+            "editorialAccountability": { "score": 3, "justification": { "es": "Sin mecanismo de rendicion de cuentas. El director es la unica referencia editorial sin contrapesos.", "en": "No accountability mechanism. Director is sole editorial reference without counterweights.", "ca": "Sense mecanisme de rendicio de comptes.", "eu": "Kontu-emateko mekanismorik gabe.", "gl": "Sen mecanismo de rendicion de contas." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 5, "justification": { "es": "Separacion deficiente. Los formatos publicitarios nativos se integran con el contenido editorial.", "en": "Deficient separation. Native advertising formats integrate with editorial content.", "ca": "Separacio deficient.", "eu": "Banaketa eskasa.", "gl": "Separacion deficiente." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica sobre uso de IA.", "en": "No policy on AI usage.", "ca": "Sense politica sobre IA.", "eu": "IAri buruzko politikarik gabe.", "gl": "Sen politica sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 2.97,
+        "grade": "D",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 3.33, "criteria": {
+            "adjectiveLoad": { "score": 3, "justification": { "es": "Carga adjetival extrema. Los articulos politicos estan saturados de calificativos negativos contra la izquierda, el Gobierno, el independentismo y el feminismo.", "en": "Extreme adjectival load. Political articles saturated with negative qualifiers against left, Government, independence movement and feminism.", "ca": "Carrega adjectival extrema.", "eu": "Karga adjektibal muturrekoa.", "gl": "Carga adxectival extrema." }, "evidence": [] },
+            "attributionVerbs": { "score": 3, "justification": { "es": "Verbos de atribucion con connotacion extrema. El Gobierno y la izquierda sistematicamente demonizados en el lenguaje.", "en": "Extreme connotative attribution verbs. Government and left systematically demonized in language.", "ca": "Verbs d'atribucio amb connotacio extrema.", "eu": "Konnotazio muturreko atribuzio-berboak.", "gl": "Verbos de atribucion con connotacion extrema." }, "evidence": [] },
+            "opinionLabeling": { "score": 4, "justification": { "es": "Fronteras entre informacion y opinion muy difusas. Practicamente todo el contenido tiene carga editorial.", "en": "Very blurred boundaries between information and opinion. Practically all content has editorial charge.", "ca": "Fronteres molt difuses entre informacio i opinio.", "eu": "Informazioaren eta iritziaren arteko muga oso lausoak.", "gl": "Fronteiras moi difusas entre informacion e opinion." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 2.50, "criteria": {
+            "coverageBalance": { "score": 2, "justification": { "es": "Desequilibrio extremo. Cobertura dominada por criticas a la izquierda y al Gobierno. Los escandalos conservadores son ignorados o justificados.", "en": "Extreme imbalance. Coverage dominated by left and Government criticism. Conservative scandals ignored or justified.", "ca": "Desequilibri extrem.", "eu": "Desoreka muturrekoa.", "gl": "Desequilibrio extremo." }, "evidence": [] },
+            "editorialSymmetry": { "score": 2, "justification": { "es": "Asimetria editorial total. Cero escrutinio a la derecha y maximo a la izquierda.", "en": "Total editorial asymmetry. Zero scrutiny of right and maximum of left.", "ca": "Asimetria editorial total.", "eu": "Asimetria editorial osoa.", "gl": "Asimetria editorial total." }, "evidence": [] },
+            "narrativeFraming": { "score": 3, "justification": { "es": "Encuadre narrativo ideologico radical. Todo se enmarca desde la guerra cultural contra la izquierda.", "en": "Radical ideological narrative framing. Everything framed from culture war against the left.", "ca": "Enquadrament narratiu ideologic radical.", "eu": "Narrazio-markaketa ideologiko erradikala.", "gl": "Encadramento narrativo ideoloxixo radical." }, "evidence": [] },
+            "surveyTreatment": { "score": 3, "justification": { "es": "Tratamiento de encuestas con sesgo extremo. El CIS sistematicamente desacreditado. Solo encuestas favorables a la derecha reciben cobertura positiva.", "en": "Extreme poll treatment bias. CIS systematically discredited. Only right-favorable polls receive positive coverage.", "ca": "Tractament d'enquestes amb biaix extrem.", "eu": "Inkesten trataera joera muturreko.", "gl": "Tratamento de enquisas con nesgo extremo." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 3.00, "criteria": {
+            "photoSelection": { "score": 3, "justification": { "es": "Seleccion fotografica con sesgo ideologico marcado. Imagenes deliberadamente desfavorecedoras de politicos de izquierda.", "en": "Photo selection with marked ideological bias. Deliberately unflattering images of left-wing politicians.", "ca": "Seleccio fotografica amb biaix ideologic marcat.", "eu": "Argazki-hautaketa joera ideologiko markatuarekin.", "gl": "Seleccion fotografica con nesgo ideoloxixo marcado." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 3.00, "criteria": {
+            "ownershipTransparency": { "score": 4, "justification": { "es": "Propiedad de Federico Jimenez Losantos conocida pero estructura accionarial detallada opaca.", "en": "Federico Jimenez Losantos ownership known but detailed shareholding structure opaque.", "ca": "Propietat coneguda pero estructura opaca.", "eu": "Jabetza ezaguna baina akziodunen egitura xehatua opakua.", "gl": "Propiedade conecida pero estrutura opaca." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 3, "justification": { "es": "Recibe publicidad institucional de comunidades gobernadas por la derecha. Proporcion no transparente.", "en": "Receives institutional advertising from right-governed communities. Proportion not transparent.", "ca": "Rep publicitat institucional de comunitats de dretes.", "eu": "Eskuinak gobernatutako erkidegoetatik publizitate instituzionala jasotzen du.", "gl": "Recibe publicidade institucional de comunidades de dereitas." }, "evidence": [] },
+            "conflictOfInterest": { "score": 2, "justification": { "es": "Conflictos de interes severos no declarados. La relacion entre la linea editorial ultraconservadora y los vinculos politicos del director genera conflictos estructurales no transparentes.", "en": "Severe undeclared conflicts of interest. Relationship between ultraconservative editorial line and director's political links generates non-transparent structural conflicts.", "ca": "Conflictes d'interes severs no declarats.", "eu": "Aitortu gabeko interes-gatazka larriak.", "gl": "Conflitos de interese severos non declarados." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 3.95,
+      "overallGrade": "C"
+    }
+  ]
+}

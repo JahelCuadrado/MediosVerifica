@@ -1,0 +1,110 @@
+{
+  "id": "el-confidencial",
+  "slug": "el-confidencial",
+  "name": "El Confidencial",
+  "logo": "/logos/el-confidencial.png",
+  "website": "https://www.elconfidencial.com",
+  "type": "digital-native",
+  "ownership": {
+    "company": "Titania Compania Editorial S.L.",
+    "shareholders": ["Grupo Titania (fundadores y equipo directivo)", "Inversores institucionales minoritarios"],
+    "governmentFunding": false,
+    "fundingNotes": "Independent digital-native outlet. Revenue primarily from advertising and branded content. One of Spain's most-read digital newspapers."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 7.43,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": {
+            "weight": 0.30,
+            "score": 7.40,
+            "criteria": {
+              "sourceIdentifiability": { "score": 8, "justification": { "es": "Alta calidad en identificacion de fuentes. Los articulos de investigacion son referencia en el sector. Las fuentes anonimas se utilizan con rigor editorial.", "en": "High quality source identification. Investigative articles are a sector reference. Anonymous sources used with editorial rigor.", "ca": "Alta qualitat en identificacio de fonts. Els articles d'investigacio son referencia al sector.", "eu": "Kalitate altua iturrien identifikazioan. Ikerketa-artikuluak sektorearen erreferentzia dira.", "gl": "Alta calidade en identificacion de fontes. Os artigos de investigacion son referencia no sector." }, "evidence": [] },
+              "sourceDiversity": { "score": 8, "justification": { "es": "Buena diversidad de fuentes. El Confidencial mantiene una linea editorial liberal que permite cubrir criticas tanto al Gobierno como a la oposicion con fuentes diversas.", "en": "Good source diversity. El Confidencial maintains a liberal editorial line that allows covering criticism of both Government and opposition with diverse sources.", "ca": "Bona diversitat de fonts. Linia editorial liberal que permet cobrir critiques a Govern i oposicio.", "eu": "Iturrien aniztasun ona. Lerro editorial liberalak Gobernuarekiko eta oposizioaren aurkako kritikak estaltzea ahalbidetzen du.", "gl": "Boa diversidade de fontes. Lina editorial liberal que permite cubrir criticas a Goberno e oposicion." }, "evidence": [] },
+              "directLinking": { "score": 7, "justification": { "es": "Buen uso de enlaces a fuentes primarias, especialmente en contenidos de EC Brands Lab y periodismo de datos. Mejora continua respecto a anos anteriores.", "en": "Good use of links to primary sources, especially in EC Brands Lab and data journalism content. Continuous improvement over previous years.", "ca": "Bon us d'enllacos a fonts primaries, especialment en periodisme de dades.", "eu": "Iturri primariotarako esteken erabilera ona, bereziki datu-kazetaritzan.", "gl": "Bo uso de enlaces a fontes primarias, especialmente en xornalismo de datos." }, "evidence": [] },
+              "attachedDocumentation": { "score": 7, "justification": { "es": "Documentacion adjunta frecuente en investigaciones. El Confidencial es referencia en periodismo de investigacion espanol con documentacion de soporte.", "en": "Frequent attached documentation in investigations. El Confidencial is a reference in Spanish investigative journalism with supporting documentation.", "ca": "Documentacio adjunta frequent en investigacions. Referencia en periodisme d'investigacio espanyol.", "eu": "Erantsitako dokumentazioa maiz ikerketetan. Espainiako ikerketa-kazetaritzaren erreferentzia.", "gl": "Documentacion adxunta frecuente en investigacions. Referencia en xornalismo de investigacion espanol." }, "evidence": [] },
+              "rawDataAccess": { "score": 7, "justification": { "es": "Seccion de datos e infografias interactivas de alta calidad. EC Data ofrece visualizaciones avanzadas y acceso a metodologias de analisis.", "en": "High-quality data section and interactive infographics. EC Data offers advanced visualizations and access to analysis methodologies.", "ca": "Seccio de dades i infografies interactives d'alta qualitat. EC Data ofereix visualitzacions avancades.", "eu": "Datu-atal eta infografia interaktibo kalitate handikoak. EC Datak bistaratzeak eta analisi-metodologiak eskaintzen ditu.", "gl": "Seccion de datos e infografias interactivas de alta calidade. EC Data ofrece visualizacions avanzadas." }, "evidence": [] }
+            }
+          },
+          "errorManagement": {
+            "weight": 0.25,
+            "score": 7.33,
+            "criteria": {
+              "correctionsPolicy": { "score": 7, "justification": { "es": "Politica de correcciones visible con notas de actualizacion en articulos modificados. No dispone de seccion de fe de erratas dedicada pero las correcciones son transparentes.", "en": "Visible corrections policy with update notes in modified articles. No dedicated errata section but corrections are transparent.", "ca": "Politica de correccions visible amb notes d'actualitzacio. Les correccions son transparents.", "eu": "Zuzenketa-politika ikusgarria eguneratze-oharrekin. Zuzenketak gardenak dira.", "gl": "Politica de correccions visible con notas de actualizacion. As correccions son transparentes." }, "evidence": [] },
+              "verifiedErrorRatio": { "score": 8, "justification": { "es": "Ratio de errores baja. La precision factual es una de las principales fortalezas del medio, especialmente en contenidos de investigacion.", "en": "Low error ratio. Factual accuracy is one of the outlet's main strengths, especially in investigative content.", "ca": "Ratio d'errors baixa. La precisio factual es una de les principals fortaleses del mitja.", "eu": "Akatsen ratio baxua. Zehaztasun faktuala hedabidearen indarguneetako bat da.", "gl": "Ratio de erros baixa. A precision factual e unha das principais fortalezas do medio." }, "evidence": [] },
+              "proactiveRectification": { "score": 7, "justification": { "es": "Rectificacion razonablemente proactiva. Los errores en exclusivas se corrigen rapidamente para proteger la credibilidad del medio.", "en": "Reasonably proactive rectification. Errors in exclusives are corrected quickly to protect the outlet's credibility.", "ca": "Rectificacio raonablement proactiva. Els errors en exclusives es corregeixen rapidament.", "eu": "Zuzenketa arrazoiz proaktiboa. Esklusibetako akatsak azkar zuzentzen dira hedabidearen sinesgarritasuna babesteko.", "gl": "Rectificacion razoablemente proactiva. Os erros en exclusivas corrixense rapidamente." }, "evidence": [] }
+            }
+          },
+          "informationQuality": {
+            "weight": 0.25,
+            "score": 7.50,
+            "criteria": {
+              "headlineBodyConsistency": { "score": 7, "justification": { "es": "Titulares generalmente alineados con el contenido. Menor sensacionalismo que competidores aunque algunos titulares buscan impacto digital.", "en": "Headlines generally aligned with content. Less sensationalism than competitors though some headlines seek digital impact.", "ca": "Titulars generalment alineats amb el contingut. Menor sensacionalisme que competidors.", "eu": "Titularrak orokorrean edukiarekin lerratuta. Lehiakideek baino sentsazionalismo gutxiago.", "gl": "Titulares xeralmente alinados co contido. Menor sensacionalismo que competidores." }, "evidence": [] },
+              "updateTimestamp": { "score": 8, "justification": { "es": "Marcas temporales claras en todos los articulos. Formato profesional con fecha y hora de publicacion y actualizacion.", "en": "Clear timestamps on all articles. Professional format with publication and update date and time.", "ca": "Marques temporals clares en tots els articles. Format professional.", "eu": "Denbora-marka argiak artikulu guztietan. Formatu profesionala.", "gl": "Marcas temporais claras en todos os artigos. Formato profesional." }, "evidence": [] },
+              "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia profesional y correctamente atribuido. Infografias de alta calidad integradas en el contenido.", "en": "Professional and correctly attributed multimedia material. High-quality infographics integrated in content.", "ca": "Material multimedia professional i correctament atribuit. Infografies d'alta qualitat.", "eu": "Multimedia material profesionala eta behar bezala esleitua. Kalitate handiko infografiak.", "gl": "Material multimedia profesional e correctamente atribuido. Infografias de alta calidade." }, "evidence": [] },
+              "expertRelevance": { "score": 8, "justification": { "es": "Excelente seleccion de expertos. La seccion de economia y tecnologia recurre a especialistas reconocidos. Buena diversidad de perspectivas expertas.", "en": "Excellent expert selection. Economy and technology sections use recognized specialists. Good diversity of expert perspectives.", "ca": "Excel·lent seleccio d'experts. Bona diversitat de perspectives expertes.", "eu": "Adituen hautaketa bikaina. Ekonomia eta teknologia atalek aditu ospetsuak erabiltzen dituzte.", "gl": "Excelente seleccion de expertos. Boa diversidade de perspectivas expertas." }, "evidence": [] }
+            }
+          },
+          "outletIdentity": {
+            "weight": 0.20,
+            "score": 7.50,
+            "criteria": {
+              "authorship": { "score": 9, "justification": { "es": "Articulos firmados con perfiles detallados de los periodistas. Equipo de investigacion reconocible con trayectorias profesionales visibles.", "en": "Articles signed with detailed journalist profiles. Recognizable investigation team with visible professional trajectories.", "ca": "Articles signats amb perfils detallats dels periodistes. Equip d'investigacio reconeixible.", "eu": "Artikuluak kazetarien profil xehatuekin sinatuak. Ikerketa-talde ezaguna ibilbide profesional ikusgarriekin.", "gl": "Artigos asinados con perfis detallados dos xornalistas. Equipo de investigacion reconecible." }, "evidence": [] },
+              "editorialAccountability": { "score": 6, "justification": { "es": "Sin Defensor del Lector formal. La rendicion de cuentas se realiza a traves de la reputacion del medio y la calidad de las exclusivas. No existe canal estructurado de quejas editoriales.", "en": "No formal Reader's Ombudsman. Accountability through outlet reputation and exclusive quality. No structured editorial complaints channel.", "ca": "Sense Defensor del Lector formal. La rendicio de comptes es basa en la reputacio del mitja.", "eu": "Irakurleen Defendatzaile formalik gabe. Kontu-ematea hedabidearen ospea eta esklusiben kalitatearen bidez.", "gl": "Sen Defensor do Lector formal. A rendicion de contas baseada na reputacion do medio." }, "evidence": [] },
+              "editorialAdSeparation": { "score": 7, "justification": { "es": "Contenido patrocinado etiquetado como 'EC Brands'. La separacion es visible aunque la estetica es similar al contenido editorial.", "en": "Sponsored content labeled as 'EC Brands'. Separation is visible though aesthetics are similar to editorial content.", "ca": "Contingut patrocinat etiquetat com 'EC Brands'. La separacio es visible.", "eu": "Babestutako edukia 'EC Brands' gisa etiketatuta. Banaketa ikusgarria da.", "gl": "Contido patrocinado etiquetado como 'EC Brands'. A separacion e visible." }, "evidence": [] },
+              "aiDisclosure": { "score": 8, "justification": { "es": "Uno de los medios espanoles mas transparentes sobre uso de IA. Ha publicado directrices internas y etiqueta contenidos asistidos por IA.", "en": "One of the most transparent Spanish outlets on AI usage. Has published internal guidelines and labels AI-assisted content.", "ca": "Un dels mitjans espanyols mes transparents sobre l'us d'IA. Etiqueta continguts assistits per IA.", "eu": "IAren erabilerari buruz gardenena den Espainiako hedabideetako bat. IArekin lagundutako edukiak etiketatzen ditu.", "gl": "Un dos medios espanois mais transparentes sobre o uso de IA. Etiqueta contidos asistidos por IA." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "neutrality": {
+        "score": 6.53,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": {
+            "weight": 0.30,
+            "score": 7.00,
+            "criteria": {
+              "adjectiveLoad": { "score": 7, "justification": { "es": "Carga adjetival moderada-baja. El tono general es mas analitico que valorativo. Menor carga editorial que periodicos con linea ideologica marcada.", "en": "Moderate-low adjectival load. General tone is more analytical than evaluative. Lower editorial charge than newspapers with marked ideological lines.", "ca": "Carrega adjectival moderada-baixa. To general mes analitic que valoratiu.", "eu": "Karga adjektibal moderatu-baxua. Tonu orokorra analitikoa da baloratiboen gainetik.", "gl": "Carga adxectival moderada-baixa. Ton xeral mais analitico que valorativo." }, "evidence": [] },
+              "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros. Menor asimetria que la mayoria de competidores ideologicamente posicionados.", "en": "Generally neutral attribution verbs. Less asymmetry than most ideologically positioned competitors.", "ca": "Verbs d'atribucio generalment neutres. Menor asimetria que la majoria de competidors.", "eu": "Atribuzio-berbo orokorrean neutroak. Asimetria gutxiago lehiakide ideologikoki kokatuekin alderatuta.", "gl": "Verbos de atribucion xeralmente neutros. Menor asimetria que a maioría dos competidores." }, "evidence": [] },
+              "opinionLabeling": { "score": 7, "justification": { "es": "Seccion de opinion (Tribunas) bien diferenciada. Los analisis economicos a veces adoptan perspectiva liberal sin etiquetado explicito.", "en": "Opinion section (Tribunas) well differentiated. Economic analyses sometimes adopt liberal perspective without explicit labeling.", "ca": "Seccio d'opinio (Tribunes) ben diferenciada. Les analisis economiques adopten perspectiva liberal.", "eu": "Iritzi-atala (Tribunak) ondo bereizita. Analisi ekonomikoak perspektiba liberala hartzen dute tartean.", "gl": "Seccion de opinion (Tribunas) ben diferenciada. As analises economicas adoptan perspectiva liberal." }, "evidence": [] }
+            }
+          },
+          "selectionFraming": {
+            "weight": 0.30,
+            "score": 6.50,
+            "criteria": {
+              "coverageBalance": { "score": 6, "justification": { "es": "Equilibrio razonable en cobertura politica. Investiga tanto escandalos del Gobierno como de la oposicion. Cierta preferencia por temas economicos y empresariales.", "en": "Reasonable balance in political coverage. Investigates both Government and opposition scandals. Some preference for economic and business topics.", "ca": "Equilibri raonable en cobertura politica. Investiga escandols de Govern i oposicio.", "eu": "Oreka arrazoigarria estaldura politikoan. Gobernuaren eta oposizioaren eskandalak ikertzen ditu.", "gl": "Equilibrio razoable en cobertura politica. Investiga escandalos de Goberno e oposicion." }, "evidence": [] },
+              "editorialSymmetry": { "score": 7, "justification": { "es": "Tratamiento editorial razonablemente simetrico. Aplica estandares de escrutinio similares a todos los actores politicos, aunque con mayor enfasis en temas economicos.", "en": "Reasonably symmetric editorial treatment. Applies similar scrutiny standards to all political actors, with greater emphasis on economic topics.", "ca": "Tractament editorial raonablement simetric. Aplica estandards similars a tots els actors politics.", "eu": "Trataera editorial arrazoiz simetrikoa. Gainbegiratze-estandar antzekoak aplikatzen dizkie aktore politiko guztiei.", "gl": "Tratamento editorial razoablemente simetrico. Aplica estandares similares a todos os actores politicos." }, "evidence": [] },
+              "narrativeFraming": { "score": 6, "justification": { "es": "Encuadre narrativo con perspectiva liberal. Las noticias economicas se enmarcan desde la eficiencia de mercado. Politica tratada con enfoque pragmatico mas que ideologico.", "en": "Liberal narrative framing perspective. Economic news framed from market efficiency angle. Politics treated with pragmatic rather than ideological approach.", "ca": "Enquadrament narratiu amb perspectiva liberal. Economia des de l'eficiencia de mercat.", "eu": "Narrazio-markaketa perspektiba liberalarekin. Albiste ekonomikoak merkatu-efizientziatik markatzen dira.", "gl": "Encadramento narrativo con perspectiva liberal. Economia dende a eficiencia de mercado." }, "evidence": [] },
+              "surveyTreatment": { "score": 7, "justification": { "es": "Tratamiento de encuestas profesional con ficha tecnica y contextualizacion. Menor sesgo que la mayoria de competidores en la presentacion de resultados.", "en": "Professional poll treatment with technical sheets and contextualization. Less bias than most competitors in result presentation.", "ca": "Tractament d'enquestes professional amb fitxa tecnica i contextualitzacio.", "eu": "Inkesten trataera profesionala fitxa tekniko eta testuinguratzerekin.", "gl": "Tratamento de enquisas profesional con ficha tecnica e contextualizacion." }, "evidence": [] }
+            }
+          },
+          "visualRepresentation": {
+            "weight": 0.10,
+            "score": 7.00,
+            "criteria": {
+              "photoSelection": { "score": 7, "justification": { "es": "Seleccion fotografica generalmente equilibrada. Material visual profesional sin sesgo partidista evidente.", "en": "Generally balanced photo selection. Professional visual material without evident partisan bias.", "ca": "Seleccio fotografica generalment equilibrada. Material visual professional sense biaix partidista.", "eu": "Argazki-hautaketa orokorrean orekatua. Material bisual profesionala alderdi-joera nabaririk gabe.", "gl": "Seleccion fotografica xeralmente equilibrada. Material visual profesional sen nesgo partidista." }, "evidence": [] }
+            }
+          },
+          "interestsFunding": {
+            "weight": 0.30,
+            "score": 6.00,
+            "criteria": {
+              "ownershipTransparency": { "score": 7, "justification": { "es": "Estructura de propiedad conocida. Grupo Titania identificado como propietario. Sin embargo, el desglose accionarial detallado no se publica de forma proactiva.", "en": "Ownership structure known. Grupo Titania identified as owner. However, detailed shareholding breakdown not proactively published.", "ca": "Estructura de propietat coneguda. Grup Titania identificat com a propietari.", "eu": "Jabetza-egitura ezaguna. Titania Taldea jabe gisa identifikatuta.", "gl": "Estrutura de propiedade conecida. Grupo Titania identificado como propietario." }, "evidence": [] },
+              "institutionalAdvertising": { "score": 5, "justification": { "es": "Recibe publicidad institucional de diversas administraciones. La proporcion no se desglosa publicamente. El modelo de negocio depende significativamente de la publicidad.", "en": "Receives institutional advertising from various administrations. Proportion not publicly broken down. Business model depends significantly on advertising.", "ca": "Rep publicitat institucional de diverses administracions. La proporcio no es desglossa publicament.", "eu": "Administrazio desberdinetatik publizitate instituzionala jasotzen du. Proportzioa ez da publikoki xehatzen.", "gl": "Recibe publicidade institucional de diversas administracions. A proporcion non se desglosa publicamente." }, "evidence": [] },
+              "conflictOfInterest": { "score": 6, "justification": { "es": "Menor conflicto de intereses que medios de grandes grupos por su independencia accionarial. La dependencia publicitaria es el principal factor de riesgo.", "en": "Lower conflicts of interest than large group media due to shareholding independence. Advertising dependence is the main risk factor.", "ca": "Menor conflicte d'interessos que mitjans de grans grups per la independencia accionarial.", "eu": "Interes-gatazka gutxiago talde handiko hedabideekin alderatuta akziodunen independentziagatik.", "gl": "Menor conflito de intereses que medios de grandes grupos pola independencia accionarial." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "overallScore": 7.07,
+      "overallGrade": "B"
+    }
+  ]
+}

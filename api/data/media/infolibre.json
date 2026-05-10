@@ -1,0 +1,78 @@
+{
+  "id": "infolibre",
+  "slug": "infolibre",
+  "name": "InfoLibre",
+  "logo": "/logos/infolibre.png",
+  "website": "https://www.infolibre.es",
+  "type": "digital-native",
+  "ownership": {
+    "company": "Ediciones Prensa Libre S.L.",
+    "shareholders": ["Socios cooperativos y suscriptores", "Mediapart (socio fundador frances)"],
+    "governmentFunding": false,
+    "fundingNotes": "Founded in 2013 inspired by Mediapart model. Revenue primarily from subscriptions. Progressive editorial line. Reader cooperative as part of ownership."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.18,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 6.00, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en investigacion propia. Las exclusivas suelen citar fuentes con contexto.", "en": "Good source identification in own investigation. Exclusives usually cite sources with context.", "ca": "Bona identificacio de fonts en investigacio propia.", "eu": "Iturrien identifikazio ona norberaren ikerketan.", "gl": "Boa identificacion de fontes en investigacion propia." }, "evidence": [] },
+            "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad limitada. Predominan fuentes progresistas. Voces conservadoras infrarrepresentadas.", "en": "Limited diversity. Progressive sources predominate. Conservative voices underrepresented.", "ca": "Diversitat limitada. Predominen fonts progressistes.", "eu": "Aniztasun mugatua. Iturri progresistak nagusitzen dira.", "gl": "Diversidade limitada. Predominan fontes progresistas." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Buen uso de enlaces como medio digital. Documentos y fuentes enlazados en investigaciones.", "en": "Good link usage as digital outlet. Documents and sources linked in investigations.", "ca": "Bon us d'enllacos.", "eu": "Esteken erabilera ona.", "gl": "Bo uso de enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion adjunta frecuente en investigacion propia, siguiendo modelo Mediapart.", "en": "Frequent attached documentation in own investigation, following Mediapart model.", "ca": "Documentacio adjunta frequent.", "eu": "Erantsitako dokumentazioa maiztasunez.", "gl": "Documentacion adxunta frecuente." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Datos e infografias de calidad en investigaciones. Sin seccion de datos abiertos sistematica.", "en": "Quality data and infographics in investigations. No systematic open data section.", "ca": "Dades i infografies de qualitat.", "eu": "Kalitate-datuak eta infografiak ikerketetan.", "gl": "Datos e infografias de calidade." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.33, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente. El modelo de suscripcion incentiva la transparencia.", "en": "Corrections policy exists. Subscription model incentivizes transparency.", "ca": "Politica de correccions existent.", "eu": "Zuzenketa-politika existitzen da.", "gl": "Politica de correccions existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores baja. Las investigaciones propias suelen ser contrastadas.", "en": "Low error ratio. Own investigations usually well-sourced.", "ca": "Ratio d'errors baixa.", "eu": "Akatsen ratio baxua.", "gl": "Ratio de erros baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada. Los errores se corrigen con razonable rapidez.", "en": "Moderate rectification. Errors corrected with reasonable speed.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares generalmente alineados con el contenido. Menor tendencia al clickbait al depender de suscripciones.", "en": "Headlines generally aligned with content. Less clickbait tendency as it depends on subscriptions.", "ca": "Titulars alineats amb el contingut.", "eu": "Titularrak edukiarekin lerratuta.", "gl": "Titulares alinados co contido." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals presents.", "eu": "Denbora-markak daude.", "gl": "Marcas temporais presentes." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia correcto y atribuido.", "en": "Correct and attributed multimedia material.", "ca": "Material multimedia correcte.", "eu": "Multimedia material zuzena.", "gl": "Material multimedia correcto." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de expertos pero con predominancia progresista.", "en": "Good expert selection but with progressive predominance.", "ca": "Bona seleccio d'experts amb predominancia progressista.", "eu": "Adituen hautaketa ona baina nagusitasun progresistaarekin.", "gl": "Boa seleccion de expertos con predominancia progresista." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.75, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos firmados por periodistas identificados.", "en": "Articles signed by identified journalists.", "ca": "Articles signats.", "eu": "Sinatutako artikuluak.", "gl": "Artigos asinados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "El modelo cooperativo de suscriptores ofrece cierto mecanismo de rendicion de cuentas.", "en": "Subscriber cooperative model offers some accountability mechanism.", "ca": "El model cooperatiu ofereix certa rendicio de comptes.", "eu": "Harpidetza-eredu kooperatiboak kontu-emateko mekanismo bat eskaintzen du.", "gl": "O modelo cooperativo ofrece certa rendicion de contas." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Modelo de suscripcion reduce la dependencia publicitaria y mejora la separacion editorial.", "en": "Subscription model reduces advertising dependence and improves editorial separation.", "ca": "Model de subscripcio millora la separacio.", "eu": "Harpidetza-ereduak publizitate-menpekotasuna murrizten du.", "gl": "Modelo de subscricion mellora a separacion." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica explicita sobre uso de IA.", "en": "No explicit policy on AI usage.", "ca": "Sense politica explicita sobre IA.", "eu": "IAren erabilerari buruzko politika espliziturik gabe.", "gl": "Sen politica explicita sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 4.72,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 5.33, "criteria": {
+            "adjectiveLoad": { "score": 5, "justification": { "es": "Carga adjetival moderada-alta. Los articulos de analisis politico incorporan calificativos progresistas.", "en": "Moderate-high adjectival load. Political analysis articles incorporate progressive qualifiers.", "ca": "Carrega adjectival moderada-alta.", "eu": "Karga adjektibal moderatu-altua.", "gl": "Carga adxectival moderada-alta." }, "evidence": [] },
+            "attributionVerbs": { "score": 5, "justification": { "es": "Verbos con asimetria progresista. La derecha 'bloquea', 'recorta'. La izquierda 'propone', 'avanza'.", "en": "Verbs with progressive asymmetry. The right 'blocks', 'cuts'. The left 'proposes', 'advances'.", "ca": "Verbs amb asimetria progressista.", "eu": "Berboak asimetria progresistaarekin.", "gl": "Verbos con asimetria progresista." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada pero los analisis frecuentemente mezclan informacion con perspectiva editorial.", "en": "Differentiated opinion section but analyses frequently mix information with editorial perspective.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita baina analisiak informazioa eta perspektiba editoriala nahasten dituzte.", "gl": "Seccion de opinion diferenciada." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 4.00, "criteria": {
+            "coverageBalance": { "score": 4, "justification": { "es": "Desequilibrio notable. Cobertura enfocada en escandalos de la derecha y temas de justicia social. Menor atencion a controversias de la izquierda.", "en": "Notable imbalance. Coverage focused on right-wing scandals and social justice. Less attention to left-wing controversies.", "ca": "Desequilibri notable.", "eu": "Desoreka nabarmena.", "gl": "Desequilibrio notable." }, "evidence": [] },
+            "editorialSymmetry": { "score": 4, "justification": { "es": "Asimetria editorial notable. Mayor escrutinio a la derecha y menor al Gobierno.", "en": "Notable editorial asymmetry. Greater scrutiny of right and less of Government.", "ca": "Asimetria editorial notable.", "eu": "Asimetria editorial nabarmena.", "gl": "Asimetria editorial notable." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre narrativo progresista marcado. Las politicas de derechas se enmarcan como amenazas a derechos sociales.", "en": "Marked progressive narrative framing. Right-wing policies framed as threats to social rights.", "ca": "Enquadrament progressista marcat.", "eu": "Narrazio-markaketa progresista markatua.", "gl": "Encadramento progresista marcado." }, "evidence": [] },
+            "surveyTreatment": { "score": 4, "justification": { "es": "Tratamiento de encuestas con sesgo progresista. Las encuestas favorables a la izquierda reciben mas cobertura.", "en": "Progressive poll treatment bias. Left-favorable polls receive more coverage.", "ca": "Tractament amb biaix progressista.", "eu": "Inkesten trataera joera progresistaarekin.", "gl": "Tratamento con nesgo progresista." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 6.00, "criteria": {
+            "photoSelection": { "score": 6, "justification": { "es": "Seleccion fotografica moderadamente equilibrada. Sesgo visual menor que medios con sesgo politico similar.", "en": "Moderately balanced photo selection. Less visual bias than outlets with similar political bias.", "ca": "Seleccio fotografica moderadament equilibrada.", "eu": "Argazki-hautaketa moderatuki orekatua.", "gl": "Seleccion fotografica moderadamente equilibrada." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.67, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Modelo cooperativo transparente. La estructura de propiedad de los socios es publica.", "en": "Transparent cooperative model. Partner ownership structure is public.", "ca": "Model cooperatiu transparent.", "eu": "Eredu kooperatibo gardena.", "gl": "Modelo cooperativo transparente." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Recibe algunos ingresos institucionales aunque el modelo de suscripcion es la principal fuente.", "en": "Receives some institutional income though subscription model is main source.", "ca": "Rep alguns ingressos institucionals.", "eu": "Diru-sarrera instituzional batzuk jasotzen ditu.", "gl": "Recibe algus ingresos institucionais." }, "evidence": [] },
+            "conflictOfInterest": { "score": 3, "justification": { "es": "La fuerte linea editorial progresista y la afinidad con partidos de izquierdas puede condicionar la cobertura. El compromiso ideologico declarado no siempre se distingue del periodismo informativo.", "en": "Strong progressive editorial line and left-wing party affinity may condition coverage. Declared ideological commitment not always distinguished from news journalism.", "ca": "La forta linia progressista pot condicionar la cobertura.", "eu": "Lerro editorial progresista sendoak eta ezkerreko alderdiekiko kidetasunak estaldura baldintzatu dezake.", "gl": "A forte lina progresista pode condicionar a cobertura." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.60,
+      "overallGrade": "B"
+    }
+  ]
+}

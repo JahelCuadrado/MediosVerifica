@@ -1,0 +1,110 @@
+{
+  "id": "rtve",
+  "slug": "rtve",
+  "name": "RTVE",
+  "logo": "/logos/rtve.png",
+  "website": "https://www.rtve.es",
+  "type": "television",
+  "ownership": {
+    "company": "Corporacion RTVE",
+    "shareholders": ["Estado espanol (100%, corporacion publica)"],
+    "governmentFunding": true,
+    "fundingNotes": "Public broadcaster funded by the State budget. No commercial advertising since 2010. Governed by an independent board elected by Parliament."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 7.33,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": {
+            "weight": 0.30,
+            "score": 6.80,
+            "criteria": {
+              "sourceIdentifiability": { "score": 8, "justification": { "es": "Buena identificacion de fuentes en informativos y noticias web. Los reporteros son identificados y las fuentes institucionales citadas con nombre y cargo.", "en": "Good source identification in newscasts and web news. Reporters are identified and institutional sources cited with name and title.", "ca": "Bona identificacio de fonts en informatius i noticies web. Els reporters son identificats.", "eu": "Iturrien identifikazio ona informatiboetan eta web albisteetan. Kazetariak identifikatuak dira.", "gl": "Boa identificacion de fontes en informativos e noticias web. Os reporteiros son identificados." }, "evidence": [] },
+              "sourceDiversity": { "score": 7, "justification": { "es": "Diversidad de fuentes aceptable. Como medio publico, tiene obligacion de pluralismo. En la practica, el equilibrio se mantiene aunque con variaciones segun la composicion del consejo de administracion.", "en": "Acceptable source diversity. As a public broadcaster, has pluralism obligations. In practice, balance is maintained though with variations depending on the board composition.", "ca": "Diversitat de fonts acceptable. Com a mitja public, te obligacio de pluralisme.", "eu": "Iturrien aniztasun onargarria. Hedabide publiko gisa, pluralismo-betebeharra du.", "gl": "Diversidade de fontes aceptable. Como medio publico, ten obriga de pluralismo." }, "evidence": [] },
+              "directLinking": { "score": 6, "justification": { "es": "La web de RTVE enlaza a fuentes primarias en noticias relevantes pero no de forma sistematica. El formato televisivo limita naturalmente los enlaces.", "en": "RTVE's website links to primary sources in relevant news but not systematically. The television format naturally limits linking.", "ca": "La web de RTVE enllaca a fonts primaries en noticies rellevants pero no sistematicament.", "eu": "RTVEren webak iturri primariotara estekatzen du albiste garrantzitsuetan baina ez sistematikoki.", "gl": "A web de RTVE enlaza a fontes primarias en noticias relevantes pero non sistematicamente." }, "evidence": [] },
+              "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion adjunta limitada por el formato televisivo. La web complementa con infografias y datos pero rara vez adjunta documentos originales.", "en": "Attached documentation limited by television format. The website complements with infographics and data but rarely attaches original documents.", "ca": "Documentacio adjunta limitada pel format televisiu. La web complementa amb infografies.", "eu": "Erantsitako dokumentazioa telebista-formatuak mugatua. Webak infografiekin osatzen du.", "gl": "Documentacion adxunta limitada polo formato televisivo. A web complementa con infografias." }, "evidence": [] },
+              "rawDataAccess": { "score": 7, "justification": { "es": "RTVE Lab ofrece visualizaciones de datos y periodismo interactivo de calidad. Portal de datos abiertos con acceso a contenidos historicos del archivo.", "en": "RTVE Lab offers quality data visualizations and interactive journalism. Open data portal with access to historical archive content.", "ca": "RTVE Lab ofereix visualitzacions de dades i periodisme interactiu de qualitat.", "eu": "RTVE Lab-ek datu-bistaratzeak eta kazetaritza interaktiboa eskaintzen ditu.", "gl": "RTVE Lab ofrece visualizacions de datos e xornalismo interactivo de calidade." }, "evidence": [] }
+            }
+          },
+          "errorManagement": {
+            "weight": 0.25,
+            "score": 7.33,
+            "criteria": {
+              "correctionsPolicy": { "score": 7, "justification": { "es": "Politica de correcciones mas visible que la mayoria de competidores. El Defensor de la Audiencia canaliza reclamaciones y errores.", "en": "Corrections policy more visible than most competitors. The Audience Ombudsman channels complaints and errors.", "ca": "Politica de correccions mes visible que la majoria de competidors. El Defensor de l'Audiencia canalitza reclamacions.", "eu": "Zuzenketa-politika lehiakide gehienak baino ikusgarriagoa. Ikuslearen Defendatzaileak erreklamazioak bideratzen ditu.", "gl": "Politica de correccions mais visible que a maioría dos competidores. O Defensor da Audiencia canaliza reclamacions." }, "evidence": [] },
+              "verifiedErrorRatio": { "score": 8, "justification": { "es": "Ratio de errores verificados baja. Pocos desmentidos por fact-checkers externos. La precision factual de los informativos es generalmente alta.", "en": "Low verified error ratio. Few debunks by external fact-checkers. Factual accuracy of newscasts is generally high.", "ca": "Ratio d'errors verificats baixa. Pocs desmentits per verificadors externs.", "eu": "Egiaztatutako akatsen ratio baxua. Kanpoko egiaztatzaileen gezurtapen gutxi.", "gl": "Ratio de erros verificados baixa. Poucos desmentidos por verificadores externos." }, "evidence": [] },
+              "proactiveRectification": { "score": 7, "justification": { "es": "Rectificacion razonablemente proactiva. Los informativos corrigen errores en ediciones posteriores. El Defensor de la Audiencia facilita el proceso.", "en": "Reasonably proactive rectification. Newscasts correct errors in subsequent editions. The Audience Ombudsman facilitates the process.", "ca": "Rectificacio raonablement proactiva. Els informatius corregeixen errors en edicions posteriors.", "eu": "Zuzenketa arrazoiz proaktiboa. Informatiboek akatsak ondorengo edizioetan zuzentzen dituzte.", "gl": "Rectificacion razoablemente proactiva. Os informativos corrixen erros en edicins posteriores." }, "evidence": [] }
+            }
+          },
+          "informationQuality": {
+            "weight": 0.25,
+            "score": 7.75,
+            "criteria": {
+              "headlineBodyConsistency": { "score": 7, "justification": { "es": "Titulares web generalmente fieles al contenido. Menor sensacionalismo que medios privados. Algun titular busca mayor impacto digital sin distorsionar.", "en": "Web headlines generally faithful to content. Less sensationalism than private media. Some headlines seek greater digital impact without distortion.", "ca": "Titulars web generalment fidels al contingut. Menor sensacionalisme que mitjans privats.", "eu": "Web titularrak orokorrean edukiari fidel. Hedabide pribatuak baino sentsazionalismo gutxiago.", "gl": "Titulares web xeralmente fieis ao contido. Menor sensacionalismo que medios privados." }, "evidence": [] },
+              "updateTimestamp": { "score": 8, "justification": { "es": "Marcas temporales presentes en todos los contenidos web. Los informativos televisivos tienen hora de emision clara.", "en": "Timestamps present in all web content. Television newscasts have clear broadcast times.", "ca": "Marques temporals presents en tots els continguts web. Els informatius televisius tenen hora d'emissio clara.", "eu": "Denbora-markak web eduki guztietan daude. Telebistako informatiboek emisio-ordu argia dute.", "gl": "Marcas temporais presentes en todos os contidos web. Os informativos televisivos tenen hora de emision clara." }, "evidence": [] },
+              "multimediaAccuracy": { "score": 8, "justification": { "es": "Material audiovisual propio de alta calidad. Las imagenes corresponden al evento reportado. Archivo historico extenso correctamente etiquetado.", "en": "High-quality own audiovisual material. Images correspond to the reported event. Extensive correctly labeled historical archive.", "ca": "Material audiovisual propi d'alta qualitat. Les imatges corresponen a l'event reportat.", "eu": "Kalitate handiko ikus-entzunezko material propioa. Irudiak albisteko gertaerari dagozkio.", "gl": "Material audiovisual propio de alta calidade. As imaxes corresponden ao evento reportado." }, "evidence": [] },
+              "expertRelevance": { "score": 8, "justification": { "es": "Seleccion de expertos relevantes y generalmente plurales. Como medio publico, tiende a incluir perspectivas diversas en debates y tertulias.", "en": "Relevant and generally plural expert selection. As a public broadcaster, tends to include diverse perspectives in debates and discussions.", "ca": "Seleccio d'experts rellevants i generalment plurals. Com a mitja public, inclou perspectives diverses.", "eu": "Aditu garrantzitsuen hautaketa eta orokorrean plurala. Hedabide publiko gisa, perspektiba anitzak jasotzen ditu.", "gl": "Seleccion de expertos relevantes e xeralmente plurais. Como medio publico, inclue perspectivas diversas." }, "evidence": [] }
+            }
+          },
+          "outletIdentity": {
+            "weight": 0.20,
+            "score": 7.50,
+            "criteria": {
+              "authorship": { "score": 8, "justification": { "es": "Periodistas y corresponsales identificados en informativos y web. Amplia plantilla propia con corresponsales internacionales.", "en": "Journalists and correspondents identified in newscasts and web. Large own staff with international correspondents.", "ca": "Periodistes i corresponsals identificats en informatius i web. Amplia plantilla amb corresponsals internacionals.", "eu": "Kazetariak eta korrespontsalak identifikatuak informatiboetan eta webean. Plantilla zabal propioa.", "gl": "Xornalistas e correspondentes identificados en informativos e web. Ampla plantilla con correspondentes internacionais." }, "evidence": [] },
+              "editorialAccountability": { "score": 7, "justification": { "es": "Defensor de la Audiencia activo que recibe y tramita quejas. Consejo de informativos con funciones de control de calidad. Mecanismo superior a la mayoria de competidores.", "en": "Active Audience Ombudsman who receives and processes complaints. News council with quality control functions. Mechanism superior to most competitors.", "ca": "Defensor de l'Audiencia actiu que rep i tramita queixes. Consell d'informatius amb funcions de control.", "eu": "Ikuslearen Defendatzaile aktiboa kexak jasotzen eta kudeatzen dituena. Informatiboen kontseilua kontrol-funtzioekin.", "gl": "Defensor da Audiencia activo que recibe e tramita queixas. Consello de informativos con funcions de control." }, "evidence": [] },
+              "editorialAdSeparation": { "score": 9, "justification": { "es": "Sin publicidad comercial desde 2010 por ley. La separacion entre contenido editorial y comercial es inherente al modelo de financiacion publica.", "en": "No commercial advertising since 2010 by law. Separation between editorial and commercial content is inherent to the public funding model.", "ca": "Sense publicitat comercial des de 2010 per llei. La separacio es inherent al model de financament public.", "eu": "Publizitate komertzialik gabe 2010etik legez. Banaketa finantzaketa publikoaren ereduari datxekion da.", "gl": "Sen publicidade comercial dende 2010 por lei. A separacion e inherente ao modelo de financiamento publico." }, "evidence": [] },
+              "aiDisclosure": { "score": 6, "justification": { "es": "RTVE ha publicado directrices internas sobre uso de IA y ha comenzado a etiquetar contenidos generados con asistencia de IA. Aun en desarrollo pero por delante de la mayoria del sector.", "en": "RTVE has published internal guidelines on AI usage and has begun labeling AI-assisted content. Still in development but ahead of most of the sector.", "ca": "RTVE ha publicat directrius internes sobre l'us d'IA i ha comencat a etiquetar continguts amb IA.", "eu": "RTVEk barne-jarraibideak argitaratu ditu IAren erabilerari buruz eta IArekin lagundutako edukiak etiketatzen hasi da.", "gl": "RTVE publicou directrices internas sobre o uso de IA e comezou a etiquetar contidos con IA." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "neutrality": {
+        "score": 5.98,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": {
+            "weight": 0.30,
+            "score": 7.00,
+            "criteria": {
+              "adjectiveLoad": { "score": 7, "justification": { "es": "Carga adjetival moderada en informativos. Lenguaje generalmente neutro en las noticias web. Algunas piezas editorializadas en programas de actualidad.", "en": "Moderate adjectival load in newscasts. Generally neutral language in web news. Some editorialized pieces in current affairs programs.", "ca": "Carrega adjectival moderada en informatius. Llenguatge generalment neutre en noticies web.", "eu": "Karga adjektibal moderatua informatiboetan. Hizkuntza orokorrean neutroa web albisteetan.", "gl": "Carga adxectival moderada en informativos. Linguaxe xeralmente neutra en noticias web." }, "evidence": [] },
+              "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros en informativos. Algun sesgo detectable en programas de debate y magazine informativo.", "en": "Generally neutral attribution verbs in newscasts. Some detectable bias in debate programs and news magazines.", "ca": "Verbs d'atribucio generalment neutres en informatius. Algun biaix en programes de debat.", "eu": "Atribuzio-berbo orokorrean neutroak informatiboetan. Joera bat eztabaida-saioetan.", "gl": "Verbos de atribucion xeralmente neutros en informativos. Algun nesgo en programas de debate." }, "evidence": [] },
+              "opinionLabeling": { "score": 7, "justification": { "es": "Clara diferenciacion entre informativos de hechos y programas de analisis/debate. Las tertulias se identifican como tales.", "en": "Clear differentiation between factual newscasts and analysis/debate programs. Discussion programs are identified as such.", "ca": "Clara diferenciacio entre informatius de fets i programes d'analisi/debat.", "eu": "Argi bereizita gertakari-informatiboak eta analisi/eztabaida programak.", "gl": "Clara diferenciacion entre informativos de feitos e programas de analise/debate." }, "evidence": [] }
+            }
+          },
+          "selectionFraming": {
+            "weight": 0.30,
+            "score": 5.50,
+            "criteria": {
+              "coverageBalance": { "score": 5, "justification": { "es": "Como medio publico dependiente del Gobierno para su financiacion, se detecta cierta inercia favorable en la cobertura gubernamental. El equilibrio ha variado segun la composicion del consejo.", "en": "As a public broadcaster dependent on Government funding, some favorable inertia in government coverage is detected. Balance has varied with board composition.", "ca": "Com a mitja public dependent del Govern per al seu financament, es detecta certa inercia favorable en la cobertura governamental.", "eu": "Finantzaketa Gobernuaren menpeko hedabide publiko gisa, inerzia aldeko bat detektatzen da gobernuaren estaldurean.", "gl": "Como medio publico dependente do Goberno para o seu financiamento, detectase certa inercia favorable na cobertura gobernamental." }, "evidence": [] },
+              "editorialSymmetry": { "score": 6, "justification": { "es": "Tratamiento razonablemente simetrico en informativos, con variaciones en programas de actualidad. El mandato de pluralismo ayuda pero no garantiza simetria total.", "en": "Reasonably symmetric treatment in newscasts, with variations in current affairs programs. The pluralism mandate helps but does not guarantee total symmetry.", "ca": "Tractament raonablement simetric en informatius, amb variacions en programes d'actualitat.", "eu": "Trataera arrazoiz simetrikoa informatiboetan, gaurko gaien programetan aldaketekin.", "gl": "Tratamento razoablemente simetrico en informativos, con variacins en programas de actualidade." }, "evidence": [] },
+              "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con sesgo institucional moderado. Las noticias del Gobierno tienden a enmarcarse desde perspectiva institucional positiva. Mejora respecto a epocas anteriores.", "en": "Moderate institutional narrative framing bias. Government news tends to be framed from a positive institutional perspective. Improvement over previous eras.", "ca": "Enquadrament narratiu amb biaix institucional moderat. Les noticies del Govern s'enmarquen positivament.", "eu": "Narrazio-markaketa joera instituzional moderatuarekin. Gobernuaren albisteak ikuspegi instituzional positibotik markatzen dira.", "gl": "Encadramento narrativo con nesgo institucional moderado. As noticias do Goberno enmarcase dende perspectiva positiva." }, "evidence": [] },
+              "surveyTreatment": { "score": 6, "justification": { "es": "Encuestas presentadas con ficha tecnica. Las del CIS reciben tratamiento ligeramente mas favorable. Contextualizacion generalmente adecuada.", "en": "Polls presented with technical sheets. CIS polls receive slightly more favorable treatment. Generally adequate contextualization.", "ca": "Enquestes presentades amb fitxa tecnica. Les del CIS reben tractament mes favorable.", "eu": "Inkestak fitxa teknikoarekin aurkeztuak. CISen inkestek trataera pixka bat aldekoa jasotzen dute.", "gl": "Enquisas presentadas con ficha tecnica. As do CIS reciben tratamento mais favorable." }, "evidence": [] }
+            }
+          },
+          "visualRepresentation": {
+            "weight": 0.10,
+            "score": 7.00,
+            "criteria": {
+              "photoSelection": { "score": 7, "justification": { "es": "Seleccion fotografica y visual generalmente equilibrada. Material propio de alta calidad. Algun sesgo institucional en seleccion de imagenes de actos gubernamentales.", "en": "Generally balanced photographic and visual selection. High-quality own material. Some institutional bias in selection of government event images.", "ca": "Seleccio fotografica generalment equilibrada. Material propi d'alta qualitat.", "eu": "Argazki-hautaketa orokorrean orekatua. Kalitate handiko material propioa.", "gl": "Seleccion fotografica xeralmente equilibrada. Material propio de alta calidade." }, "evidence": [] }
+            }
+          },
+          "interestsFunding": {
+            "weight": 0.30,
+            "score": 5.00,
+            "criteria": {
+              "ownershipTransparency": { "score": 9, "justification": { "es": "Transparencia total. Corporacion publica con estructura y presupuesto publicados. Cuentas anuales auditadas y accesibles.", "en": "Total transparency. Public corporation with published structure and budget. Audited and accessible annual accounts.", "ca": "Transparencia total. Corporacio publica amb estructura i pressupost publicats.", "eu": "Gardentasun osoa. Korporazio publikoa argitaratutako egitura eta aurrekontuarekin.", "gl": "Transparencia total. Corporacion publica con estrutura e orzamento publicados." }, "evidence": [] },
+              "institutionalAdvertising": { "score": 2, "justification": { "es": "Dependencia financiera total del Estado. Aunque no emite publicidad comercial, la financiacion integra depende de los presupuestos generales, lo que supone un riesgo estructural para la independencia.", "en": "Total financial dependence on the State. Although no commercial ads, full funding depends on the national budget, posing a structural risk to independence.", "ca": "Dependencia financera total de l'Estat. La financacio integra depen dels pressupostos generals.", "eu": "Estatuaren menpekotasun finantzario osoa. Finantzaketa osoa aurrekontu orokorretatik dator.", "gl": "Dependencia financeira total do Estado. O financiamento integro depende dos orzamentos xerais." }, "evidence": [] },
+              "conflictOfInterest": { "score": 4, "justification": { "es": "La cobertura de politicas audiovisuales, presupuestos publicos y decisiones que afectan a RTVE puede verse condicionada. Menor profundidad critica en temas que afectan a su financiador.", "en": "Coverage of audiovisual policies, public budgets, and decisions affecting RTVE may be conditioned. Lower critical depth on topics affecting its funder.", "ca": "La cobertura de politiques audiovisuals i decisions que afecten RTVE pot veure's condicionada.", "eu": "Politika audiobisualei eta RTVEri eragiten dieten erabakien estaldura baldintzatua izan daiteke.", "gl": "A cobertura de politicas audiovisuais e decisions que afectan a RTVE pode verse condicionada." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "overallScore": 6.79,
+      "overallGrade": "B"
+    }
+  ]
+}

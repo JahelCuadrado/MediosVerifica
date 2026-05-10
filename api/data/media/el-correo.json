@@ -1,0 +1,78 @@
+{
+  "id": "el-correo",
+  "slug": "el-correo",
+  "name": "El Correo",
+  "logo": "/logos/el-correo.png",
+  "website": "https://www.elcorreo.com",
+  "type": "newspaper",
+  "ownership": {
+    "company": "Vocento S.A.",
+    "shareholders": ["Familia Ybarra-Berge", "Familia Luca de Tena", "Accionistas institucionales"],
+    "governmentFunding": false,
+    "fundingNotes": "Flagship newspaper of Vocento group. Based in Bilbao, largest newspaper in the Basque Country. Revenue from subscriptions, advertising and institutional advertising."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.48,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 6.40, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en cobertura local vasca.", "en": "Good source identification in local Basque coverage.", "ca": "Bona identificacio de fonts en cobertura basca.", "eu": "Iturrien identifikazio ona Euskadiko tokiko estalduran.", "gl": "Boa identificacion de fontes en cobertura vasca." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Buena cobertura de la pluralidad politica vasca. Linea constitucionalista-centrista.", "en": "Moderate diversity. Good coverage of Basque political plurality. Constitutionalist-centrist line.", "ca": "Diversitat moderada.", "eu": "Aniztasun moderatua. Euskal aniztasun politikoaren estaldura ona.", "gl": "Diversidade moderada." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Enlaces presentes en version digital.", "en": "Links present in digital version.", "ca": "Enllacos presents.", "eu": "Estekak bertsio digitalean.", "gl": "Enlaces presentes." }, "evidence": [] },
+            "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion en reportajes de investigacion local.", "en": "Documentation in local investigative reports.", "ca": "Documentacio en reportatges locals.", "eu": "Dokumentazioa tokiko ikerketa-erreportajeetan.", "gl": "Documentacion en reportaxes locais." }, "evidence": [] },
+            "rawDataAccess": { "score": 7, "justification": { "es": "Seccion de datos con infografias sobre economia y demografia vasca.", "en": "Data section with infographics on Basque economy and demography.", "ca": "Seccio de dades sobre economia basca.", "eu": "Datu-atala Euskadiko ekonomia eta demografiari buruzko infografiekin.", "gl": "Seccion de datos sobre economia e demografia vasca." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.67, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente.", "en": "Corrections policy exists.", "ca": "Politica existent.", "eu": "Politika existitzen da.", "gl": "Politica existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores baja.", "en": "Low error ratio.", "ca": "Ratio baixa.", "eu": "Ratio baxua.", "gl": "Ratio baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 7, "justification": { "es": "Rectificacion razonablemente proactiva.", "en": "Reasonably proactive rectification.", "ca": "Rectificacio proactiva.", "eu": "Zuzenketa arrazoiz proaktiboa.", "gl": "Rectificacion proactiva." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares alineados con contenido.", "en": "Headlines aligned with content.", "ca": "Titulars alineats.", "eu": "Titularrak edukiarekin lerratuta.", "gl": "Titulares alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals.", "eu": "Denbora-markak.", "gl": "Marcas temporais." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia de calidad.", "en": "Quality multimedia material.", "ca": "Material de qualitat.", "eu": "Kalitate-multimedia materiala.", "gl": "Material de calidade." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de expertos vascos y nacionales.", "en": "Good selection of Basque and national experts.", "ca": "Bona seleccio d'experts.", "eu": "Euskal eta nazio mailako adituen hautaketa ona.", "gl": "Boa seleccion de expertos." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 6.25, "criteria": {
+            "authorship": { "score": 8, "justification": { "es": "Articulos firmados. Red de corresponsales vascos.", "en": "Signed articles. Basque correspondent network.", "ca": "Articles signats.", "eu": "Sinatutako artikuluak. Euskal korrespontsalen sarea.", "gl": "Artigos asinados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Sin Defensor del Lector formal.", "en": "No formal Reader's Ombudsman.", "ca": "Sense Defensor.", "eu": "Defendatzailerik gabe.", "gl": "Sen Defensor." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado.", "en": "Labeled sponsored content.", "ca": "Contingut patrocinat.", "eu": "Babestutako edukia.", "gl": "Contido patrocinado." }, "evidence": [] },
+            "aiDisclosure": { "score": 6, "justification": { "es": "Incipiente transparencia sobre IA, alineada con Vocento.", "en": "Nascent AI transparency, aligned with Vocento.", "ca": "Incipient transparencia.", "eu": "Hasierako gardentasuna.", "gl": "Incipiente transparencia." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.82,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.33, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. Tono profesional.", "en": "Moderate adjectival load. Professional tone.", "ca": "Carrega moderada.", "eu": "Karga moderatua.", "gl": "Carga moderada." }, "evidence": [] },
+            "attributionVerbs": { "score": 7, "justification": { "es": "Verbos generalmente neutros.", "en": "Generally neutral verbs.", "ca": "Verbs neutres.", "eu": "Berbo orokorrean neutroak.", "gl": "Verbos neutros." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. Linea editorial constitucionalista visible pero separada.", "en": "Differentiated opinion section. Visible constitutionalist editorial line but separated.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita. Lerro editorial konstituzionalista ikusgarria.", "gl": "Seccion de opinion diferenciada." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.50, "criteria": {
+            "coverageBalance": { "score": 6, "justification": { "es": "Cobertura equilibrada de politica vasca. En temas nacionales, sesgo constitucionalista-centrista moderado.", "en": "Balanced Basque political coverage. In national topics, moderate constitutionalist-centrist bias.", "ca": "Cobertura equilibrada.", "eu": "Euskal politikaren estaldura orekatua.", "gl": "Cobertura equilibrada." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Simetria editorial moderada. Sesgo constitucionalista historico en cobertura del conflicto vasco.", "en": "Moderate editorial symmetry. Historical constitutionalist bias in Basque conflict coverage.", "ca": "Simetria moderada.", "eu": "Simetria editorial moderatua. Joera konstituzionalista historikoa.", "gl": "Simetria moderada." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo constitucionalista. En politica vasca, perspectiva moderada pero alineada con Vocento.", "en": "Constitutionalist narrative framing. In Basque politics, moderate but Vocento-aligned perspective.", "ca": "Enquadrament constitucionalista.", "eu": "Narrazio-markaketa konstituzionalista.", "gl": "Encadramento constitucionalista." }, "evidence": [] },
+            "surveyTreatment": { "score": 6, "justification": { "es": "Tratamiento de encuestas profesional.", "en": "Professional poll treatment.", "ca": "Tractament professional.", "eu": "Trataera profesionala.", "gl": "Tratamento profesional." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 7.00, "criteria": {
+            "photoSelection": { "score": 7, "justification": { "es": "Material visual equilibrado y profesional.", "en": "Balanced and professional visual material.", "ca": "Material equilibrat.", "eu": "Material bisual orekatua eta profesionala.", "gl": "Material equilibrado." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.33, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Vocento es grupo cotizado con estructura publica.", "en": "Vocento is a listed group with public structure.", "ca": "Vocento es cotitzat.", "eu": "Vocento talde kotizatua da.", "gl": "Vocento e cotizado." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Dependencia significativa de publicidad institucional del Gobierno Vasco y diputaciones.", "en": "Significant dependence on Basque Government and provincial council institutional advertising.", "ca": "Dependencia de publicitat del Govern Basc.", "eu": "Eusko Jaurlaritzaren eta aldundien publizitate instituzionalaren menpekotasun esanguratsua.", "gl": "Dependencia de publicidade do Goberno Vasco." }, "evidence": [] },
+            "conflictOfInterest": { "score": 5, "justification": { "es": "La cobertura de Vocento y la dependencia de publicidad institucional generan potenciales conflictos.", "en": "Vocento coverage and institutional advertising dependence generate potential conflicts.", "ca": "La cobertura de Vocento genera potencials conflictes.", "eu": "Vocentoren estaldura eta publizitate instituzionalaren menpekotasunak potentzialeko gatazkak sortzen ditu.", "gl": "A cobertura de Vocento xera potenciais conflitos." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 6.22,
+      "overallGrade": "B"
+    }
+  ]
+}

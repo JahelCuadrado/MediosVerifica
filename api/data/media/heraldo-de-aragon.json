@@ -1,0 +1,78 @@
+{
+  "id": "heraldo-de-aragon",
+  "slug": "heraldo-de-aragon",
+  "name": "Heraldo de Aragon",
+  "logo": "/logos/heraldo-de-aragon.png",
+  "website": "https://www.heraldo.es",
+  "type": "newspaper",
+  "ownership": {
+    "company": "Grupo Henneo",
+    "shareholders": ["Grupo Henneo (familia Yarza)"],
+    "governmentFunding": false,
+    "fundingNotes": "Flagship newspaper of Grupo Henneo (also owns 20 Minutos). Founded in 1895. Revenue from subscriptions, advertising and institutional advertising."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.40,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 6.20, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en cobertura local aragonesa.", "en": "Good source identification in local Aragonese coverage.", "ca": "Bona identificacio de fonts en cobertura aragonesa.", "eu": "Iturrien identifikazio ona Aragoiko tokiko estalduran.", "gl": "Boa identificacion de fontes en cobertura aragonesa." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Buena cobertura de actores locales aragoneses.", "en": "Moderate diversity. Good coverage of local Aragonese actors.", "ca": "Diversitat moderada.", "eu": "Aniztasun moderatua.", "gl": "Diversidade moderada." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Enlaces presentes en version digital.", "en": "Links present in digital version.", "ca": "Enllacos presents.", "eu": "Estekak bertsio digitalean.", "gl": "Enlaces presentes na version dixital." }, "evidence": [] },
+            "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion en reportajes locales de investigacion.", "en": "Documentation in local investigative reports.", "ca": "Documentacio en reportatges locals.", "eu": "Dokumentazioa tokiko ikerketa-erreportajeetan.", "gl": "Documentacion en reportaxes locais." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Datos e infografias sobre economia y demografia aragonesa.", "en": "Data and infographics on Aragonese economy and demography.", "ca": "Dades sobre economia i demografia aragonesa.", "eu": "Aragoiko ekonomia eta demografiari buruzko datuak.", "gl": "Datos sobre economia e demografia aragonesa." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.67, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente.", "en": "Corrections policy exists.", "ca": "Politica existent.", "eu": "Politika existitzen da.", "gl": "Politica existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores baja en cobertura local.", "en": "Low error ratio in local coverage.", "ca": "Ratio baixa.", "eu": "Ratio baxua.", "gl": "Ratio baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 7, "justification": { "es": "Rectificacion proactiva en cobertura local.", "en": "Proactive rectification in local coverage.", "ca": "Rectificacio proactiva.", "eu": "Zuzenketa proaktiboa.", "gl": "Rectificacion proactiva." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares generalmente alineados.", "en": "Generally aligned headlines.", "ca": "Titulars alineats.", "eu": "Titularrak lerratuta.", "gl": "Titulares alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals.", "eu": "Denbora-markak.", "gl": "Marcas temporais." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia correcto.", "en": "Correct multimedia material.", "ca": "Material correcte.", "eu": "Material zuzena.", "gl": "Material correcto." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de expertos locales y nacionales.", "en": "Good selection of local and national experts.", "ca": "Bona seleccio d'experts.", "eu": "Tokiko eta nazionaleko adituen hautaketa ona.", "gl": "Boa seleccion de expertos." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 6.25, "criteria": {
+            "authorship": { "score": 8, "justification": { "es": "Articulos firmados. Red de corresponsales locales.", "en": "Signed articles. Local correspondent network.", "ca": "Articles signats.", "eu": "Sinatutako artikuluak.", "gl": "Artigos asinados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Sin Defensor del Lector formal.", "en": "No formal Reader's Ombudsman.", "ca": "Sense Defensor.", "eu": "Defendatzailerik gabe.", "gl": "Sen Defensor." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado.", "en": "Labeled sponsored content.", "ca": "Contingut patrocinat etiquetat.", "eu": "Etiketatutako babestutako edukia.", "gl": "Contido patrocinado etiquetado." }, "evidence": [] },
+            "aiDisclosure": { "score": 6, "justification": { "es": "Incipiente transparencia sobre IA, alineada con Grupo Henneo.", "en": "Nascent AI transparency, aligned with Grupo Henneo.", "ca": "Incipient transparencia.", "eu": "Hasierako gardentasuna.", "gl": "Incipiente transparencia." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.95,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.67, "criteria": {
+            "adjectiveLoad": { "score": 7, "justification": { "es": "Carga adjetival moderada-baja. Tono profesional predominante.", "en": "Moderate-low adjectival load. Professional tone predominant.", "ca": "Carrega moderada-baixa.", "eu": "Karga moderatu-baxua.", "gl": "Carga moderada-baixa." }, "evidence": [] },
+            "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros.", "en": "Generally neutral attribution verbs.", "ca": "Verbs neutres.", "eu": "Berbo neutroak.", "gl": "Verbos neutros." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada con columnistas aragoneses.", "en": "Differentiated opinion section with Aragonese columnists.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita.", "gl": "Seccion de opinion diferenciada." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.75, "criteria": {
+            "coverageBalance": { "score": 6, "justification": { "es": "Cobertura equilibrada de politica aragonesa. En politica nacional, ligero sesgo centrista.", "en": "Balanced Aragonese political coverage. In national politics, slight centrist bias.", "ca": "Cobertura equilibrada.", "eu": "Estaldura orekatua.", "gl": "Cobertura equilibrada." }, "evidence": [] },
+            "editorialSymmetry": { "score": 6, "justification": { "es": "Simetria editorial razonable.", "en": "Reasonable editorial symmetry.", "ca": "Simetria raonable.", "eu": "Simetria arrazoigarria.", "gl": "Simetria razoable." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con perspectiva aragonesista. Defensa de los intereses de Aragon.", "en": "Aragonesist narrative framing perspective. Defense of Aragonese interests.", "ca": "Enquadrament aragonesista.", "eu": "Narrazio-markaketa perspektiba aragoitarrarekin.", "gl": "Encadramento aragonesista." }, "evidence": [] },
+            "surveyTreatment": { "score": 6, "justification": { "es": "Tratamiento de encuestas profesional.", "en": "Professional poll treatment.", "ca": "Tractament professional.", "eu": "Trataera profesionala.", "gl": "Tratamento profesional." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 7.00, "criteria": {
+            "photoSelection": { "score": 7, "justification": { "es": "Material visual equilibrado y de calidad.", "en": "Balanced and quality visual material.", "ca": "Material visual equilibrat.", "eu": "Material bisual orekatua.", "gl": "Material visual equilibrado." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.33, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Propiedad de Grupo Henneo conocida.", "en": "Grupo Henneo ownership known.", "ca": "Propietat de Grup Henneo coneguda.", "eu": "Henneo Taldearen jabetza ezaguna.", "gl": "Propiedade do Grupo Henneo conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Dependencia significativa de publicidad institucional del Gobierno de Aragon.", "en": "Significant dependence on Aragon Government institutional advertising.", "ca": "Dependencia de publicitat del Govern d'Arago.", "eu": "Aragoiko Gobernuaren publizitate instituzionalaren menpekotasun esanguratsua.", "gl": "Dependencia de publicidade do Goberno de Aragon." }, "evidence": [] },
+            "conflictOfInterest": { "score": 5, "justification": { "es": "La cobertura de intereses de Grupo Henneo en Aragon y la dependencia de publicidad institucional generan potenciales conflictos.", "en": "Coverage of Grupo Henneo interests in Aragon and institutional advertising dependence generate potential conflicts.", "ca": "La cobertura del Grup Henneo genera potencials conflictes.", "eu": "Henneo Taldearen interesen estaldurak potentzialeko gatazkak sortzen ditu.", "gl": "A cobertura dos intereses do Grupo Henneo xera potenciais conflitos." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 6.22,
+      "overallGrade": "B"
+    }
+  ]
+}

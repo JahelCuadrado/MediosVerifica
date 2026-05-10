@@ -1,0 +1,110 @@
+{
+  "id": "eldiario-es",
+  "slug": "eldiario-es",
+  "name": "elDiario.es",
+  "logo": "/logos/eldiario-es.png",
+  "website": "https://www.eldiario.es",
+  "type": "digital-native",
+  "ownership": {
+    "company": "Diario de Prensa Digital S.L.",
+    "shareholders": ["Socios y socias (crowdfunding de lectores, mayoria)", "Ignacio Escolar (director y cofundador)"],
+    "governmentFunding": false,
+    "fundingNotes": "Reader-funded model with over 70,000 paying subscribers (socios). Advertising and branded content complement subscription revenue."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 7.08,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": {
+            "weight": 0.30,
+            "score": 7.00,
+            "criteria": {
+              "sourceIdentifiability": { "score": 8, "justification": { "es": "Buena identificacion de fuentes con nombre y cargo. Los articulos de investigacion son especialmente rigurosos. Fuentes anonimas justificadas en temas sensibles.", "en": "Good source identification with name and title. Investigative articles are especially rigorous. Anonymous sources justified in sensitive topics.", "ca": "Bona identificacio de fonts amb nom i carrec. Els articles d'investigacio son especialment rigorosos.", "eu": "Iturrien identifikazio ona izen eta karguz. Ikerketa-artikuluak bereziki zorrotzak dira.", "gl": "Boa identificacion de fontes con nome e cargo. Os artigos de investigacion son especialmente rigorosos." }, "evidence": [] },
+              "sourceDiversity": { "score": 7, "justification": { "es": "Buena diversidad en temas sociales, medioambientales y de derechos. En politica nacional, las fuentes tienden a alinearse con la perspectiva progresista del medio.", "en": "Good diversity in social, environmental, and rights topics. In national politics, sources tend to align with the outlet's progressive perspective.", "ca": "Bona diversitat en temes socials i de drets. En politica nacional, les fonts tendeixen a alinear-se amb la perspectiva progressista.", "eu": "Aniztasun ona gizarte, ingurumen eta eskubide-gaietan. Politika nazionalean, iturriak perspektiba progresistarekin lerratzen dira.", "gl": "Boa diversidade en temas sociais e de dereitos. En politica nacional, as fontes tenden a alinarse coa perspectiva progresista." }, "evidence": [] },
+              "directLinking": { "score": 7, "justification": { "es": "Buen uso de enlaces a fuentes primarias en reportajes e investigaciones. Como medio digital nativo, el enlazado es mas frecuente que en prensa tradicional.", "en": "Good use of links to primary sources in reports and investigations. As a digital-native outlet, linking is more frequent than in traditional press.", "ca": "Bon us d'enllacos a fonts primaries en reportatges. Com a mitja digital natiu, l'enllacament es mes frequent.", "eu": "Iturri primariotarako esteken erabilera ona erreportajeetan. Jatorrizko hedabide digital gisa, estekatzea ohikoagoa da.", "gl": "Bo uso de enlaces a fontes primarias en reportaxes. Como medio dixital nativo, o enlazado e mais frecuente." }, "evidence": [] },
+              "attachedDocumentation": { "score": 6, "justification": { "es": "Adjunta documentacion en investigaciones relevantes. Los casos de Caso Koldo y otros han incluido documentos de soporte. No es practica sistematica en noticias diarias.", "en": "Attaches documentation in relevant investigations. Cases like Koldo have included supporting documents. Not systematic practice in daily news.", "ca": "Adjunta documentacio en investigacions rellevants. No es practica sistematica en noticies diaries.", "eu": "Dokumentazioa eransten du ikerketa garrantzitsuetan. Ez da ohiko praktika eguneroko albisteetan.", "gl": "Adxunta documentacion en investigacions relevantes. Non e practica sistematica en noticias diarias." }, "evidence": [] },
+              "rawDataAccess": { "score": 7, "justification": { "es": "Seccion de periodismo de datos activa con graficos interactivos y datasets. Uno de los medios espanoles con mejor acceso a datos brutos para el lector.", "en": "Active data journalism section with interactive graphics and datasets. One of the Spanish outlets with best raw data access for readers.", "ca": "Seccio de periodisme de dades activa amb grafics interactius i datasets.", "eu": "Datu-kazetaritza atal aktiboa grafiko interaktibo eta datuekin. Irakurlearentzako datu gordinetarako sarbide onena duten Espainiako hedabideetako bat.", "gl": "Seccion de xornalismo de datos activa con graficos interactivos e datasets." }, "evidence": [] }
+            }
+          },
+          "errorManagement": {
+            "weight": 0.25,
+            "score": 7.00,
+            "criteria": {
+              "correctionsPolicy": { "score": 7, "justification": { "es": "Politica de correcciones visible. Incluye nota de actualizacion cuando se corrigen errores. Seccion de fe de erratas accesible.", "en": "Visible corrections policy. Includes update notes when errors are corrected. Accessible errata section.", "ca": "Politica de correccions visible. Inclou nota d'actualitzacio quan es corregeixen errors.", "eu": "Zuzenketa-politika ikusgarria. Eguneratze-oharra jasotzen du akatsak zuzentzean.", "gl": "Politica de correccions visible. Inclue nota de actualizacion cando se corrixen erros." }, "evidence": [] },
+              "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores baja-moderada. El medio tiene buena reputacion en precision factual. Algunos titulares editorializados han requerido matizaciones.", "en": "Low-moderate error ratio. The outlet has a good reputation for factual accuracy. Some editorialized headlines have required qualifications.", "ca": "Ratio d'errors baixa-moderada. El mitja te bona reputacio en precisio factual.", "eu": "Akatsen ratio baxu-moderatua. Hedabideak izen ona du zehaztasun faktualean.", "gl": "Ratio de erros baixa-moderada. O medio ten boa reputacion en precision factual." }, "evidence": [] },
+              "proactiveRectification": { "score": 7, "justification": { "es": "Rectificacion razonablemente proactiva. Los errores se corrigen con rapidez y se notifica al lector mediante nota al pie o actualizacion del articulo.", "en": "Reasonably proactive rectification. Errors corrected promptly and readers notified through footnotes or article updates.", "ca": "Rectificacio raonablement proactiva. Els errors es corregeixen amb rapidesa i es notifica al lector.", "eu": "Zuzenketa arrazoiz proaktiboa. Akatsak azkar zuzentzen dira eta irakurleari jakinarazten zaio.", "gl": "Rectificacion razoablemente proactiva. Os erros corrixense con rapidez e notificase ao lector." }, "evidence": [] }
+            }
+          },
+          "informationQuality": {
+            "weight": 0.25,
+            "score": 7.00,
+            "criteria": {
+              "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares con tendencia a la editorializacion progresista. Algunos titulares amplifican la dimension social o de derechos de las noticias. El cuerpo suele ser mas equilibrado.", "en": "Headlines with progressive editorialization tendency. Some headlines amplify the social or rights dimension of news. The body is usually more balanced.", "ca": "Titulars amb tendencia a la editorialitzacio progressista. El cos sol ser mes equilibrat.", "eu": "Titularrak editorializazio progresistaren joera dutenak. Gorputza orokorrean orekatuagoa izan ohi da.", "gl": "Titulares con tendencia a editorializacion progresista. O corpo adoita ser mais equilibrado." }, "evidence": [] },
+              "updateTimestamp": { "score": 8, "justification": { "es": "Marcas temporales claras en todos los articulos con fecha de publicacion y actualizacion. Formato estandar del sector.", "en": "Clear timestamps on all articles with publication and update dates. Industry standard format.", "ca": "Marques temporals clares en tots els articles amb data de publicacio i actualitzacio.", "eu": "Denbora-marka argiak artikulu guztietan argitalpen eta eguneratze datarekin.", "gl": "Marcas temporais claras en todos os artigos con data de publicacion e actualizacion." }, "evidence": [] },
+              "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia correctamente atribuido. Uso de fotografias propias y de agencias. Infografias de calidad en la seccion de datos.", "en": "Correctly attributed multimedia material. Use of own and agency photographs. Quality infographics in the data section.", "ca": "Material multimedia correctament atribuit. Infografies de qualitat a la seccio de dades.", "eu": "Multimedia materiala behar bezala esleitua. Kalitate handiko infografiak datu-atalean.", "gl": "Material multimedia correctamente atribuido. Infografias de calidade na seccion de datos." }, "evidence": [] },
+              "expertRelevance": { "score": 7, "justification": { "es": "Seleccion de expertos relevantes, especialmente en politicas sociales, medioambientales y de derechos. Cierto sesgo hacia voces academicas progresistas.", "en": "Relevant expert selection, especially in social, environmental, and rights policies. Some bias toward progressive academic voices.", "ca": "Seleccio d'experts rellevants, especialment en politiques socials i de drets. Cert biaix cap a veus academiques progressistes.", "eu": "Aditu garrantzitsuen hautaketa, bereziki gizarte-, ingurumen- eta eskubide-politiketan. Ahots akademiko progresistetatako joera bat.", "gl": "Seleccion de expertos relevantes, especialmente en politicas sociais e de dereitos. Certo nesgo cara a voces academicas progresistas." }, "evidence": [] }
+            }
+          },
+          "outletIdentity": {
+            "weight": 0.20,
+            "score": 7.25,
+            "criteria": {
+              "authorship": { "score": 8, "justification": { "es": "Articulos firmados por periodistas identificados. Perfiles de autores con biografia y articulos anteriores accesibles.", "en": "Articles signed by identified journalists. Author profiles with biography and previous articles accessible.", "ca": "Articles signats per periodistes identificats. Perfils d'autors amb biografia accessibles.", "eu": "Artikuluak identifikatutako kazetariek sinatuak. Egileen profilak biografia eta aurreko artikuluekin eskuragarri.", "gl": "Artigos asinados por xornalistas identificados. Perfis de autores con biografia accesibles." }, "evidence": [] },
+              "editorialAccountability": { "score": 7, "justification": { "es": "Sin Defensor del Lector formal, pero el director publica regularmente explicaciones editoriales a los socios. El modelo de financiacion por suscripcion crea una rendicion de cuentas directa.", "en": "No formal Reader's Ombudsman, but the editor publishes regular editorial explanations to subscribers. The subscription funding model creates direct accountability.", "ca": "Sense Defensor del Lector formal, pero el director publica explicacions editorials als socis regularment.", "eu": "Irakurleen Defendatzaile formalik gabe, baina zuzendariak aldizka argibide editorialak argitaratzen dizkie bazkideei.", "gl": "Sen Defensor do Lector formal, pero o director publica regularmente explicacions editoriais aos socios." }, "evidence": [] },
+              "editorialAdSeparation": { "score": 7, "justification": { "es": "Contenido patrocinado etiquetado. El modelo de socios reduce la dependencia publicitaria. Separacion generalmente clara aunque algunos contenidos de marca se integran.", "en": "Sponsored content labeled. The subscriber model reduces advertising dependence. Generally clear separation though some branded content integrates.", "ca": "Contingut patrocinat etiquetat. El model de socis redueix la dependencia publicitaria.", "eu": "Babestutako edukia etiketatua. Bazkide-ereduak publizitate-menpekotasuna murrizten du.", "gl": "Contido patrocinado etiquetado. O modelo de socios reduce a dependencia publicitaria." }, "evidence": [] },
+              "aiDisclosure": { "score": 7, "justification": { "es": "Ha publicado politica editorial sobre uso de IA en la redaccion. Uno de los primeros medios espanoles en abordar la transparencia sobre herramientas de IA.", "en": "Has published editorial policy on AI usage in the newsroom. One of the first Spanish outlets to address transparency on AI tools.", "ca": "Ha publicat politica editorial sobre l'us d'IA a la redaccio. Un dels primers mitjans espanyols a abordar la transparencia.", "eu": "Politika editoriala argitaratu du IAren erabilerari buruz erredakzioan. IA tresnen gardentasuna jorratzen lehenetarikoa.", "gl": "Publicou politica editorial sobre o uso de IA na redaccion. Un dos primeiros medios espanois en abordar a transparencia." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "neutrality": {
+        "score": 5.83,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": {
+            "weight": 0.30,
+            "score": 6.33,
+            "criteria": {
+              "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada con sesgo progresista. Los adjetivos valorativos aparecen en cobertura de politica social y derechos, areas donde el medio tiene linea editorial mas marcada.", "en": "Moderate adjectival load with progressive bias. Evaluative adjectives appear in social policy and rights coverage, areas where the outlet has a more marked editorial line.", "ca": "Carrega adjectival moderada amb biaix progressista. Adjectius valoratius en cobertura de politica social.", "eu": "Karga adjektibal moderatua joera progresistarekin. Balorazio-adjektiboak gizarte-politika eta eskubideen estaldurean.", "gl": "Carga adxectival moderada con nesgo progresista. Adxectivos valorativos en cobertura de politica social." }, "evidence": [] },
+              "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros. Menor asimetria que medios con linea ideologica mas agresiva. Algun sesgo en piezas sobre extrema derecha.", "en": "Generally neutral attribution verbs. Less asymmetry than outlets with more aggressive ideological lines. Some bias in pieces about the far right.", "ca": "Verbs d'atribucio generalment neutres. Menor asimetria que mitjans amb linia ideologica mes agressiva.", "eu": "Atribuzio-berbo orokorrean neutroak. Asimetria gutxiago lerro ideologiko oldarkorragoko hedabideekin alderatuta.", "gl": "Verbos de atribucion xeralmente neutros. Menor asimetria que medios con lina ideoloxica mais agresiva." }, "evidence": [] },
+              "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion bien identificada. Sin embargo, los analisis y reportajes interpretativos adoptan perspectiva progresista sin etiquetado explicito como opinion.", "en": "Opinion section well identified. However, analyses and interpretive reports adopt a progressive perspective without explicit opinion labeling.", "ca": "Seccio d'opinio ben identificada. Els analisis adopten perspectiva progressista sense etiquetat.", "eu": "Iritzi-atala ondo identifikatuta. Hala ere, analisiek perspektiba progresista hartzen dute etiketarik gabe.", "gl": "Seccion de opinion ben identificada. As analises adoptan perspectiva progresista sen etiquetado." }, "evidence": [] }
+            }
+          },
+          "selectionFraming": {
+            "weight": 0.30,
+            "score": 5.50,
+            "criteria": {
+              "coverageBalance": { "score": 5, "justification": { "es": "Seleccion tematica con sesgo progresista. Mayor cobertura de desigualdad, derechos y medio ambiente. Los escandalos de la derecha reciben mas atencion que los del Gobierno.", "en": "Progressive thematic selection bias. Greater coverage of inequality, rights, and environment. Right-wing scandals receive more attention than Government ones.", "ca": "Seleccio tematica amb biaix progressista. Major cobertura de desigualtat, drets i medi ambient.", "eu": "Gai-hautaketa joera progresistarekin. Desberdintasun, eskubide eta ingurumenaren estaldura handiagoa.", "gl": "Seleccion tematica con nesgo progresista. Maior cobertura de desigualdade, dereitos e medio ambiente." }, "evidence": [] },
+              "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial moderada. Los estandares de escrutinio son mas exigentes con la derecha y la extrema derecha que con la izquierda y el Gobierno.", "en": "Moderate editorial asymmetry. Scrutiny standards are more demanding with the right and far right than with the left and Government.", "ca": "Asimetria editorial moderada. Els estandards d'escrutini son mes exigents amb la dreta.", "eu": "Asimetria editorial moderatua. Gainbegiratze-estandarrak eskuinarekin zorrotzagoak dira ezkerrarekin baino.", "gl": "Asimetria editorial moderada. Os estandares de escrutinio son mais esixentes coa dereita." }, "evidence": [] },
+              "narrativeFraming": { "score": 6, "justification": { "es": "Encuadre narrativo con perspectiva social progresista. Las noticias se enmarcan desde la justicia social y los derechos. Mas equilibrado en temas no politicos.", "en": "Narrative framing with progressive social perspective. News framed from social justice and rights angle. More balanced on non-political topics.", "ca": "Enquadrament narratiu amb perspectiva social progressista. Les noticies s'enmarquen des de la justicia social.", "eu": "Narrazio-markaketa gizarte-perspektiba progresistarekin. Albisteak gizarte-justizia eta eskubideen ikuspegitik markatzen dira.", "gl": "Encadramento narrativo con perspectiva social progresista. As noticias enmarcase dende a xustiza social." }, "evidence": [] },
+              "surveyTreatment": { "score": 6, "justification": { "es": "Encuestas presentadas con metodologia y ficha tecnica. Las del CIS reciben tratamiento algo mas favorable. Contextualizacion adecuada en general.", "en": "Polls presented with methodology and technical sheets. CIS polls receive somewhat more favorable treatment. Generally adequate contextualization.", "ca": "Enquestes presentades amb metodologia i fitxa tecnica. Les del CIS reben tractament mes favorable.", "eu": "Inkestak metodologia eta fitxa teknikoarekin aurkeztuak. CISen inkestek trataera pixka bat aldekoagoa jasotzen dute.", "gl": "Enquisas presentadas con metodoloxia e ficha tecnica. As do CIS reciben tratamento mais favorable." }, "evidence": [] }
+            }
+          },
+          "visualRepresentation": {
+            "weight": 0.10,
+            "score": 6.00,
+            "criteria": {
+              "photoSelection": { "score": 6, "justification": { "es": "Seleccion fotografica con cierta asimetria. Las imagenes de politicos de derecha tienden a ser menos favorecedoras. Material multimedia generalmente de calidad.", "en": "Photo selection with some asymmetry. Right-wing politicians' images tend to be less flattering. Generally quality multimedia material.", "ca": "Seleccio fotografica amb certa asimetria. Les imatges de politics de dretes tendeixen a ser menys afavoridores.", "eu": "Argazki-hautaketa asimetria batekin. Eskuineko politikarien irudiak gutxiago alaitzen dira.", "gl": "Seleccion fotografica con certa asimetria. As imaxes de politicos de dereita tenden a ser menos favorecedoras." }, "evidence": [] }
+            }
+          },
+          "interestsFunding": {
+            "weight": 0.30,
+            "score": 5.67,
+            "criteria": {
+              "ownershipTransparency": { "score": 8, "justification": { "es": "Estructura de propiedad transparente. Publica informacion sobre su modelo de financiacion y el peso de los socios en la estructura. Director-fundador identificado.", "en": "Transparent ownership structure. Publishes information about its funding model and subscriber weight in the structure. Director-founder identified.", "ca": "Estructura de propietat transparent. Publica informacio sobre el model de financament i el pes dels socis.", "eu": "Jabetza-egitura gardena. Finantzaketa-ereduari eta bazkideen pisuari buruzko informazioa argitaratzen du.", "gl": "Estrutura de propiedade transparente. Publica informacion sobre o modelo de financiamento e o peso dos socios." }, "evidence": [] },
+              "institutionalAdvertising": { "score": 5, "justification": { "es": "Menor dependencia de publicidad institucional que medios tradicionales gracias al modelo de suscripcion. Sin embargo, recibe publicidad institucional cuya proporcion no se desglosa.", "en": "Lower dependence on institutional advertising than traditional media thanks to subscription model. However, receives institutional advertising whose proportion is not broken down.", "ca": "Menor dependencia de publicitat institucional que mitjans tradicionals gracies al model de subscripcio.", "eu": "Publizitate instituzionalaren menpekotasun txikiagoa hedabide tradizionalekin alderatuta harpidetza-ereduari esker.", "gl": "Menor dependencia de publicidade institucional que medios tradicionais grazas ao modelo de suscricion." }, "evidence": [] },
+              "conflictOfInterest": { "score": 4, "justification": { "es": "La cobertura de partidos y movimientos progresistas que representan a la base de suscriptores puede verse condicionada. La critica al Gobierno es presente pero menos incisiva que la dedicada a la derecha.", "en": "Coverage of progressive parties representing the subscriber base may be conditioned. Government criticism exists but is less incisive than coverage of the right.", "ca": "La cobertura de partits progressistes que representen la base de subscriptors pot veure's condicionada.", "eu": "Harpidedun-oinarria ordezkatzen duten alderdi progresisten estaldura baldintzatua izan daiteke.", "gl": "A cobertura de partidos progresistas que representan a base de subscritores pode verse condicionada." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "overallScore": 6.58,
+      "overallGrade": "B"
+    }
+  ]
+}

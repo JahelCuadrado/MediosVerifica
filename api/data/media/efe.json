@@ -1,0 +1,110 @@
+{
+  "id": "efe",
+  "slug": "efe",
+  "name": "Agencia EFE",
+  "logo": "/logos/efe.png",
+  "website": "https://www.efe.com",
+  "type": "news-agency",
+  "ownership": {
+    "company": "Agencia EFE S.A.",
+    "shareholders": ["SEPI (Sociedad Estatal de Participaciones Industriales, 100%)"],
+    "governmentFunding": true,
+    "fundingNotes": "100% state-owned through SEPI. Spain's national news agency and the fourth-largest wire service globally."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 7.88,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": {
+            "weight": 0.30,
+            "score": 7.40,
+            "criteria": {
+              "sourceIdentifiability": { "score": 9, "justification": { "es": "Estandar de referencia en identificacion de fuentes. Cada despacho sigue el formato 'Ubicacion (EFE).-' con periodistas firmantes. Las fuentes anonimas estan editorialmente justificadas.", "en": "Industry reference standard for source identification. Every dispatch follows 'Location (EFE).-' format with signing journalists. Anonymous sources are editorially justified.", "ca": "Estandard de referencia en identificacio de fonts. Cada despatx segueix el format 'Ubicacio (EFE).-' amb periodistes signants.", "eu": "Iturrien identifikazioan erreferentzia-estandarra. Despacho bakoitzak 'Kokapena (EFE).-' formatua jarraitzen du.", "gl": "Estandar de referencia en identificacion de fontes. Cada despacho segue o formato 'Ubicacion (EFE).-' con xornalistas asinantes." }, "evidence": [] },
+              "sourceDiversity": { "score": 9, "justification": { "es": "Como servicio de despachos para todos los medios, EFE incluye sistematicamente todas las perspectivas relevantes. Cubre Gobierno y oposicion con igual prominencia.", "en": "As a wire service for all media, EFE systematically includes all relevant perspectives. Covers Government and opposition with equal prominence.", "ca": "Com a servei de despatxos per a tots els mitjans, l'EFE inclou sistematicament totes les perspectives rellevants.", "eu": "Hedabide guztientzako despacho-zerbitzu gisa, EFEk perspektiba garrantzitsu guztiak jasotzen ditu.", "gl": "Como servizo de despachos para todos os medios, a EFE inclue sistematicamente todas as perspectivas relevantes." }, "evidence": [] },
+              "directLinking": { "score": 7, "justification": { "es": "Los despachos citan fuentes primarias pero la version web no siempre enlaza directamente a documentos originales. Enlaces internos exhaustivos pero externos menos frecuentes.", "en": "Dispatches cite primary sources but the web version does not always link directly to original documents. Internal links exhaustive but external less frequent.", "ca": "Els despatxos citen fonts primaries pero la versio web no sempre enllaca als documents originals.", "eu": "Despachoek iturri primarioak aipatzen dituzte baina web bertsioak ez du beti jatorrizko dokumentuetara estekatzen.", "gl": "Os despachos citan fontes primarias pero a version web non sempre enlaza aos documentos orixinais." }, "evidence": [] },
+              "attachedDocumentation": { "score": 6, "justification": { "es": "El formato de agencia limita la adjuncion de documentos. La web incorpora fotografia propia EPA/EFE pero rara vez adjunta PDFs o documentos escaneados.", "en": "Wire format limits document attachment. The web includes own EPA/EFE photography but rarely attaches PDFs or scanned documents.", "ca": "El format d'agencia limita l'adjuncio de documents. La web incorpora fotografia propia EPA/EFE.", "eu": "Agentzia-formatuak dokumentuen eranstea mugatzen du. Webak EPA/EFE argazki propioak jasotzen ditu.", "gl": "O formato de axencia limita a adxuncion de documentos. A web incorpora fotografia propia EPA/EFE." }, "evidence": [] },
+              "rawDataAccess": { "score": 6, "justification": { "es": "Los despachos citan datos estadisticos con fuentes pero rara vez enlazan a datasets originales. EFE informa sobre datos pero no facilita acceso directo a los mismos.", "en": "Dispatches cite statistical data with sources but rarely link to original datasets. EFE reports on data but does not provide direct access.", "ca": "Els despatxos citen dades estadistiques amb fonts pero rarament enllacen als datasets originals.", "eu": "Despachoek datu estatistikoak iturrekin aipatzen dituzte baina gutxitan estekatzen dituzte jatorrizko datuekin.", "gl": "Os despachos citan datos estatisticos con fontes pero raramente enlazan aos datasets orixinais." }, "evidence": [] }
+            }
+          },
+          "errorManagement": {
+            "weight": 0.25,
+            "score": 8.33,
+            "criteria": {
+              "correctionsPolicy": { "score": 8, "justification": { "es": "Errores corregidos mediante despachos correctores inmediatos, estandar en servicios de agencia. La web publica carece de seccion de correcciones visible.", "en": "Errors corrected through immediate corrective dispatches, wire service standard. Public website lacks a visible corrections section.", "ca": "Errors corregits mitjancant despatxos correctors immediats. La web publica manca de seccio de correccions visible.", "eu": "Akatsak berehalako zuzenketa-despacho bidez zuzentzen dira. Web publikoak ez du zuzenketen atal ikusgarririk.", "gl": "Erros corrixidos mediante despachos correctores inmediatos. A web publica carece de seccion de correccions visible." }, "evidence": [] },
+              "verifiedErrorRatio": { "score": 9, "justification": { "es": "Ratio de errores extremadamente baja para miles de despachos diarios. EFE Verifica, acreditado por la IFCN, convierte a EFE en agencia que verifica activamente errores de otros.", "en": "Extremely low error rate for thousands of daily dispatches. EFE Verifica, IFCN-accredited, makes EFE an agency that actively verifies others' errors.", "ca": "Ratio d'errors extremadament baixa per a milers de despatxos diaris. EFE Verifica, acreditat per la IFCN.", "eu": "Akatsen ratio oso baxua milaka eguneroko despachoetarako. EFE Verifica, IFCNk akreditatua.", "gl": "Ratio de erros extremadamente baixa para miles de despachos diarios. EFE Verifica, acreditado pola IFCN." }, "evidence": [] },
+              "proactiveRectification": { "score": 8, "justification": { "es": "La rectificacion proactiva es intrinseca al modelo de agencia: errores detectados y corregidos en minutos con despachos actualizados.", "en": "Proactive rectification is intrinsic to the wire service model: errors detected and corrected within minutes with updated dispatches.", "ca": "La rectificacio proactiva es intrinseca al model d'agencia: errors detectats i corregits en minuts.", "eu": "Zuzenketa proaktiboa agentzia-ereduari datxekion da: akatsak minutuetan detektatuak eta zuzenduak.", "gl": "A rectificacion proactiva e intrinseca ao modelo de axencia: erros detectados e corrixidos en minutos." }, "evidence": [] }
+            }
+          },
+          "informationQuality": {
+            "weight": 0.25,
+            "score": 8.50,
+            "criteria": {
+              "headlineBodyConsistency": { "score": 9, "justification": { "es": "Titulares estrictamente factuales por estandar de agencia. No se detecta clickbait ni sensacionalismo. Referencia del sector.", "en": "Strictly factual headlines by wire service standard. No clickbait or sensationalism detected. Industry reference.", "ca": "Titulars estrictament factuals per estandard d'agencia. No es detecta clickbait ni sensacionalisme.", "eu": "Titular zorrotz faktualak agentzia-estandarrez. Ez da clickbait edo sentsazionalismorik detektatu.", "gl": "Titulares estritamente factuais por estandar de axencia. Non se detecta clickbait nin sensacionalismo." }, "evidence": [] },
+              "updateTimestamp": { "score": 9, "justification": { "es": "Todos los despachos incluyen fecha completa y ubicacion de emision. Formato 'Madrid (EFE).-' estandar en todos los articulos.", "en": "All dispatches include full date and emission location. 'Madrid (EFE).-' format standard in all articles.", "ca": "Tots els despatxos inclouen data completa i ubicacio d'emissio.", "eu": "Despacho guztiek data osoa eta emisio-tokia jasotzen dute.", "gl": "Todos os despachos incluen data completa e ubicacion de emision." }, "evidence": [] },
+              "multimediaAccuracy": { "score": 8, "justification": { "es": "Material fotografico propio EFE/EPA Images correctamente atribuido con fotografo, fecha y ubicacion. Pie de foto informativo y preciso.", "en": "Own EFE/EPA Images photographic material correctly attributed with photographer, date and location. Informative and accurate captions.", "ca": "Material fotografic propi EFE/EPA Images correctament atribuit amb fotograf, data i ubicacio.", "eu": "EFE/EPA Images argazki material propioa behar bezala esleitua argazkilaria, data eta kokapenarekin.", "gl": "Material fotografico propio EFE/EPA Images correctamente atribuido con fotografo, data e ubicacion." }, "evidence": [] },
+              "expertRelevance": { "score": 8, "justification": { "es": "Despachos incluyen declaraciones de expertos relevantes en sus campos. EFE no filtra por orientacion ideologica del experto.", "en": "Dispatches include statements from experts relevant to their fields. EFE does not filter by expert ideological orientation.", "ca": "Els despatxos inclouen declaracions d'experts rellevants en els seus camps. EFE no filtra per orientacio ideologica.", "eu": "Despachoek esparru bakoitzeko aditu garrantzitsuen adierazpenak jasotzen dituzte. EFEk ez du ideologiaz iragazten.", "gl": "Os despachos incluen declaracions de expertos relevantes nos seus campos. A EFE non filtra por orientacion ideoloxica." }, "evidence": [] }
+            }
+          },
+          "outletIdentity": {
+            "weight": 0.20,
+            "score": 6.75,
+            "criteria": {
+              "authorship": { "score": 9, "justification": { "es": "Todos los despachos firmados por corresponsales identificados con nombre completo. Plantilla profesional en mas de 60 paises.", "en": "All dispatches signed by identified correspondents with full names. Professional staff in over 60 countries.", "ca": "Tots els despatxos signats per corresponsals identificats amb nom complet. Plantilla en mes de 60 paisos.", "eu": "Despacho guztiak identifikatutako korrespontsalek izen osoarekin sinatuak. Plantilla 60 herrialde baino gehiagotan.", "gl": "Todos os despachos asinados por correspondentes identificados con nome completo. Plantilla en mais de 60 paises." }, "evidence": [] },
+              "editorialAccountability": { "score": 6, "justification": { "es": "Dispone de Consejo Editorial independiente y Codigo de Conducta, pero no tiene Defensor del Lector accesible al publico. Mecanismos de control internos no visibles.", "en": "Has an independent Editorial Board and Code of Conduct, but no public Reader's Ombudsman. Internal quality control mechanisms not visible.", "ca": "Disposa de Consell Editorial independent i Codi de Conducta, pero sense Defensor del Lector public.", "eu": "Kontseilu Editorial independentea eta Jokabide Kodea ditu, baina Irakurleen Defendatzailerik gabe.", "gl": "Dispon de Consello Editorial independente e Codigo de Conduta, pero sen Defensor do Lector publico." }, "evidence": [] },
+              "editorialAdSeparation": { "score": 9, "justification": { "es": "Separacion inherente al modelo de agencia. EFE Comunica opera como plataforma completamente separada con dominio propio.", "en": "Separation inherent to wire service model. EFE Comunica operates as a completely separate platform with its own domain.", "ca": "Separacio inherent al model d'agencia. EFE Comunica opera com a plataforma separada amb domini propi.", "eu": "Banaketa agentzia-ereduari datxekion da. EFE Comunicak plataforma bereizi gisa funtzionatzen du.", "gl": "Separacion inherente ao modelo de axencia. EFE Comunica opera como plataforma separada con dominio propio." }, "evidence": [] },
+              "aiDisclosure": { "score": 3, "justification": { "es": "Sin politica publica sobre uso de IA en la produccion de despachos. No existe informacion disponible sobre herramientas automatizadas en la generacion de contenidos.", "en": "No public policy on AI usage in dispatch production. No information available on automated tools in content generation.", "ca": "Sense politica publica sobre l'us d'IA en la produccio de despatxos.", "eu": "Ez dago IAren erabilerari buruzko politika publikorik despacho-ekoizpenean.", "gl": "Sen politica publica sobre o uso de IA na producion de despachos." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "neutrality": {
+        "score": 6.80,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": {
+            "weight": 0.30,
+            "score": 8.67,
+            "criteria": {
+              "adjectiveLoad": { "score": 9, "justification": { "es": "Carga adjetival minima por estandar de agencia. Lenguaje factual y descriptivo. Evita valoraciones incluso en temas emocionalmente cargados.", "en": "Minimal adjectival load by wire service standard. Factual and descriptive language. Avoids value judgments even on emotionally charged topics.", "ca": "Carrega adjectival minima per estandard d'agencia. Llenguatge factual i descriptiu.", "eu": "Karga adjektibal minimoa agentzia-estandarrez. Hizkuntza faktuala eta deskriptiboa.", "gl": "Carga adxectival minima por estandar de axencia. Linguaxe factual e descritiva." }, "evidence": [] },
+              "attributionVerbs": { "score": 9, "justification": { "es": "Verbos de atribucion estrictamente neutros: 'afirma', 'senala', 'indica', 'asegura'. No se detectan verbos connotativos. Estandar de referencia.", "en": "Strictly neutral attribution verbs: 'states', 'points out', 'indicates', 'assures'. No connotative verbs detected. Reference standard.", "ca": "Verbs d'atribucio estrictament neutres: 'afirma', 'senyala', 'indica'. Estandard de referencia.", "eu": "Atribuzio-berbo zorrotz neutroak: 'baieztatzen du', 'adierazten du', 'seinalatzen du'. Erreferentzia-estandarra.", "gl": "Verbos de atribucion estritamente neutros: 'afirma', 'sinala', 'indica'. Estandar de referencia." }, "evidence": [] },
+              "opinionLabeling": { "score": 8, "justification": { "es": "Separacion estricta entre hechos y analisis. Los articulos de analisis se identifican como tales, aunque algunos reportajes contextuales difuminan ligeramente la linea.", "en": "Strict separation between facts and analysis. Analysis articles are identified as such, though some contextual features slightly blur the line.", "ca": "Separacio estricta entre fets i analisi. Els articles d'analisi s'identifiquen com a tals.", "eu": "Gertaeren eta analisiaren arteko banaketa zorrotza. Analisi-artikuluak horrela identifikatzen dira.", "gl": "Separacion estrita entre feitos e analise. Os artigos de analise identificanse como tales." }, "evidence": [] }
+            }
+          },
+          "selectionFraming": {
+            "weight": 0.30,
+            "score": 6.25,
+            "criteria": {
+              "coverageBalance": { "score": 6, "justification": { "es": "Cobertura proporcionada al interes informativo. Como agencia publica dependiente de SEPI, cierta cautela en noticias que afectan directamente al Gobierno, aunque cubre ambas partes.", "en": "Coverage proportionate to news interest. As a state-dependent public agency through SEPI, some caution on news directly affecting the Government, though both sides are covered.", "ca": "Cobertura proporcionada a l'interes informatiu. Com a agencia publica de SEPI, certa cautela en noticies del Govern.", "eu": "Estaldura albiste-interesari proportzinatua. SEPIren menpeko agentzia publiko gisa, zuhurtasuna Gobernuari eragiten dioten albisteetan.", "gl": "Cobertura proporcionada ao interese informativo. Como axencia publica de SEPI, certa cautela en noticias do Goberno." }, "evidence": [] },
+              "editorialSymmetry": { "score": 6, "justification": { "es": "Tratamiento generalmente simetrico. La cobertura de actos oficiales del Gobierno tiende a ser mas extensa con tono mas institucional.", "en": "Generally symmetric treatment. Government official events coverage tends to be more extensive with a more institutional tone.", "ca": "Tractament generalment simetric. La cobertura d'actes oficials del Govern es mes extensa amb to institucional.", "eu": "Trataera orokorrean simetrikoa. Gobernuaren ekitaldi ofizialen estaldura zabalagoa tonu instituzionalagoarekin.", "gl": "Tratamento xeralmente simetrico. A cobertura de actos oficiais do Goberno e mais extensa con ton institucional." }, "evidence": [] },
+              "narrativeFraming": { "score": 7, "justification": { "es": "Enmarcamiento factual y descriptivo consistente. 'Espana afronta una compleja operacion' (no 'Sanchez lidera'). Framing neutral incluso en temas polarizados.", "en": "Consistently factual and descriptive framing. 'Spain faces a complex operation' (not 'Sanchez leads'). Neutral framing even on polarized topics.", "ca": "Emmarcament factual i descriptiu consistent. Framing neutral fins i tot en temes polaritzats.", "eu": "Markaketa faktuala eta deskriptiboa modu koherentean. Markaketa neutroa gai polarizatuetan ere.", "gl": "Enmarcamento factual e descritivo consistente. Framing neutral incluso en temas polarizados." }, "evidence": [] },
+              "surveyTreatment": { "score": 6, "justification": { "es": "Publica encuestas con ficha tecnica completa. Las del CIS reciben tratamiento algo menos critico que las de consultoras privadas.", "en": "Publishes polls with complete technical sheets. CIS polls receive slightly less critical treatment than private firm polls.", "ca": "Publica enquestes amb fitxa tecnica completa. Les del CIS reben tractament menys critic.", "eu": "Inkestak fitxa tekniko osoarekin argitaratzen ditu. CISen inkestek trataera pixka bat aldekoa jasotzen dute.", "gl": "Publica enquisas con ficha tecnica completa. As do CIS reciben tratamento menos critico." }, "evidence": [] }
+            }
+          },
+          "visualRepresentation": {
+            "weight": 0.10,
+            "score": 7.00,
+            "criteria": {
+              "photoSelection": { "score": 7, "justification": { "es": "Material visual profesional y equilibrado. Fotografias descriptivas, no valorativas. Cierta preferencia por imagenes institucionales pero sin sesgo partidista.", "en": "Professional and balanced visual material. Descriptive, not evaluative photographs. Some preference for institutional images but no partisan bias.", "ca": "Material visual professional i equilibrat. Fotografies descriptives, no valoratives.", "eu": "Material bisual profesionala eta orekatua. Argazki deskriptiboak, ez baloratiboak.", "gl": "Material visual profesional e equilibrado. Fotografias descritivas, non valorativas." }, "evidence": [] }
+            }
+          },
+          "interestsFunding": {
+            "weight": 0.30,
+            "score": 5.67,
+            "criteria": {
+              "ownershipTransparency": { "score": 9, "justification": { "es": "Transparencia total. Titularidad publica 100% a traves de SEPI es completamente conocida. Estructura, presupuesto y cuentas anuales son informacion publica.", "en": "Total transparency. 100% public ownership through SEPI is completely known. Structure, budget, and annual accounts are public information.", "ca": "Transparencia total. Titularitat publica al 100% a traves de SEPI completament coneguda.", "eu": "Gardentasun osoa. SEPI bidezko %100eko jabetza publikoa erabat ezaguna.", "gl": "Transparencia total. Titularidade publica ao 100% a traves de SEPI completamente conecida." }, "evidence": [] },
+              "institutionalAdvertising": { "score": 3, "justification": { "es": "Dependencia financiera total del Estado a traves de SEPI. Constituye el principal factor de riesgo para la independencia editorial.", "en": "Total financial dependence on the State through SEPI. Constitutes the main risk factor for editorial independence.", "ca": "Dependencia financera total de l'Estat a traves de SEPI. Principal factor de risc per a la independencia editorial.", "eu": "Estatuaren menpekotasun finantzario osoa SEPI bidez. Independentzia editorialarentzako arrisku-faktore nagusia.", "gl": "Dependencia financeira total do Estado a traves de SEPI. Principal factor de risco para a independencia editorial." }, "evidence": [] },
+              "conflictOfInterest": { "score": 5, "justification": { "es": "La cobertura de politicas mediaticas o decisiones de SEPI puede verse condicionada. Profundidad critica inferior en temas que afectan al Estado.", "en": "Coverage of media policies or SEPI decisions may be conditioned. Lower critical depth on topics affecting the State.", "ca": "La cobertura de politiques mediatiques o decisions de SEPI pot veure's condicionada.", "eu": "Hedabide-politiken edo SEPI erabakien estaldura baldintzatua izan daiteke.", "gl": "A cobertura de politicas mediaticas ou decisions de SEPI pode verse condicionada." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "overallScore": 7.45,
+      "overallGrade": "B"
+    }
+  ]
+}

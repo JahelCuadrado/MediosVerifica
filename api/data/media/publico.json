@@ -1,0 +1,78 @@
+{
+  "id": "publico",
+  "slug": "publico",
+  "name": "Publico",
+  "logo": "/logos/publico.png",
+  "website": "https://www.publico.es",
+  "type": "digital-native",
+  "ownership": {
+    "company": "Display Connectors S.L.",
+    "shareholders": ["Jaume Roures (cofundador de Mediapro)"],
+    "governmentFunding": false,
+    "fundingNotes": "Originally a print newspaper (2007-2012), now digital-only. Linked to Jaume Roures and Mediapro. Revenue from digital advertising. Known for left-wing progressive editorial line."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 5.33,
+        "grade": "C",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.20, "criteria": {
+            "sourceIdentifiability": { "score": 6, "justification": { "es": "Identificacion de fuentes aceptable. En temas politicos, las fuentes son frecuentemente 'fuentes cercanas' sin mayor identificacion.", "en": "Acceptable source identification. In political topics, sources are frequently 'close sources' without further identification.", "ca": "Identificacio de fonts acceptable.", "eu": "Iturrien identifikazio onargarria.", "gl": "Identificacion de fontes aceptable." }, "evidence": [] },
+            "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad limitada. Predominan fuentes progresistas y de izquierdas. Las voces conservadoras raramente aparecen excepto en contexto critico.", "en": "Limited diversity. Progressive and left-wing sources predominate. Conservative voices rarely appear except in critical context.", "ca": "Diversitat limitada. Predominen fonts progressistes.", "eu": "Aniztasun mugatua. Iturri progresistak nagusitzen dira.", "gl": "Diversidade limitada. Predominan fontes progresistas." }, "evidence": [] },
+            "directLinking": { "score": 5, "justification": { "es": "Enlaces a fuentes primarias irregulares. Predominan enlaces internos sobre fuentes externas.", "en": "Irregular links to primary sources. Internal links predominate over external sources.", "ca": "Enllacos a fonts primaries irregulars.", "eu": "Iturri primariotarako estekak irregularrak.", "gl": "Enlaces a fontes primarias irregulares." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion adjunta infrecuente. Algunos reportajes de investigacion incluyen documentos.", "en": "Infrequent attached documentation. Some investigative reports include documents.", "ca": "Documentacio adjunta infrequent.", "eu": "Erantsitako dokumentazioa gutxitan.", "gl": "Documentacion adxunta infrecuente." }, "evidence": [] },
+            "rawDataAccess": { "score": 5, "justification": { "es": "Sin seccion de datos brutos. Infografias basicas ocasionales.", "en": "No raw data section. Occasional basic infographics.", "ca": "Sense seccio de dades brutes.", "eu": "Datu gordinetako atalik gabe.", "gl": "Sen seccion de datos brutos." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 5.33, "criteria": {
+            "correctionsPolicy": { "score": 5, "justification": { "es": "Politica de correcciones poco visible. Los errores se corrigen sin notificacion formal.", "en": "Low-visibility corrections policy. Errors corrected without formal notification.", "ca": "Politica de correccions poc visible.", "eu": "Ikusgarritasun gutxiko zuzenketa-politika.", "gl": "Politica de correccions pouco visible." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 6, "justification": { "es": "Ratio de errores moderada. Algunos contenidos han sido senalados por falta de contraste.", "en": "Moderate error ratio. Some content flagged for lack of contrast.", "ca": "Ratio d'errors moderada.", "eu": "Akatsen ratio moderatua.", "gl": "Ratio de erros moderada." }, "evidence": [] },
+            "proactiveRectification": { "score": 5, "justification": { "es": "Rectificacion reactiva. Los errores se corrigen cuando se senalan pero sin proceso proactivo.", "en": "Reactive rectification. Errors corrected when flagged but without proactive process.", "ca": "Rectificacio reactiva.", "eu": "Zuzenketa erreaktiboa.", "gl": "Rectificacion reactiva." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 5.50, "criteria": {
+            "headlineBodyConsistency": { "score": 5, "justification": { "es": "Titulares con carga ideologica frecuente. La orientacion editorial se traslada a los titulares informativos.", "en": "Headlines with frequent ideological charge. Editorial orientation transferred to news headlines.", "ca": "Titulars amb carrega ideologica frequent.", "eu": "Karga ideologiko maiztasuneko titularrak.", "gl": "Titulares con carga ideoloxica frecuente." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes en los articulos.", "en": "Timestamps present in articles.", "ca": "Marques temporals presents.", "eu": "Denbora-markak artikuluetan.", "gl": "Marcas temporais presentes." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 5, "justification": { "es": "Material multimedia con seleccion sesgada. Las fotografias reflejan la linea editorial progresista.", "en": "Biased multimedia selection. Photographs reflect the progressive editorial line.", "ca": "Material multimedia amb seleccio esbiaixada.", "eu": "Multimedia materiala hautaketa joera duena.", "gl": "Material multimedia con seleccion nesgo." }, "evidence": [] },
+            "expertRelevance": { "score": 5, "justification": { "es": "Seleccion de expertos con sesgo progresista marcado. Predominan analistas de izquierdas.", "en": "Expert selection with marked progressive bias. Left-wing analysts predominate.", "ca": "Seleccio d'experts amb biaix progressista marcat.", "eu": "Adituen hautaketa joera progresista nabarmenarekin.", "gl": "Seleccion de expertos con nesgo progresista marcado." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.25, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos firmados por periodistas y columnistas identificados.", "en": "Articles signed by identified journalists and columnists.", "ca": "Articles signats per periodistes identificats.", "eu": "Identifikatutako kazetari eta zutabegileen sinatutako artikuluak.", "gl": "Artigos asinados por xornalistas identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 4, "justification": { "es": "Sin Defensor del Lector ni mecanismo de rendicion de cuentas editorial publico.", "en": "No Reader's Ombudsman or public editorial accountability mechanism.", "ca": "Sense Defensor del Lector.", "eu": "Irakurleen Defendatzailerik gabe.", "gl": "Sen Defensor do Lector." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 5, "justification": { "es": "Contenido patrocinado con etiquetado variable. La dependencia publicitaria y la estructura editorial reducida difuminan la linea.", "en": "Sponsored content with variable labeling. Advertising dependence and reduced editorial structure blur the line.", "ca": "Contingut patrocinat amb etiquetat variable.", "eu": "Babestutako edukia etiketatze aldakorrarekin.", "gl": "Contido patrocinado con etiquetado variable." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre uso de IA.", "en": "No public policy on AI usage.", "ca": "Sense politica sobre IA.", "eu": "IAri buruzko politikarik gabe.", "gl": "Sen politica sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 4.08,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 4.67, "criteria": {
+            "adjectiveLoad": { "score": 4, "justification": { "es": "Carga adjetival alta. Los articulos politicos estan cargados de calificativos ideologicos. Lenguaje activista en temas sociales y de genero.", "en": "High adjectival load. Political articles loaded with ideological qualifiers. Activist language in social and gender topics.", "ca": "Carrega adjectival alta. Llenguatge activista.", "eu": "Karga adjektibal altua. Hizkuntza aktibista gai sozial eta generoko gaietan.", "gl": "Carga adxectival alta. Linguaxe activista." }, "evidence": [] },
+            "attributionVerbs": { "score": 5, "justification": { "es": "Verbos de atribucion con asimetria progresista. La derecha 'ataca', 'bloquea'. La izquierda 'defiende', 'reivindica'.", "en": "Attribution verbs with progressive asymmetry. The right 'attacks', 'blocks'. The left 'defends', 'claims'.", "ca": "Verbs d'atribucio amb asimetria progressista.", "eu": "Atribuzio-berboak asimetria progresistaarekin.", "gl": "Verbos de atribucion con asimetria progresista." }, "evidence": [] },
+            "opinionLabeling": { "score": 5, "justification": { "es": "Fronteras entre informacion y opinion frecuentemente difusas. Los articulos informativos incorporan posicionamiento editorial abierto.", "en": "Boundaries between information and opinion frequently blurred. News articles openly incorporate editorial positioning.", "ca": "Fronteres entre informacio i opinio difuses.", "eu": "Informazioaren eta iritziaren arteko muga lausoak maiz.", "gl": "Fronteiras entre informacion e opinion difusas." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 3.50, "criteria": {
+            "coverageBalance": { "score": 3, "justification": { "es": "Desequilibrio significativo. Cobertura dominada por temas de izquierdas y critica a la derecha. Los escandalos de la izquierda reciben cobertura minima.", "en": "Significant imbalance. Coverage dominated by left-wing topics and right-wing criticism. Left-wing scandals receive minimal coverage.", "ca": "Desequilibri significatiu. Cobertura dominada per temes d'esquerres.", "eu": "Desoreka esanguratsua. Ezkerreko gaiak eta eskuinaren kritika nagusitzen dira.", "gl": "Desequilibrio significativo. Cobertura dominada por temas de esquerdas." }, "evidence": [] },
+            "editorialSymmetry": { "score": 3, "justification": { "es": "Asimetria editorial muy marcada. La derecha se somete a maximo escrutinio mientras se minimiza la critica a la izquierda.", "en": "Very marked editorial asymmetry. The right subjected to maximum scrutiny while left-wing criticism minimized.", "ca": "Asimetria editorial molt marcada.", "eu": "Asimetria editorial oso markatua.", "gl": "Asimetria editorial moi marcada." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre narrativo ideologico-progresista. Las noticias se enmarcan sistematicamente desde la perspectiva de izquierdas.", "en": "Ideological-progressive narrative framing. News systematically framed from left-wing perspective.", "ca": "Enquadrament narratiu ideologic-progressista.", "eu": "Narrazio-markaketa ideologiko-progresista.", "gl": "Encadramento narrativo ideoloxixo-progresista." }, "evidence": [] },
+            "surveyTreatment": { "score": 4, "justification": { "es": "Tratamiento de encuestas con sesgo progresista. Las encuestas del CIS se defienden mientras otras se cuestionan.", "en": "Progressive poll treatment bias. CIS polls defended while others questioned.", "ca": "Tractament d'enquestes amb biaix progressista.", "eu": "Inkesten trataera joera progresistaarekin.", "gl": "Tratamento de enquisas con nesgo progresista." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 4.00, "criteria": {
+            "photoSelection": { "score": 4, "justification": { "es": "Seleccion fotografica con sesgo ideologico. Imagenes de politicos de derechas frecuentemente desfavorecedoras.", "en": "Photo selection with ideological bias. Right-wing politician images frequently unflattering.", "ca": "Seleccio fotografica amb biaix ideologic.", "eu": "Argazki-hautaketa joera ideologikoarekin.", "gl": "Seleccion fotografica con nesgo ideoloxixo." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.00, "criteria": {
+            "ownershipTransparency": { "score": 5, "justification": { "es": "Vinculacion con Jaume Roures conocida pero la estructura detallada de Display Connectors es opaca.", "en": "Link with Jaume Roures known but detailed Display Connectors structure is opaque.", "ca": "Vinculacio amb Jaume Roures coneguda pero estructura opaca.", "eu": "Jaume Rouresekin lotura ezaguna baina Display Connectors-en egitura xehatua opakua da.", "gl": "Vinculacion con Jaume Roures conecida pero estrutura opaca." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Recibe publicidad institucional. La proporcion no es transparente. Dependencia publicitaria como principal fuente de ingresos.", "en": "Receives institutional advertising. Proportion not transparent. Advertising dependence as main income source.", "ca": "Rep publicitat institucional. Proporcio no transparent.", "eu": "Publizitate instituzionala jasotzen du. Proportzioa ez da gardena.", "gl": "Recibe publicidade institucional. Proporcion non transparente." }, "evidence": [] },
+            "conflictOfInterest": { "score": 3, "justification": { "es": "La relacion entre Jaume Roures, Mediapro y los intereses politicos de izquierda genera conflictos de interes no declarados.", "en": "Relationship between Jaume Roures, Mediapro and left-wing political interests generates undeclared conflicts of interest.", "ca": "La relacio entre Jaume Roures i Mediapro genera conflictes no declarats.", "eu": "Jaume Roures, Mediapro eta ezkerreko interes politikoen arteko harremanak aitortu gabeko interes-gatazkak sortzen ditu.", "gl": "A relacion entre Jaume Roures e Mediapro xera conflitos non declarados." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 4.83,
+      "overallGrade": "C"
+    }
+  ]
+}

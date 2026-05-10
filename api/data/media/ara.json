@@ -1,0 +1,78 @@
+{
+  "id": "ara",
+  "slug": "ara",
+  "name": "Ara",
+  "logo": "/logos/ara.png",
+  "website": "https://www.ara.cat",
+  "type": "newspaper",
+  "ownership": {
+    "company": "Edicions del Ara S.L.",
+    "shareholders": ["Accionistas fundacionales catalanes", "Cooperativa de lectores"],
+    "governmentFunding": false,
+    "fundingNotes": "Catalan-language newspaper founded in 2010. Revenue from subscriptions, advertising and institutional advertising. Known for Catalan independentist editorial line."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.33,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 6.20, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en informacion catalana. Fuentes institucionales catalanas bien citadas.", "en": "Good source identification in Catalan information. Catalan institutional sources well cited.", "ca": "Bona identificacio de fonts en informacio catalana.", "eu": "Iturrien identifikazio ona informazio katalanean.", "gl": "Boa identificacion de fontes en informacion catala." }, "evidence": [] },
+            "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad limitada. Predominan fuentes independentistas y catalanistas. Voces constitucionalistas infrarrepresentadas.", "en": "Limited diversity. Independentist and Catalanist sources predominate. Constitutionalist voices underrepresented.", "ca": "Diversitat limitada. Predominen fonts independentistes.", "eu": "Aniztasun mugatua. Iturri independentistak nagusitzen dira.", "gl": "Diversidade limitada. Predominan fontes independentistas." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Buen uso de enlaces en la version digital.", "en": "Good link usage in digital version.", "ca": "Bon us d'enllacos en la versio digital.", "eu": "Esteken erabilera ona bertsio digitalean.", "gl": "Bo uso de enlaces na version dixital." }, "evidence": [] },
+            "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion adjunta en reportajes de investigacion y analisis.", "en": "Attached documentation in investigative reports and analysis.", "ca": "Documentacio adjunta en reportatges.", "eu": "Erantsitako dokumentazioa ikerketa-erreportajeetan.", "gl": "Documentacion adxunta en reportaxes." }, "evidence": [] },
+            "rawDataAccess": { "score": 7, "justification": { "es": "Seccion de datos con infografias de calidad. Atencion a datos demograficos y socioeconomicos catalanes.", "en": "Data section with quality infographics. Attention to Catalan demographic and socioeconomic data.", "ca": "Seccio de dades amb infografies de qualitat.", "eu": "Datu-atala kalitate-infografiekin.", "gl": "Seccion de datos con infografias de calidade." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.67, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente.", "en": "Corrections policy exists.", "ca": "Politica de correccions existent.", "eu": "Zuzenketa-politika existitzen da.", "gl": "Politica de correccions existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores baja. Precision factual aceptable.", "en": "Low error ratio. Acceptable factual accuracy.", "ca": "Ratio d'errors baixa.", "eu": "Akatsen ratio baxua.", "gl": "Ratio de erros baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 7, "justification": { "es": "Rectificacion moderadamente proactiva.", "en": "Moderately proactive rectification.", "ca": "Rectificacio moderadament proactiva.", "eu": "Zuzenketa moderatuki proaktiboa.", "gl": "Rectificacion moderadamente proactiva." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares generalmente alineados. Menor clickbait al depender de suscripciones.", "en": "Generally aligned headlines. Less clickbait as it depends on subscriptions.", "ca": "Titulars generalment alineats.", "eu": "Titularrak orokorrean lerratuta.", "gl": "Titulares xeralmente alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals presents.", "eu": "Denbora-markak.", "gl": "Marcas temporais." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia de calidad profesional.", "en": "Professional quality multimedia material.", "ca": "Material multimedia de qualitat professional.", "eu": "Kalitate profesionaleko multimedia materiala.", "gl": "Material multimedia de calidade profesional." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de expertos catalanes. Menor diversidad en voces constitucionalistas.", "en": "Good selection of Catalan experts. Less diversity in constitutionalist voices.", "ca": "Bona seleccio d'experts catalans.", "eu": "Kataluniar adituen hautaketa ona.", "gl": "Boa seleccion de expertos catalans." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.75, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos firmados por periodistas identificados.", "en": "Articles signed by identified journalists.", "ca": "Articles signats per periodistes identificats.", "eu": "Identifikatutako kazetariek sinatutako artikuluak.", "gl": "Artigos asinados por xornalistas identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Modelo cooperativo de lectores ofrece cierta rendicion de cuentas.", "en": "Reader cooperative model offers some accountability.", "ca": "Model cooperatiu ofereix certa rendicio.", "eu": "Irakurleen eredu kooperatiboak kontu-emateko mekanismoa eskaintzen du.", "gl": "Modelo cooperativo ofrece certa rendicion." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado. Dependencia de publicidad institucional catalana.", "en": "Labeled sponsored content. Dependence on Catalan institutional advertising.", "ca": "Contingut patrocinat etiquetat.", "eu": "Etiketatutako babestutako edukia.", "gl": "Contido patrocinado etiquetado." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre uso de IA.", "en": "No public policy on AI usage.", "ca": "Sense politica sobre IA.", "eu": "IAri buruzko politikarik gabe.", "gl": "Sen politica sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 4.65,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 5.33, "criteria": {
+            "adjectiveLoad": { "score": 5, "justification": { "es": "Carga adjetival moderada-alta en cobertura del proceso independentista. Lenguaje empatico con posiciones catalanistas.", "en": "Moderate-high adjectival load in independence process coverage. Empathetic language with Catalanist positions.", "ca": "Carrega adjectival moderada-alta en cobertura del proces.", "eu": "Karga adjektibal moderatu-altua independentzia-prozesuaren estalduran.", "gl": "Carga adxectival moderada-alta na cobertura do proceso." }, "evidence": [] },
+            "attributionVerbs": { "score": 5, "justification": { "es": "Verbos con asimetria catalanista. Los actores constitucionalistas reciben verbos mas connotativos.", "en": "Verbs with Catalanist asymmetry. Constitutionalist actors receive more connotative verbs.", "ca": "Verbs amb asimetria catalanista.", "eu": "Berboak asimetria katalanistarekin.", "gl": "Verbos con asimetria catalanista." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. La linea editorial independentista permea la informacion.", "en": "Differentiated opinion section. Independentist editorial line permeates information.", "ca": "Seccio d'opinio diferenciada. La linia independentista permea.", "eu": "Iritzi-atala bereizita. Lerro editorial independentistak informazioa zehazkatzen du.", "gl": "Seccion de opinion diferenciada. A lina independentista permea." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 3.75, "criteria": {
+            "coverageBalance": { "score": 4, "justification": { "es": "Desequilibrio significativo. Cobertura dominada por la perspectiva independentista. Las voces constitucionalistas son minoritarias.", "en": "Significant imbalance. Coverage dominated by independentist perspective. Constitutionalist voices are minority.", "ca": "Desequilibri significatiu. Perspectiva independentista dominant.", "eu": "Desoreka esanguratsua. Perspektiba independentistak menperatzen du.", "gl": "Desequilibrio significativo. Perspectiva independentista dominante." }, "evidence": [] },
+            "editorialSymmetry": { "score": 3, "justification": { "es": "Asimetria editorial marcada. Maximo escrutinio al Estado espanol y minimo a las instituciones catalanas independentistas.", "en": "Marked editorial asymmetry. Maximum scrutiny of Spanish state and minimum of Catalan independentist institutions.", "ca": "Asimetria editorial marcada.", "eu": "Asimetria editorial markatua.", "gl": "Asimetria editorial marcada." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre narrativo independentista. Las noticias sobre el conflicto catalan se enmarcan desde la perspectiva del derecho a decidir.", "en": "Independentist narrative framing. Catalan conflict news framed from right-to-decide perspective.", "ca": "Enquadrament narratiu independentista.", "eu": "Narrazio-markaketa independentista.", "gl": "Encadramento narrativo independentista." }, "evidence": [] },
+            "surveyTreatment": { "score": 4, "justification": { "es": "Tratamiento de encuestas con sesgo catalanista. Mayor cobertura a encuestas sobre el apoyo a la independencia.", "en": "Catalanist poll treatment bias. Greater coverage of independence support polls.", "ca": "Tractament d'enquestes amb biaix catalanista.", "eu": "Inkesten trataera joera katalanistarekin.", "gl": "Tratamento de enquisas con nesgo catalanista." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 5.00, "criteria": {
+            "photoSelection": { "score": 5, "justification": { "es": "Seleccion visual con sesgo empatico hacia el movimiento independentista. Imagenes de manifestaciones con enfoque favorable.", "en": "Visual selection with empathetic bias toward independence movement. Demonstration images with favorable focus.", "ca": "Seleccio visual empatica amb l'independentisme.", "eu": "Hautaketa bisuala independentzia-mugimenduarekiko joera enpatikoarekin.", "gl": "Seleccion visual empatica co independentismo." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.67, "criteria": {
+            "ownershipTransparency": { "score": 6, "justification": { "es": "Estructura cooperativa parcialmente transparente.", "en": "Partially transparent cooperative structure.", "ca": "Estructura cooperativa parcialment transparent.", "eu": "Egitura kooperatibo partzialki gardena.", "gl": "Estrutura cooperativa parcialmente transparente." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Alta dependencia de publicidad institucional de la Generalitat de Catalunya. Proporcion no completamente transparente.", "en": "High dependence on Generalitat de Catalunya institutional advertising. Proportion not completely transparent.", "ca": "Alta dependencia de publicitat institucional de la Generalitat.", "eu": "Generalitataren publizitate instituzionalaren menpekotasun altua.", "gl": "Alta dependencia de publicidade institucional da Generalitat." }, "evidence": [] },
+            "conflictOfInterest": { "score": 4, "justification": { "es": "La dependencia de publicidad institucional de la Generalitat y los vinculos ideologicos con el independentismo generan conflictos de interes estructurales.", "en": "Dependence on Generalitat institutional advertising and ideological links with independence movement generate structural conflicts of interest.", "ca": "La dependencia de publicitat institucional genera conflictes.", "eu": "Generalitataren publizitate instituzionalaren menpekotasunak interes-gatazka estrukturalak sortzen ditu.", "gl": "A dependencia de publicidade institucional xera conflitos." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.66,
+      "overallGrade": "B"
+    }
+  ]
+}

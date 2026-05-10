@@ -1,0 +1,78 @@
+{
+  "id": "telecinco-informativos",
+  "slug": "telecinco-informativos",
+  "name": "Telecinco (Informativos)",
+  "logo": "/logos/telecinco-informativos.png",
+  "website": "https://www.telecinco.es/informativos/",
+  "type": "television",
+  "ownership": {
+    "company": "Mediaset Espana",
+    "shareholders": ["MFE-MediaForEurope (formerly Mediaset, Berlusconi family, ~55%)", "Accionistas institucionales"],
+    "governmentFunding": false,
+    "fundingNotes": "Part of Mediaset Espana, controlled by MFE-MediaForEurope. Revenue from commercial advertising. Spain's second largest commercial TV group."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 5.63,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.40, "criteria": {
+            "sourceIdentifiability": { "score": 6, "justification": { "es": "Identificacion de fuentes aceptable en informativos. Reporteros identificados. Fuentes institucionales citadas.", "en": "Acceptable source identification in newscasts. Reporters identified. Institutional sources cited.", "ca": "Identificacio de fonts acceptable en informatius.", "eu": "Iturrien identifikazio onargarria informatiboetan.", "gl": "Identificacion de fontes aceptable en informativos." }, "evidence": [] },
+            "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad de fuentes moderada-baja. En politica, tiende a simplificar debates y dar menor espacio a voces plurales.", "en": "Moderate-low source diversity. In politics, tends to simplify debates and give less space to plural voices.", "ca": "Diversitat moderada-baixa. Tendeix a simplificar debats.", "eu": "Iturrien aniztasun moderatu-baxua. Eztabaidak sinplifikatzeko joera.", "gl": "Diversidade moderada-baixa. Tende a simplificar debates." }, "evidence": [] },
+            "directLinking": { "score": 5, "justification": { "es": "Formato televisivo limita enlaces. La web incluye algunos pero de forma no sistematica.", "en": "Television format limits links. Website includes some but not systematically.", "ca": "Format televisiu limita enllacos.", "eu": "Telebista-formatuak estekak mugatzen ditu.", "gl": "Formato televisivo limita enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion limitada por formato audiovisual. La web complementa con elementos graficos basicos.", "en": "Documentation limited by audiovisual format. Website complements with basic graphic elements.", "ca": "Documentacio limitada pel format audiovisual.", "eu": "Dokumentazioa formatu ikus-entzunezkoak mugatua.", "gl": "Documentacion limitada polo formato audiovisual." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Infografias basicas en la web. Sin seccion de datos brutos ni periodismo de datos.", "en": "Basic infographics on the website. No raw data section or data journalism.", "ca": "Infografies basiques a la web.", "eu": "Oinarrizko infografiak webean.", "gl": "Infografias basicas na web." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 5.67, "criteria": {
+            "correctionsPolicy": { "score": 5, "justification": { "es": "Politica de correcciones poco visible. Errores corregidos en ediciones posteriores sin reconocimiento explicito.", "en": "Low-visibility corrections policy. Errors corrected in subsequent editions without explicit acknowledgment.", "ca": "Politica de correccions poc visible.", "eu": "Ikusgarritasun gutxiko zuzenketa-politika.", "gl": "Politica de correccions pouco visible." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 6, "justification": { "es": "Ratio de errores moderada. Los informativos mantienen precision aceptable aunque inferior a cadenas publicas.", "en": "Moderate error ratio. Newscasts maintain acceptable accuracy though lower than public channels.", "ca": "Ratio d'errors moderada.", "eu": "Akatsen ratio moderatua.", "gl": "Ratio de erros moderada." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion reactiva moderada.", "en": "Moderate reactive rectification.", "ca": "Rectificacio reactiva moderada.", "eu": "Zuzenketa erreaktibo moderatua.", "gl": "Rectificacion reactiva moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 5.75, "criteria": {
+            "headlineBodyConsistency": { "score": 5, "justification": { "es": "Los informativos priorizan el impacto visual y emocional sobre la precision. Titulares web con tendencia al clickbait.", "en": "Newscasts prioritize visual and emotional impact over accuracy. Web headlines with clickbait tendency.", "ca": "Informatius prioritzen impacte visual sobre precisio.", "eu": "Informatiboek inpaktu bisual eta emozionala lehentzen dute.", "gl": "Informativos priorizan o impacto visual sobre a precision." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales en contenido web. Horarios de emision conocidos.", "en": "Timestamps in web content. Known broadcast schedules.", "ca": "Marques temporals en contingut web.", "eu": "Denbora-markak web edukian.", "gl": "Marcas temporais en contido web." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 6, "justification": { "es": "Material audiovisual profesional. En ocasiones, la edicion busca dramatismo por encima de la fidelidad informativa.", "en": "Professional audiovisual material. Occasionally, editing seeks drama over informational fidelity.", "ca": "Material audiovisual professional. La edicio busca dramatisme.", "eu": "Ikus-entzunezko material profesionala. Batzuetan, edizioak dramatismoa bilatzen du.", "gl": "Material audiovisual profesional. A edicion busca dramatismo." }, "evidence": [] },
+            "expertRelevance": { "score": 5, "justification": { "es": "Seleccion de expertos limitada por formato. Los paneles de debate en programas de la cadena carecen de rigor.", "en": "Expert selection limited by format. Debate panels in network programs lack rigor.", "ca": "Seleccio d'experts limitada pel format.", "eu": "Adituen hautaketa formatuak mugatua.", "gl": "Seleccion de expertos limitada polo formato." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.50, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Periodistas y presentadores identificados en informativos.", "en": "Journalists and anchors identified in newscasts.", "ca": "Periodistes i presentadors identificats.", "eu": "Kazetariak eta aurkezleak identifikatuak.", "gl": "Xornalistas e presentadores identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 4, "justification": { "es": "Sin mecanismo publico de rendicion de cuentas editorial. No existe Defensor del Espectador.", "en": "No public editorial accountability mechanism. No Viewer Ombudsman.", "ca": "Sense mecanisme de rendicio de comptes.", "eu": "Kontu-emateko mekanismo editorial publikorik gabe.", "gl": "Sen mecanismo de rendicion de contas." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Publicidad televisiva regulada y diferenciada. En la web, formatos nativos menos claros.", "en": "Regulated and differentiated television advertising. On the website, native formats less clear.", "ca": "Publicitat televisiva regulada.", "eu": "Telebista-publizitatea erregulatua eta bereizita.", "gl": "Publicidade televisiva regulada." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre uso de IA.", "en": "No public policy on AI usage.", "ca": "Sense politica sobre l'us d'IA.", "eu": "IAren erabilerari buruzko politikarik gabe.", "gl": "Sen politica sobre o uso de IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.13,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 5.67, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada en informativos. Tendencia al sensacionalismo emocional en sucesos y sociedad.", "en": "Moderate adjectival load in newscasts. Emotional sensationalism tendency in crime and society stories.", "ca": "Carrega adjectival moderada. Sensacionalisme en succesos.", "eu": "Karga adjektibal moderatua. Sentsazionalismo emozionala.", "gl": "Carga adxectival moderada. Sensacionalismo en sucesos." }, "evidence": [] },
+            "attributionVerbs": { "score": 6, "justification": { "es": "Verbos de atribucion con asimetria leve. No tan marcada como en radio o prensa.", "en": "Attribution verbs with slight asymmetry. Not as marked as in radio or press.", "ca": "Verbs d'atribucio amb asimetria lleu.", "eu": "Atribuzio-berboak asimetria txikiarekin.", "gl": "Verbos de atribucion con asimetria leve." }, "evidence": [] },
+            "opinionLabeling": { "score": 5, "justification": { "es": "Los informativos mezclan informacion con valoracion del presentador. Los magazines mezclan abiertamente opinion e informacion.", "en": "Newscasts mix information with anchor commentary. Magazine shows openly mix opinion and information.", "ca": "Informatius barregen informacio amb valoracio del presentador.", "eu": "Informatiboek informazioa eta aurkezlearen balorazioa nahasten dituzte.", "gl": "Informativos mesclan informacion con valoracion do presentador." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.00, "criteria": {
+            "coverageBalance": { "score": 5, "justification": { "es": "Cobertura desequilibrada moderada. Los informativos priorizan sucesos y sociedad sobre profundidad politica.", "en": "Moderately imbalanced coverage. Newscasts prioritize crime and society over political depth.", "ca": "Cobertura desequilibrada moderada.", "eu": "Estaldura desorekatu moderatua.", "gl": "Cobertura desequilibrada moderada." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial moderada. Menor escrutinio a grandes anunciantes y al accionista de referencia.", "en": "Moderate editorial asymmetry. Less scrutiny of major advertisers and reference shareholder.", "ca": "Asimetria editorial moderada.", "eu": "Asimetria editorial moderatua.", "gl": "Asimetria editorial moderada." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con tendencia al sensacionalismo y la simplificacion. En politica, enfoque moderadamente conservador.", "en": "Narrative framing with sensationalism and simplification tendency. In politics, moderately conservative approach.", "ca": "Enquadrament narratiu amb sensacionalisme i simplificacio.", "eu": "Narrazio-markaketa sentsazionalismo eta sinplifikazio joerarekin.", "gl": "Encadramento narrativo con sensacionalismo e simplificacion." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas basico. Presentacion sin mucho contexto metodologico.", "en": "Basic poll treatment. Presentation without much methodological context.", "ca": "Tractament d'enquestes basic.", "eu": "Inkesten oinarrizko trataera.", "gl": "Tratamento de enquisas basico." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 5.00, "criteria": {
+            "photoSelection": { "score": 5, "justification": { "es": "Material visual con tendencia al dramatismo y la espectacularidad por encima del equilibrio informativo.", "en": "Visual material with tendency toward drama and spectacle over informational balance.", "ca": "Material visual amb tendencia al dramatisme.", "eu": "Material bisuala dramatismoa eta ikusgarritasunera joera duena.", "gl": "Material visual con tendencia ao dramatismo." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.67, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Mediaset Espana es cotizada. Participacion de MFE-MediaForEurope publica.", "en": "Mediaset Espana is listed. MFE-MediaForEurope stake public.", "ca": "Mediaset Espanya es cotitzada.", "eu": "Mediaset Espaina kotizatua da.", "gl": "Mediaset Espana e cotizada." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Alta dependencia de publicidad comercial. Proporcion de publicidad institucional no desglosada. La presion publicitaria puede condicionar contenidos.", "en": "High commercial advertising dependence. Institutional advertising proportion not broken down. Advertising pressure may condition content.", "ca": "Alta dependencia de publicitat comercial.", "eu": "Publizitate komertzialaren menpekotasun altua.", "gl": "Alta dependencia de publicidade comercial." }, "evidence": [] },
+            "conflictOfInterest": { "score": 3, "justification": { "es": "Conflictos de interes significativos. La influencia del accionista de referencia (familia Berlusconi) y los grandes anunciantes pueden condicionar la cobertura editorial.", "en": "Significant conflicts of interest. Reference shareholder (Berlusconi family) and major advertiser influence may condition editorial coverage.", "ca": "Conflictes d'interes significatius. Influencia de la familia Berlusconi.", "eu": "Interes-gatazka esanguratsuak. Erreferentziako akziodunen eragina.", "gl": "Conflitos de interese significativos. Influencia da familia Berlusconi." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.43,
+      "overallGrade": "C"
+    }
+  ]
+}

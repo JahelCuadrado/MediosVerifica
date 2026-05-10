@@ -1,0 +1,78 @@
+{
+  "id": "cope",
+  "slug": "cope",
+  "name": "COPE",
+  "logo": "/logos/cope.png",
+  "website": "https://www.cope.es",
+  "type": "radio",
+  "ownership": {
+    "company": "Radio Popular S.A.",
+    "shareholders": ["Conferencia Episcopal Espanola (majority)"],
+    "governmentFunding": false,
+    "fundingNotes": "Owned by the Spanish Episcopal Conference. Revenue from commercial advertising. Historically conservative editorial line aligned with Catholic Church values."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 5.73,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.40, "criteria": {
+            "sourceIdentifiability": { "score": 6, "justification": { "es": "Identificacion de fuentes aceptable en informativos. En tertulias de opinion, las fuentes son menos rigurosas.", "en": "Acceptable source identification in newscasts. In opinion panels, sources are less rigorous.", "ca": "Identificacio de fonts acceptable en informatius.", "eu": "Iturrien identifikazio onargarria informatiboetan.", "gl": "Identificacion de fontes aceptable en informativos." }, "evidence": [] },
+            "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad de fuentes limitada. En temas politicos, predominan voces conservadoras y criticas con el Gobierno progresista.", "en": "Limited source diversity. In political topics, conservative and Government-critical voices predominate.", "ca": "Diversitat de fonts limitada. Predominen veus conservadores.", "eu": "Iturrien aniztasun mugatua. Ahots kontserbadoreak nagusitzen dira.", "gl": "Diversidade de fontes limitada. Predominan voces conservadoras." }, "evidence": [] },
+            "directLinking": { "score": 5, "justification": { "es": "Formato radiofonico limita enlaces. La web ofrece algunos enlaces pero de forma no sistematica.", "en": "Radio format limits links. Website offers some links but not systematically.", "ca": "Format radiofonic limita enllacos. Web amb alguns enllacos.", "eu": "Irrati-formatuak estekak mugatzen ditu.", "gl": "Formato radiofonico limita enlaces. Web con algus enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion complementaria escasa en la web. El enfoque es mas de opinion y debate que de investigacion documentada.", "en": "Scarce complementary documentation on the website. Focus is more on opinion and debate than documented investigation.", "ca": "Documentacio complementaria escassa a la web.", "eu": "Webeko dokumentazio osagarri urria.", "gl": "Documentacion complementaria escasa na web." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Contenido de datos basico en la web. Infografias sencillas en periodos electorales.", "en": "Basic data content on the website. Simple infographics during electoral periods.", "ca": "Contingut de dades basic a la web.", "eu": "Oinarrizko datu-edukia webean.", "gl": "Contido de datos basico na web." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 5.67, "criteria": {
+            "correctionsPolicy": { "score": 5, "justification": { "es": "Politica de correcciones poco visible. Las correcciones en antena son infrecuentes y no sistematicas.", "en": "Low-visibility corrections policy. On-air corrections are infrequent and not systematic.", "ca": "Politica de correccions poc visible.", "eu": "Ikusgarritasun gutxiko zuzenketa-politika.", "gl": "Politica de correccions pouco visible." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 6, "justification": { "es": "Ratio de errores moderada. Los informativos mantienen precision razonable. Algunas afirmaciones en tertulias han sido senaladas por verificadores.", "en": "Moderate error ratio. Newscasts maintain reasonable accuracy. Some discussion panel claims flagged by fact-checkers.", "ca": "Ratio d'errors moderada. Algunes afirmacions en tertulies senyalades.", "eu": "Akatsen ratio moderatua. Solasaldietako baieztapen batzuk egiaztatzaileek adierazi dituzte.", "gl": "Ratio de erros moderada. Algunhas afirmacions en tertulias sinaladas." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada. Responde a errores significativos pero sin proceso sistematico.", "en": "Moderate rectification. Responds to significant errors but without systematic process.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.00, "criteria": {
+            "headlineBodyConsistency": { "score": 5, "justification": { "es": "Titulares web con tendencia al sensacionalismo, especialmente en contenido politico critico con el Gobierno.", "en": "Web headlines with sensationalism tendency, especially in Government-critical political content.", "ca": "Titulars web amb tendencia al sensacionalisme en politica.", "eu": "Web titularrak sentsazionalismo joerarekin, batez ere politikan.", "gl": "Titulares web con tendencia ao sensacionalismo en politica." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes en contenido web.", "en": "Timestamps present in web content.", "ca": "Marques temporals presents en contingut web.", "eu": "Denbora-markak web edukian.", "gl": "Marcas temporais presentes en contido web." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 6, "justification": { "es": "Material multimedia correcto en la web. Seleccion fotografica con cierto sesgo en temas politicos.", "en": "Correct multimedia material on the website. Photo selection with some bias in political topics.", "ca": "Material multimedia correcte. Seleccio fotografica amb cert biaix.", "eu": "Multimedia material zuzena webean. Argazki-hautaketa joera batekin gai politikoetan.", "gl": "Material multimedia correcto. Seleccion fotografica con certo nesgo." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Seleccion de expertos y tertulianos con predominancia conservadora. Menor diversidad ideologica en paneles de debate.", "en": "Expert and panelist selection with conservative predominance. Lower ideological diversity in debate panels.", "ca": "Seleccio d'experts amb predominancia conservadora.", "eu": "Adituen eta solaslarien hautaketa nagusitasun kontserbadorearekin.", "gl": "Seleccion de expertos con predominancia conservadora." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.75, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Periodistas y presentadores identificados. Equipo de informativos reconocible.", "en": "Journalists and anchors identified. Recognizable news team.", "ca": "Periodistes i presentadors identificats.", "eu": "Kazetariak eta aurkezleak identifikatuak.", "gl": "Xornalistas e presentadores identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 4, "justification": { "es": "Sin Defensor del Oyente. La Conferencia Episcopal como propietaria no implica rendicion de cuentas editorial publica.", "en": "No Listener Ombudsman. Episcopal Conference as owner does not imply public editorial accountability.", "ca": "Sense Defensor de l'Oient. La Conferencia Episcopal no implica rendicio de comptes.", "eu": "Entzuleen Defendatzailerik gabe. Apezpiku Konferentzia jabeak ez du kontu-emateko mekanismorik esan nahi.", "gl": "Sen Defensor do Ointe. A Conferencia Episcopal non implica rendicion de contas." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Publicidad radiofonica diferenciada por regulacion. Menciones integradas de presentadores pueden difuminar la linea.", "en": "Radio advertising differentiated by regulation. Integrated anchor mentions may blur the line.", "ca": "Publicitat diferenciada per regulacio. Mencions integrades difuminen.", "eu": "Irrati-publizitatea erregulazioz bereizita. Aurkezleen aipamen integratuek muga lausotu dezakete.", "gl": "Publicidade diferenciada por regulacion. Mencions integradas difuminan." }, "evidence": [] },
+            "aiDisclosure": { "score": 6, "justification": { "es": "Incipiente transparencia sobre uso de herramientas digitales en la produccion de contenidos web.", "en": "Nascent transparency about use of digital tools in web content production.", "ca": "Incipient transparencia sobre l'us d'eines digitals.", "eu": "Hasierako gardentasuna tresna digitalen erabilerari buruz.", "gl": "Incipiente transparencia sobre o uso de ferramentas dixitais." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 4.55,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 5.33, "criteria": {
+            "adjectiveLoad": { "score": 5, "justification": { "es": "Carga adjetival moderada-alta en tertulias. Los informativos son mas mesurados. Tendencia a usar calificativos negativos sobre el Gobierno.", "en": "Moderate-high adjectival load in discussion panels. Newscasts more measured. Tendency to use negative qualifiers about Government.", "ca": "Carrega adjectival moderada-alta en tertulies.", "eu": "Karga adjektibal moderatu-altua solasaldietan.", "gl": "Carga adxectival moderada-alta en tertulias." }, "evidence": [] },
+            "attributionVerbs": { "score": 5, "justification": { "es": "Verbos de atribucion con asimetria conservadora. El Gobierno 'impone', la oposicion 'propone'. Sesgo mas marcado en tertulias.", "en": "Attribution verbs with conservative asymmetry. Government 'imposes', opposition 'proposes'. More marked bias in panels.", "ca": "Verbs d'atribucio amb asimetria conservadora.", "eu": "Atribuzio-berboak asimetria kontserbadorearekin.", "gl": "Verbos de atribucion con asimetria conservadora." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Informativos separados de tertulias de opinion, pero programas matinales como Herrera en COPE difuminan la frontera entre informacion y opinion.", "en": "Newscasts separated from opinion panels, but morning shows like Herrera en COPE blur the line between information and opinion.", "ca": "Informatius separats de tertulies. 'Herrera en COPE' difumina la frontera.", "eu": "Informatiboak solasaldietatik bereizita. 'Herrera en COPE'-k muga lausotzen du.", "gl": "Informativos separados de tertulias. 'Herrera en COPE' difumina a fronteira." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 3.75, "criteria": {
+            "coverageBalance": { "score": 4, "justification": { "es": "Desequilibrio significativo. Cobertura dominada por criticas al Gobierno. Los escandalos de la derecha reciben menor atencion.", "en": "Significant imbalance. Coverage dominated by Government criticism. Right-wing scandals receive less attention.", "ca": "Desequilibri significatiu. Cobertura dominada per critiques al Govern.", "eu": "Desoreka esanguratsua. Estaldura Gobernuaren aurkako kritikek menperatua.", "gl": "Desequilibrio significativo. Cobertura dominada por criticas ao Goberno." }, "evidence": [] },
+            "editorialSymmetry": { "score": 4, "justification": { "es": "Asimetria editorial notable. Estandares de escrutinio mas exigentes para el Gobierno que para la oposicion conservadora.", "en": "Notable editorial asymmetry. More demanding scrutiny standards for Government than for conservative opposition.", "ca": "Asimetria editorial notable.", "eu": "Asimetria editorial nabarmenona.", "gl": "Asimetria editorial notable." }, "evidence": [] },
+            "narrativeFraming": { "score": 3, "justification": { "es": "Encuadre narrativo conservador marcado. Las politicas del Gobierno se enmarcan como amenazas. Fuerte influencia de los valores de la Conferencia Episcopal.", "en": "Marked conservative narrative framing. Government policies framed as threats. Strong influence of Episcopal Conference values.", "ca": "Enquadrament narratiu conservador marcat. Influencia de la Conferencia Episcopal.", "eu": "Narrazio-markaketa kontserbadore markatua. Apezpiku Konferentziaren baloreen eragin handia.", "gl": "Encadramento narrativo conservador marcado. Influencia da Conferencia Episcopal." }, "evidence": [] },
+            "surveyTreatment": { "score": 4, "justification": { "es": "Tratamiento de encuestas con sesgo conservador. Las encuestas del CIS se cuestionan sistematicamente. Las favorables a la derecha reciben mas destaque.", "en": "Conservative poll treatment bias. CIS polls systematically questioned. Right-favorable polls receive more prominence.", "ca": "Tractament d'enquestes amb biaix conservador.", "eu": "Inkesten trataera joera kontserbadorearekin.", "gl": "Tratamento de enquisas con nesgo conservador." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 5.00, "criteria": {
+            "photoSelection": { "score": 5, "justification": { "es": "Seleccion fotografica web con cierto sesgo. Imagenes ligeramente menos favorecedoras de politicos del Gobierno.", "en": "Website photo selection with some bias. Slightly less flattering images of Government politicians.", "ca": "Seleccio fotografica web amb cert biaix.", "eu": "Webeko argazki-hautaketa joera batekin.", "gl": "Seleccion fotografica web con certo nesgo." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.33, "criteria": {
+            "ownershipTransparency": { "score": 6, "justification": { "es": "La propiedad de la Conferencia Episcopal es conocida. La estructura detallada de Radio Popular es menos accesible.", "en": "Episcopal Conference ownership is known. Detailed Radio Popular structure is less accessible.", "ca": "La propietat de la Conferencia Episcopal es coneguda.", "eu": "Apezpiku Konferentziaren jabetza ezaguna da.", "gl": "A propiedade da Conferencia Episcopal e conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Recibe publicidad institucional y eclesiastica. La proporcion no se publica. Posible influencia de la Iglesia en la linea editorial.", "en": "Receives institutional and ecclesiastical advertising. Proportion not published. Possible Church influence on editorial line.", "ca": "Rep publicitat institucional i eclesiastica.", "eu": "Publizitate instituzional eta eliztarra jasotzen du.", "gl": "Recibe publicidade institucional e eclesiastica." }, "evidence": [] },
+            "conflictOfInterest": { "score": 3, "justification": { "es": "Conflicto de interes estructural. La Conferencia Episcopal como propietaria condiciona la cobertura de temas morales, politicos y religiosos. No se declara este conflicto.", "en": "Structural conflict of interest. Episcopal Conference as owner conditions coverage of moral, political, and religious topics. This conflict is not declared.", "ca": "Conflicte d'interes estructural. La Conferencia Episcopal condiciona la cobertura.", "eu": "Interes-gatazka estrukturala. Apezpiku Konferentziak gai moral, politiko eta erlijiosoen estaldura baldintzatzen du.", "gl": "Conflito de interese estrutural. A Conferencia Episcopal condiciona a cobertura." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.26,
+      "overallGrade": "C"
+    }
+  ]
+}

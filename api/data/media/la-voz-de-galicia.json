@@ -1,0 +1,78 @@
+{
+  "id": "la-voz-de-galicia",
+  "slug": "la-voz-de-galicia",
+  "name": "La Voz de Galicia",
+  "logo": "/logos/la-voz-de-galicia.png",
+  "website": "https://www.lavozdegalicia.es",
+  "type": "newspaper",
+  "ownership": {
+    "company": "La Voz de Galicia S.A.",
+    "shareholders": ["Corporacion Voz (familia Santiago Rey Fernandez-Latorre)"],
+    "governmentFunding": false,
+    "fundingNotes": "Largest newspaper in Galicia. Family-owned through Corporacion Voz. Revenue from subscriptions, advertising and institutional advertising."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.48,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 6.40, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Buena identificacion de fuentes en cobertura local gallega. Red de corresponsales locales bien identificados.", "en": "Good source identification in local Galician coverage. Well-identified network of local correspondents.", "ca": "Bona identificacio de fonts en cobertura local gallega.", "eu": "Iturrien identifikazio ona Galiziako tokiko estaldura.", "gl": "Boa identificacion de fontes en cobertura local galega. Rede de correspondentes locais ben identificados." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. Buena cobertura de actores locales gallegos. En politica nacional, enfoque centrista-conservador.", "en": "Moderate diversity. Good coverage of local Galician actors. In national politics, centrist-conservative approach.", "ca": "Diversitat moderada. Bona cobertura d'actors gallecs locals.", "eu": "Aniztasun moderatua. Galiziako tokiko aktoreen estaldura ona.", "gl": "Diversidade moderada. Boa cobertura de actores locais galegos." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Enlaces a fuentes primarias presentes en la version digital. Mejora progresiva.", "en": "Links to primary sources present in digital version. Progressive improvement.", "ca": "Enllacos a fonts primaries presents en la versio digital.", "eu": "Iturri primariotarako estekak bertsio digitalean.", "gl": "Enlaces a fontes primarias presentes na version dixital." }, "evidence": [] },
+            "attachedDocumentation": { "score": 6, "justification": { "es": "Documentacion adjunta en reportajes de investigacion local y medio ambiente.", "en": "Attached documentation in local and environmental investigative reports.", "ca": "Documentacio adjunta en reportatges d'investigacio local.", "eu": "Erantsitako dokumentazioa tokiko ikerketa-erreportajeetan.", "gl": "Documentacion adxunta en reportaxes de investigacion local e medio ambiente." }, "evidence": [] },
+            "rawDataAccess": { "score": 7, "justification": { "es": "Seccion de datos con infografias de calidad. Especial atencion a datos demograficos y economicos gallegos.", "en": "Data section with quality infographics. Special attention to Galician demographic and economic data.", "ca": "Seccio de dades amb infografies de qualitat.", "eu": "Datu-atala kalitate-infografiekin.", "gl": "Seccion de datos con infografias de calidade. Especial atencion a datos demograficos e economicos galegos." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.67, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente. Los errores se corrigen en la edicion digital.", "en": "Corrections policy exists. Errors corrected in digital edition.", "ca": "Politica de correccions existent.", "eu": "Zuzenketa-politika existitzen da.", "gl": "Politica de correccions existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores baja. La proximidad con la comunidad gallega genera autoexigencia factual.", "en": "Low error ratio. Proximity with Galician community generates factual self-demand.", "ca": "Ratio d'errors baixa.", "eu": "Akatsen ratio baxua.", "gl": "Ratio de erros baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 7, "justification": { "es": "Rectificacion razonablemente proactiva en cobertura local donde los errores son mas detectables.", "en": "Reasonably proactive rectification in local coverage where errors are more detectable.", "ca": "Rectificacio raonablement proactiva en cobertura local.", "eu": "Zuzenketa arrazoiz proaktiboa tokiko estalduran.", "gl": "Rectificacion razoablemente proactiva en cobertura local." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.50, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares generalmente alineados con el contenido. Menor tendencia al clickbait que periodicos nacionales.", "en": "Headlines generally aligned with content. Less clickbait tendency than national newspapers.", "ca": "Titulars generalment alineats amb el contingut.", "eu": "Titularrak orokorrean edukiarekin lerratuta.", "gl": "Titulares xeralmente alinados co contido." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales en todos los articulos.", "en": "Timestamps in all articles.", "ca": "Marques temporals en tots els articles.", "eu": "Denbora-markak artikulu guztietan.", "gl": "Marcas temporais en todos os artigos." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material fotografico de calidad, especialmente en cobertura de naturaleza y costa gallega.", "en": "Quality photographic material, especially in Galician coast and nature coverage.", "ca": "Material fotografic de qualitat.", "eu": "Kalitate-argazki materiala.", "gl": "Material fotografico de calidade, especialmente en cobertura de natureza e costa galega." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de expertos gallegos y nacionales. Fuerte red de colaboradores locales.", "en": "Good selection of Galician and national experts. Strong network of local collaborators.", "ca": "Bona seleccio d'experts gallecs i nacionals.", "eu": "Galiziako eta nazioarteko adituen hautaketa ona.", "gl": "Boa seleccion de expertos galegos e nacionais." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 6.25, "criteria": {
+            "authorship": { "score": 8, "justification": { "es": "Articulos firmados. Extensa red de corresponsales locales identificados.", "en": "Signed articles. Extensive network of identified local correspondents.", "ca": "Articles signats. Extensa xarxa de corresponsals.", "eu": "Sinatutako artikuluak. Tokiko korrespontsalen sare zabala.", "gl": "Artigos asinados. Extensa rede de correspondentes locais identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 5, "justification": { "es": "Sin Defensor del Lector activo. Rendicion de cuentas limitada.", "en": "No active Reader's Ombudsman. Limited accountability.", "ca": "Sense Defensor del Lector actiu.", "eu": "Irakurleen Defendatzaile aktiborik gabe.", "gl": "Sen Defensor do Lector activo." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado. Suplementos locales con mayor mezcla editorial-publicitaria.", "en": "Labeled sponsored content. Local supplements with greater editorial-advertising mix.", "ca": "Contingut patrocinat etiquetat.", "eu": "Etiketatutako babestutako edukia.", "gl": "Contido patrocinado etiquetado." }, "evidence": [] },
+            "aiDisclosure": { "score": 6, "justification": { "es": "Incipiente transparencia sobre uso de IA.", "en": "Nascent transparency on AI usage.", "ca": "Incipient transparencia sobre IA.", "eu": "Hasierako gardentasuna IA erabilerari buruz.", "gl": "Incipiente transparencia sobre o uso de IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.72,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.33, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. Tono profesional predominante en informacion local.", "en": "Moderate adjectival load. Professional tone predominant in local information.", "ca": "Carrega adjectival moderada.", "eu": "Karga adjektibal moderatua.", "gl": "Carga adxectival moderada. Ton profesional predominante en informacion local." }, "evidence": [] },
+            "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros.", "en": "Generally neutral attribution verbs.", "ca": "Verbs d'atribucio generalment neutres.", "eu": "Atribuzio-berbo orokorrean neutroak.", "gl": "Verbos de atribucion xeralmente neutros." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. Editoriales con posicionamiento centrista-galleguista claro.", "en": "Differentiated opinion section. Editorials with clear centrist-Galicianist positioning.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita.", "gl": "Seccion de opinion diferenciada. Editoriais con posicionamento centrista-galeguista." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 5.50, "criteria": {
+            "coverageBalance": { "score": 6, "justification": { "es": "Cobertura equilibrada de politica gallega. En politica nacional, ligero sesgo centrista-conservador pro-PP historico en Galicia.", "en": "Balanced Galician political coverage. In national politics, slight historical centrist-conservative pro-PP bias in Galicia.", "ca": "Cobertura equilibrada de politica gallega.", "eu": "Galiziako politikaren estaldura orekatua.", "gl": "Cobertura equilibrada de politica galega." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Simetria editorial moderada. Tratamiento favorable a la Xunta de Galicia historicamente gobernada por el PP.", "en": "Moderate editorial symmetry. Favorable treatment of Xunta de Galicia historically governed by PP.", "ca": "Simetria editorial moderada.", "eu": "Simetria editorial moderatua.", "gl": "Simetria editorial moderada. Tratamento favorable a Xunta historicamente gobernada polo PP." }, "evidence": [] },
+            "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con perspectiva galleguista moderada. Defensa de los intereses gallegos desde posicion centrista.", "en": "Moderate Galicianist narrative framing perspective. Defense of Galician interests from centrist position.", "ca": "Enquadrament amb perspectiva galleguista moderada.", "eu": "Narrazio-markaketa perspektiba galezismo moderatuarekin.", "gl": "Encadramento con perspectiva galeguista moderada. Defensa dos intereses galegos." }, "evidence": [] },
+            "surveyTreatment": { "score": 6, "justification": { "es": "Tratamiento de encuestas profesional con ficha tecnica. Sin sesgo marcado.", "en": "Professional poll treatment with technical sheets. No marked bias.", "ca": "Tractament d'enquestes professional.", "eu": "Inkesten trataera profesionala.", "gl": "Tratamento de enquisas profesional con ficha tecnica." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 7.00, "criteria": {
+            "photoSelection": { "score": 7, "justification": { "es": "Material fotografico de calidad y equilibrado. Especial atencion a paisaje y patrimonio gallego.", "en": "Quality and balanced photographic material. Special attention to Galician landscape and heritage.", "ca": "Material fotografic de qualitat i equilibrat.", "eu": "Kalitate eta orekako argazki materiala.", "gl": "Material fotografico de calidade e equilibrado. Especial atencion a paisaxe e patrimonio galego." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.00, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Propiedad de Corporacion Voz conocida. Estructura familiar menos transparente.", "en": "Corporacion Voz ownership known. Family structure less transparent.", "ca": "Propietat de Corporacio Voz coneguda.", "eu": "Corporacion Voz-en jabetza ezaguna.", "gl": "Propiedade de Corporacion Voz conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Dependencia significativa de publicidad institucional de la Xunta de Galicia y ayuntamientos gallegos.", "en": "Significant dependence on institutional advertising from Xunta de Galicia and Galician city councils.", "ca": "Dependencia significativa de publicitat institucional de la Xunta.", "eu": "Xunta de Galiciaren publizitate instituzionalaren menpekotasun esanguratsua.", "gl": "Dependencia significativa de publicidade institucional da Xunta e concellos galegos." }, "evidence": [] },
+            "conflictOfInterest": { "score": 4, "justification": { "es": "La dependencia de publicidad institucional gallega y los intereses empresariales de Corporacion Voz generan potenciales conflictos.", "en": "Dependence on Galician institutional advertising and Corporacion Voz business interests generate potential conflicts.", "ca": "Dependencia de publicitat institucional gallega genera potencials conflictes.", "eu": "Galiziako publizitate instituzionalaren menpekotasunak potentzialeko gatazkak sortzen ditu.", "gl": "A dependencia de publicidade institucional galega e os intereses de Corporacion Voz xeran potenciais conflitos." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 6.18,
+      "overallGrade": "B"
+    }
+  ]
+}

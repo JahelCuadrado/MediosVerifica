@@ -1,0 +1,78 @@
+{
+  "id": "maldita-es",
+  "slug": "maldita-es",
+  "name": "Maldita.es",
+  "logo": "/logos/maldita-es.png",
+  "website": "https://maldita.es",
+  "type": "digital-native",
+  "ownership": {
+    "company": "Fundacion Maldita.es contra la Desinformacion",
+    "shareholders": ["Fundacion sin animo de lucro"],
+    "governmentFunding": false,
+    "fundingNotes": "Non-profit foundation focused on fact-checking and media literacy. IFCN signatory. Revenue from grants, institutional projects, donations and training programs."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 7.80,
+        "grade": "A",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 7.80, "criteria": {
+            "sourceIdentifiability": { "score": 8, "justification": { "es": "Excelente identificacion de fuentes. La metodologia IFCN exige trazabilidad completa de cada afirmacion verificada.", "en": "Excellent source identification. IFCN methodology requires complete traceability of each verified claim.", "ca": "Excel·lent identificacio de fonts.", "eu": "Iturrien identifikazio bikaina.", "gl": "Excelente identificacion de fontes." }, "evidence": [] },
+            "sourceDiversity": { "score": 8, "justification": { "es": "Alta diversidad de fuentes. Verificaciones consultan multiples fuentes oficiales, cientificas, academicas e independientes sistematicamente.", "en": "High source diversity. Fact-checks systematically consult multiple official, scientific, academic and independent sources.", "ca": "Alta diversitat de fonts.", "eu": "Iturrien aniztasun altua.", "gl": "Alta diversidade de fontes." }, "evidence": [] },
+            "directLinking": { "score": 8, "justification": { "es": "Excelente uso de enlaces. Cada verificacion enlaza a todas las fuentes consultadas con URL directa.", "en": "Excellent link usage. Each fact-check links to all consulted sources with direct URL.", "ca": "Excel·lent us d'enllacos.", "eu": "Esteken erabilera bikaina.", "gl": "Excelente uso de enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 8, "justification": { "es": "Documentacion exhaustiva en cada verificacion. Capturas de pantalla, datos originales y evidencia visual.", "en": "Exhaustive documentation in each fact-check. Screenshots, original data and visual evidence.", "ca": "Documentacio exhaustiva.", "eu": "Dokumentazio sakona egiaztapen bakoitzean.", "gl": "Documentacion exhaustiva." }, "evidence": [] },
+            "rawDataAccess": { "score": 7, "justification": { "es": "Metodologia publicada y accesible. Datos de verificacion consultables. Sin seccion de datos brutos abiertos.", "en": "Published and accessible methodology. Queryable fact-check data. No open raw data section.", "ca": "Metodologia publicada i accessible.", "eu": "Metodologia argitaratua eta eskuragarria.", "gl": "Metodoloxia publicada e accesible." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 8.00, "criteria": {
+            "correctionsPolicy": { "score": 8, "justification": { "es": "Politica de correcciones publica, visible y detallada. Exigida y auditada por IFCN.", "en": "Public, visible and detailed corrections policy. Required and audited by IFCN.", "ca": "Politica publica i detallada.", "eu": "Zuzenketa-politika publikoa, ikusgarria eta xehatua.", "gl": "Politica publica e detallada." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 8, "justification": { "es": "Ratio de errores muy baja. El proceso de verificacion multiple con revision por pares minimiza errores.", "en": "Very low error ratio. Multiple verification with peer review process minimizes errors.", "ca": "Ratio d'errors molt baixa.", "eu": "Akatsen ratio oso baxua.", "gl": "Ratio de erros moi baixa." }, "evidence": [] },
+            "proactiveRectification": { "score": 8, "justification": { "es": "Rectificacion proactiva y transparente. Las actualizaciones de verificaciones se senalan visiblemente.", "en": "Proactive and transparent rectification. Fact-check updates visibly flagged.", "ca": "Rectificacio proactiva i transparent.", "eu": "Zuzenketa proaktiboa eta gardena.", "gl": "Rectificacion proactiva e transparente." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 7.75, "criteria": {
+            "headlineBodyConsistency": { "score": 7, "justification": { "es": "Titulares de verificacion descriptivos. Formato estandarizado que indica la conclusion.", "en": "Descriptive fact-check headlines. Standardized format indicating conclusion.", "ca": "Titulars descriptius.", "eu": "Titular deskriptiboak.", "gl": "Titulares descritivos." }, "evidence": [] },
+            "updateTimestamp": { "score": 8, "justification": { "es": "Marcas temporales claras con historial de actualizaciones visible.", "en": "Clear timestamps with visible update history.", "ca": "Marques temporals clares.", "eu": "Denbora-marka argiak eguneratze-historial ikusgarriarekin.", "gl": "Marcas temporais claras." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 8, "justification": { "es": "Material multimedia de alta calidad. Graficos, capturas y evidencia visual ejemplares.", "en": "High quality multimedia material. Exemplary graphics, screenshots and visual evidence.", "ca": "Material multimedia d'alta qualitat.", "eu": "Kalitate altuko multimedia materiala.", "gl": "Material multimedia de alta calidade." }, "evidence": [] },
+            "expertRelevance": { "score": 8, "justification": { "es": "Consulta sistematica a expertos relevantes y verificados en cada area tematica.", "en": "Systematic consultation of relevant and verified experts in each thematic area.", "ca": "Consulta sistematica a experts verificats.", "eu": "Aditu garrantzitsu eta egiaztatuen kontsulta sistematikoa.", "gl": "Consulta sistematica a expertos verificados." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 7.75, "criteria": {
+            "authorship": { "score": 8, "justification": { "es": "Verificaciones firmadas por el equipo de periodistas. Clara identificacion de autores.", "en": "Fact-checks signed by journalist team. Clear author identification.", "ca": "Verificacions signades per l'equip.", "eu": "Egiaztapenak kazetari-taldeak sinatuak.", "gl": "Verificacions asinadas polo equipo." }, "evidence": [] },
+            "editorialAccountability": { "score": 8, "justification": { "es": "Certificacion IFCN como mecanismo externo de rendicion de cuentas. Auditorias periodicas. Canal de quejas publico.", "en": "IFCN certification as external accountability mechanism. Periodic audits. Public complaints channel.", "ca": "Certificacio IFCN. Auditories periodiques.", "eu": "IFCN ziurtagiria. Aldian behingo auditoriak.", "gl": "Certificacion IFCN. Auditorias periodicas." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 7, "justification": { "es": "Como fundacion sin animo de lucro, la separacion entre contenido y financiacion es clara.", "en": "As a non-profit foundation, separation between content and funding is clear.", "ca": "Com a fundacio, la separacio es clara.", "eu": "Irabazi-asmorik gabeko fundazioa izanik, banaketa argia da.", "gl": "Como fundacion, a separacion e clara." }, "evidence": [] },
+            "aiDisclosure": { "score": 8, "justification": { "es": "Transparencia ejemplar sobre uso de IA. Politica publica y herramientas de deteccion de desinformacion con IA documentadas.", "en": "Exemplary AI transparency. Public policy and AI disinformation detection tools documented.", "ca": "Transparencia exemplar sobre IA.", "eu": "IAren erabilerari buruzko gardentasun eredugarria.", "gl": "Transparencia exemplar sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 7.03,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 7.67, "criteria": {
+            "adjectiveLoad": { "score": 8, "justification": { "es": "Carga adjetival muy baja. Lenguaje factual, tecnico y neutro en verificaciones.", "en": "Very low adjectival load. Factual, technical and neutral language in fact-checks.", "ca": "Carrega adjectival molt baixa.", "eu": "Karga adjektibal oso baxua.", "gl": "Carga adxectival moi baixa." }, "evidence": [] },
+            "attributionVerbs": { "score": 8, "justification": { "es": "Verbos de atribucion neutros y estandarizados. 'Afirmo', 'declaro'. Sin connotacion.", "en": "Neutral and standardized attribution verbs. No connotation.", "ca": "Verbs neutres i estandarditzats.", "eu": "Atribuzio-berbo neutroak eta estandarizatuak.", "gl": "Verbos neutros e estandarizados." }, "evidence": [] },
+            "opinionLabeling": { "score": 7, "justification": { "es": "Las verificaciones son estrictamente factuales. El contenido educativo sobre alfabetizacion mediatica esta claramente diferenciado.", "en": "Fact-checks are strictly factual. Media literacy educational content is clearly differentiated.", "ca": "Verificacions estrictament factuals.", "eu": "Egiaztapenak erabat faktualak dira.", "gl": "Verificacions estrictamente factuais." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 6.75, "criteria": {
+            "coverageBalance": { "score": 7, "justification": { "es": "Buen equilibrio en la seleccion de afirmaciones a verificar. Verifica a actores de todo el espectro politico.", "en": "Good balance in claim selection for verification. Verifies actors across political spectrum.", "ca": "Bon equilibri en la seleccio.", "eu": "Oreka ona egiaztatu beharreko baieztapenen hautaketan.", "gl": "Bo equilibrio na seleccion." }, "evidence": [] },
+            "editorialSymmetry": { "score": 7, "justification": { "es": "Simetria editorial alta. Los estandares de verificacion se aplican uniformemente a todos los actores politicos.", "en": "High editorial symmetry. Verification standards applied uniformly to all political actors.", "ca": "Simetria editorial alta.", "eu": "Simetria editorial altua.", "gl": "Simetria editorial alta." }, "evidence": [] },
+            "narrativeFraming": { "score": 6, "justification": { "es": "Encuadre factual en verificaciones. La seleccion de temas a verificar puede reflejar una ligera preferencia por desinformacion que circula en ambientes conservadores.", "en": "Factual framing in fact-checks. Topic selection may reflect slight preference for disinformation circulating in conservative circles.", "ca": "Enquadrament factual. Lleugera preferencia.", "eu": "Markaketa faktuala. Gai-hautaketak giro kontserbadoreetan zirkulatzen duen desinformazioarekiko lehentasun txikia islatu dezake.", "gl": "Encadramento factual. Lixeira preferencia." }, "evidence": [] },
+            "surveyTreatment": { "score": 7, "justification": { "es": "Verificacion de datos de encuestas profesional y con metodologia rigurosa.", "en": "Professional poll data verification with rigorous methodology.", "ca": "Verificacio professional de dades d'enquestes.", "eu": "Inkesta-datuen egiaztapen profesionala metodologia zorrotzarekin.", "gl": "Verificacion profesional de datos de enquisas." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 8.00, "criteria": {
+            "photoSelection": { "score": 8, "justification": { "es": "Seleccion visual neutra y profesional. Material grafico orientado a la evidencia.", "en": "Neutral and professional visual selection. Graphic material oriented toward evidence.", "ca": "Seleccio visual neutra i professional.", "eu": "Hautaketa bisual neutroa eta profesionala.", "gl": "Seleccion visual neutra e profesional." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 6.33, "criteria": {
+            "ownershipTransparency": { "score": 8, "justification": { "es": "Estructura de fundacion transparente. Financiadores publicados en el sitio web, exigido por IFCN.", "en": "Transparent foundation structure. Funders published on website, required by IFCN.", "ca": "Estructura de fundacio transparent.", "eu": "Fundazioaren egitura gardena.", "gl": "Estrutura de fundacion transparente." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 5, "justification": { "es": "Recibe subvenciones de Google, UE y otras instituciones. Dependencia de financiacion externa que puede generar percepcion de conflicto.", "en": "Receives grants from Google, EU and other institutions. External funding dependence may generate conflict perception.", "ca": "Rep subvencions de Google i UE.", "eu": "Google, EB eta beste erakunde batzuen diru-laguntzak jasotzen ditu.", "gl": "Recibe subvencions de Google e UE." }, "evidence": [] },
+            "conflictOfInterest": { "score": 6, "justification": { "es": "Potencial conflicto por dependencia de financiacion institucional. La certificacion IFCN y la transparencia de financiadores mitigan parcialmente este riesgo.", "en": "Potential conflict from institutional funding dependence. IFCN certification and funder transparency partially mitigate this risk.", "ca": "Potencial conflicte per dependencia de financament.", "eu": "Potentzialeko gatazka finantzaketa instituzionalaren menpekotasunagatik.", "gl": "Potencial conflito por dependencia de financiamento." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 7.49,
+      "overallGrade": "B"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "la-sexta",
+  "slug": "la-sexta",
+  "name": "La Sexta",
+  "logo": "/logos/la-sexta.webp",
+  "website": "https://www.lasexta.com",
+  "type": "television",
+  "ownership": {
+    "company": "Atresmedia Corporacion",
+    "shareholders": ["Planeta DeAgostini (Grupo Planeta, ~42%)", "Accionistas institucionales"],
+    "governmentFunding": false,
+    "fundingNotes": "Part of Atresmedia group alongside Antena 3. Revenue from commercial advertising. Known for progressive-leaning current affairs programming."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.18,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.80, "criteria": {
+            "sourceIdentifiability": { "score": 7, "justification": { "es": "Identificacion de fuentes adecuada en informativos. Reporteros bien identificados en conexiones en directo y reportajes.", "en": "Adequate source identification in newscasts. Reporters well identified in live connections and reports.", "ca": "Identificacio de fonts adequada en informatius.", "eu": "Iturrien identifikazio egokia informatiboetan.", "gl": "Identificacion de fontes adecuada en informativos." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad de fuentes moderada. En politica, predominan voces progresistas y criticas con la derecha. Programas de debate con cierta variedad.", "en": "Moderate source diversity. In politics, progressive and right-critical voices predominate. Debate programs with some variety.", "ca": "Diversitat de fonts moderada. Predominen veus progressistes.", "eu": "Iturrien aniztasun moderatua. Ahots progesistak nagusitzen dira.", "gl": "Diversidade de fontes moderada. Predominan voces progresistas." }, "evidence": [] },
+            "directLinking": { "score": 5, "justification": { "es": "El formato televisivo limita los enlaces. La web complementa con algunos enlaces a fuentes pero de forma no sistematica.", "en": "Television format limits links. Website complements with some source links but not systematically.", "ca": "El format televisiu limita els enllacos.", "eu": "Telebista-formatuak estekak mugatzen ditu.", "gl": "O formato televisivo limita os enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion limitada por formato televisivo. Los programas de investigacion como 'Equipo de Investigacion' si incluyen documentacion visual.", "en": "Documentation limited by TV format. Investigative programs like 'Investigation Team' do include visual documentation.", "ca": "Documentacio limitada pel format televisiu. 'Equipo de Investigacion' inclou documentacio.", "eu": "Dokumentazioa telebista-formatuak mugatua. Ikerketa-programek dokumentazio bisuala jasotzen dute.", "gl": "Documentacion limitada polo formato televisivo. 'Equipo de Investigacion' inclue documentacion." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "La web ofrece graficos e infografias de calidad aceptable. Sin acceso a datos brutos.", "en": "Website offers acceptable quality graphics and infographics. No access to raw data.", "ca": "La web ofereix grafics i infografies de qualitat acceptable.", "eu": "Webak kalitate onargarriko grafikoak eta infografiak eskaintzen ditu.", "gl": "A web ofrece graficos e infografias de calidade aceptable." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.33, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones poco visible. Los errores se corrigen en ediciones posteriores de informativos.", "en": "Low-visibility corrections policy. Errors corrected in subsequent newscast editions.", "ca": "Politica de correccions poc visible.", "eu": "Ikusgarritasun gutxiko zuzenketa-politika.", "gl": "Politica de correccions pouco visible." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores moderada-baja en informativos. Los programas de investigacion mantienen alta precision factual.", "en": "Moderate-low error ratio in newscasts. Investigative programs maintain high factual accuracy.", "ca": "Ratio d'errors moderada-baixa en informatius.", "eu": "Akatsen ratio moderatu-baxua informatiboetan.", "gl": "Ratio de erros moderada-baixa en informativos." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada. Los errores se corrigen cuando se detectan pero sin mecanismo sistematico.", "en": "Moderate rectification. Errors corrected when detected but without systematic mechanism.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.75, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares web con cierta tendencia al sensacionalismo. Los informativos televisivos son mas mesurados.", "en": "Web headlines with some sensationalism tendency. Television newscasts are more measured.", "ca": "Titulars web amb certa tendencia al sensacionalisme.", "eu": "Web titularrak sentsazionalismo joera batekin.", "gl": "Titulares web con certa tendencia ao sensacionalismo." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes en contenido web. Informativos con hora de emision clara.", "en": "Timestamps present in web content. Newscasts with clear broadcast times.", "ca": "Marques temporals presents en contingut web.", "eu": "Denbora-markak web edukian.", "gl": "Marcas temporais presentes en contido web." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 7, "justification": { "es": "Material audiovisual propio de calidad profesional. Buena produccion en programas de investigacion.", "en": "Professional quality own audiovisual material. Good production in investigative programs.", "ca": "Material audiovisual propi de qualitat professional.", "eu": "Kalitate profesionaleko ikus-entzunezko material propioa.", "gl": "Material audiovisual propio de calidade profesional." }, "evidence": [] },
+            "expertRelevance": { "score": 7, "justification": { "es": "Buena seleccion de expertos en programas de investigacion y analisis. Los tertulianos en debate tienden al perfil progresista.", "en": "Good expert selection in investigative and analysis programs. Debate panelists tend toward progressive profiles.", "ca": "Bona seleccio d'experts en programes d'investigacio.", "eu": "Adituen hautaketa ona ikerketa eta analisi programetan.", "gl": "Boa seleccion de expertos en programas de investigacion." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.75, "criteria": {
+            "authorship": { "score": 8, "justification": { "es": "Periodistas y presentadores identificados. Equipo de investigacion reconocible.", "en": "Journalists and anchors identified. Recognizable investigation team.", "ca": "Periodistes i presentadors identificats.", "eu": "Kazetariak eta aurkezleak identifikatuak.", "gl": "Xornalistas e presentadores identificados." }, "evidence": [] },
+            "editorialAccountability": { "score": 4, "justification": { "es": "Sin mecanismo de rendicion de cuentas editorial publico. No existe Defensor del Espectador.", "en": "No public editorial accountability mechanism. No Viewer Ombudsman.", "ca": "Sense mecanisme de rendicio de comptes editorial.", "eu": "Kontu-emateko mekanismo editorial publikorik gabe.", "gl": "Sen mecanismo de rendicion de contas editorial." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Publicidad diferenciada en television por regulacion. En la web, formatos nativos menos claros.", "en": "Advertising differentiated on television by regulation. On the website, native formats less clear.", "ca": "Publicitat diferenciada en televisio. A la web, menys clara.", "eu": "Publizitatea telebistan erregulazioz bereizita. Webean, gutxiago.", "gl": "Publicidade diferenciada en television. Na web, menos clara." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre uso de IA en la produccion de contenidos.", "en": "No public policy on AI usage in content production.", "ca": "Sense politica publica sobre l'us d'IA.", "eu": "Ez dago IAren erabilerari buruzko politika publikorik.", "gl": "Sen politica publica sobre o uso de IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.08,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 5.67, "criteria": {
+            "adjectiveLoad": { "score": 5, "justification": { "es": "Carga adjetival moderada-alta en programas de actualidad. Los informativos son mas neutros que los programas de debate.", "en": "Moderate-high adjectival load in current affairs programs. Newscasts are more neutral than debate programs.", "ca": "Carrega adjectival moderada-alta en programes d'actualitat.", "eu": "Karga adjektibal moderatu-altua gaurko gaien saioetan.", "gl": "Carga adxectival moderada-alta en programas de actualidade." }, "evidence": [] },
+            "attributionVerbs": { "score": 6, "justification": { "es": "Verbos de atribucion con cierta asimetria progresista. Los politicos de derecha reciben verbos ligeramente mas connotativos.", "en": "Attribution verbs with some progressive asymmetry. Right-wing politicians receive slightly more connotative verbs.", "ca": "Verbs d'atribucio amb certa asimetria progressista.", "eu": "Atribuzio-berboak asimetria progresista batekin.", "gl": "Verbos de atribucion con certa asimetria progresista." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Informativos separados de programas de opinion. Sin embargo, programas como Al Rojo Vivo mezclan informacion con analisis posicionado.", "en": "Newscasts separated from opinion programs. However, programs like Al Rojo Vivo mix information with positioned analysis.", "ca": "Informatius separats de programes d'opinio. 'Al Rojo Vivo' barreja informacio amb analisi.", "eu": "Informatiboak iritzi-programetatik bereizita. 'Al Rojo Vivo'-k informazioa eta analisi posizionatua nahasten ditu.", "gl": "Informativos separados de programas de opinion. 'Al Rojo Vivo' mescla informacion con analise." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 4.75, "criteria": {
+            "coverageBalance": { "score": 5, "justification": { "es": "Sesgo progresista en seleccion de temas. Mayor cobertura de escandalos de la derecha y temas de justicia social.", "en": "Progressive bias in topic selection. Greater coverage of right-wing scandals and social justice topics.", "ca": "Biaix progressista en seleccio de temes.", "eu": "Joera progresista gaien hautaketan.", "gl": "Nesgo progresista na seleccion de temas." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial moderada. Mayor escrutinio a la derecha que al Gobierno en programas de actualidad.", "en": "Moderate editorial asymmetry. Greater scrutiny of right than of Government in current affairs programs.", "ca": "Asimetria editorial moderada. Major escrutini a la dreta.", "eu": "Asimetria editorial moderatua. Eskuinari gainbegiratze handiagoa.", "gl": "Asimetria editorial moderada. Maior escrutinio a dereita." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre narrativo con sesgo progresista. Las noticias sobre la derecha se enmarcan frecuentemente desde la critica social. Influencia de la identidad progresista de La Sexta.", "en": "Progressive narrative framing bias. Right-wing news frequently framed from social criticism. Influence of La Sexta's progressive identity.", "ca": "Enquadrament narratiu amb biaix progressista.", "eu": "Narrazio-markaketa joera progresistaarekin.", "gl": "Encadramento narrativo con nesgo progresista." }, "evidence": [] },
+            "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas con sesgo progresista moderado. Las encuestas favorables a la izquierda reciben mayor cobertura.", "en": "Moderately progressive poll treatment bias. Polls favorable to the left receive greater coverage.", "ca": "Tractament d'enquestes amb biaix progressista moderat.", "eu": "Inkesten trataera joera progresista moderatuarekin.", "gl": "Tratamento de enquisas con nesgo progresista moderado." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 6.00, "criteria": {
+            "photoSelection": { "score": 6, "justification": { "es": "Seleccion de imagenes con asimetria moderada. Imagenes de politicos de derecha ligeramente menos favorecedoras.", "en": "Image selection with moderate asymmetry. Slightly less flattering images for right-wing politicians.", "ca": "Seleccio d'imatges amb asimetria moderada.", "eu": "Irudien hautaketa asimetria moderatuarekin.", "gl": "Seleccion de imaxes con asimetria moderada." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 5.00, "criteria": {
+            "ownershipTransparency": { "score": 7, "justification": { "es": "Atresmedia grupo cotizado. Estructura accionarial publica.", "en": "Atresmedia listed group. Public shareholding structure.", "ca": "Atresmedia grup cotitzat. Estructura publica.", "eu": "Atresmedia talde kotizatua. Akziodunen egitura publikoa.", "gl": "Atresmedia grupo cotizado. Estrutura publica." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Dependencia significativa de publicidad comercial e institucional. Proporcion no desglosada.", "en": "Significant commercial and institutional advertising dependence. Proportion not broken down.", "ca": "Dependencia significativa de publicitat.", "eu": "Publizitate-menpekotasun esanguratsua.", "gl": "Dependencia significativa de publicidade." }, "evidence": [] },
+            "conflictOfInterest": { "score": 4, "justification": { "es": "Cobertura de Grupo Planeta y Atresmedia puede verse condicionada. Paradoja de La Sexta con linea progresista dentro de grupo conservador.", "en": "Coverage of Grupo Planeta and Atresmedia may be conditioned. La Sexta paradox of progressive line within conservative group.", "ca": "Cobertura del Grup Planeta pot veure's condicionada. Paradoxa de La Sexta.", "eu": "Planeta Taldearen estaldura baldintzatua izan daiteke. La Sextaren paradoxa.", "gl": "Cobertura do Grupo Planeta pode verse condicionada. Paradoxo de La Sexta." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.74,
+      "overallGrade": "B"
+    }
+  ]
+}

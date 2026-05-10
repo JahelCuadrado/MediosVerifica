@@ -1,0 +1,78 @@
+{
+  "id": "el-huffpost",
+  "slug": "el-huffpost",
+  "name": "El HuffPost",
+  "logo": "/logos/el-huffpost.png",
+  "website": "https://www.huffingtonpost.es",
+  "type": "digital-native",
+  "ownership": {
+    "company": "PRISA Media / BuzzFeed Inc.",
+    "shareholders": ["Grupo PRISA (licencia editorial)", "BuzzFeed Inc. (marca global)"],
+    "governmentFunding": false,
+    "fundingNotes": "Spanish edition of HuffPost, operated under PRISA license. Revenue from digital advertising. Known for progressive editorial line and viral content model."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 5.25,
+        "grade": "C",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.00, "criteria": {
+            "sourceIdentifiability": { "score": 6, "justification": { "es": "Identificacion de fuentes aceptable en noticias propias. Alto volumen de contenido de agencia y blogs de colaboradores.", "en": "Acceptable source identification in own news. High volume of wire and contributor blog content.", "ca": "Identificacio de fonts acceptable.", "eu": "Iturrien identifikazio onargarria.", "gl": "Identificacion de fontes aceptable." }, "evidence": [] },
+            "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad limitada. Predominan voces progresistas en opinion y analisis.", "en": "Limited diversity. Progressive voices predominate in opinion and analysis.", "ca": "Diversitat limitada.", "eu": "Aniztasun mugatua.", "gl": "Diversidade limitada." }, "evidence": [] },
+            "directLinking": { "score": 5, "justification": { "es": "Enlaces presentes pero no sistematicos. Predominan enlaces internos.", "en": "Links present but not systematic. Internal links predominate.", "ca": "Enllacos presents pero no sistematics.", "eu": "Estekak baina ez sistematikoak.", "gl": "Enlaces presentes pero non sistematicos." }, "evidence": [] },
+            "attachedDocumentation": { "score": 4, "justification": { "es": "Documentacion adjunta infrecuente. El formato viral no favorece la documentacion.", "en": "Infrequent attached documentation. Viral format does not favor documentation.", "ca": "Documentacio adjunta infrequent.", "eu": "Erantsitako dokumentazioa gutxitan.", "gl": "Documentacion adxunta infrecuente." }, "evidence": [] },
+            "rawDataAccess": { "score": 5, "justification": { "es": "Sin seccion de datos. Infografias basicas ocasionales.", "en": "No data section. Occasional basic infographics.", "ca": "Sense seccio de dades.", "eu": "Datu-atalik gabe.", "gl": "Sen seccion de datos." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 5.33, "criteria": {
+            "correctionsPolicy": { "score": 5, "justification": { "es": "Politica de correcciones poco visible.", "en": "Low-visibility corrections policy.", "ca": "Politica poc visible.", "eu": "Ikusgarritasun gutxiko politika.", "gl": "Politica pouco visible." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 6, "justification": { "es": "Ratio de errores moderada. El alto volumen de publicacion genera errores puntuales.", "en": "Moderate error ratio. High publication volume generates occasional errors.", "ca": "Ratio d'errors moderada.", "eu": "Akatsen ratio moderatua.", "gl": "Ratio de erros moderada." }, "evidence": [] },
+            "proactiveRectification": { "score": 5, "justification": { "es": "Rectificacion reactiva.", "en": "Reactive rectification.", "ca": "Rectificacio reactiva.", "eu": "Zuzenketa erreaktiboa.", "gl": "Rectificacion reactiva." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 5.50, "criteria": {
+            "headlineBodyConsistency": { "score": 4, "justification": { "es": "Alta tendencia al clickbait. Los titulares buscan viralidad sobre precision.", "en": "High clickbait tendency. Headlines seek virality over accuracy.", "ca": "Alta tendencia al clickbait.", "eu": "Clickbait joera altua.", "gl": "Alta tendencia ao clickbait." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals.", "eu": "Denbora-markak.", "gl": "Marcas temporais." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 6, "justification": { "es": "Material multimedia correcto. Uso de contenido viral y redes sociales.", "en": "Correct multimedia material. Use of viral and social media content.", "ca": "Material multimedia correcte.", "eu": "Multimedia material zuzena.", "gl": "Material multimedia correcto." }, "evidence": [] },
+            "expertRelevance": { "score": 5, "justification": { "es": "Seleccion de expertos limitada. Los blogs de colaboradores no siempre son expertos verificados.", "en": "Limited expert selection. Contributor blogs are not always verified experts.", "ca": "Seleccio d'experts limitada.", "eu": "Adituen hautaketa mugatua.", "gl": "Seleccion de expertos limitada." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.00, "criteria": {
+            "authorship": { "score": 6, "justification": { "es": "Articulos de redaccion firmados. Alto volumen de contenido de blogs con autoria variable.", "en": "Signed newsroom articles. High volume of blog content with variable authorship.", "ca": "Articles signats. Alt volum de blogs.", "eu": "Sinatutako artikuluak. Blog eduki bolumen altua.", "gl": "Artigos asinados. Alto volume de blogs." }, "evidence": [] },
+            "editorialAccountability": { "score": 4, "justification": { "es": "Sin Defensor del Lector. Rendicion de cuentas limitada.", "en": "No Reader's Ombudsman. Limited accountability.", "ca": "Sense Defensor del Lector.", "eu": "Irakurleen Defendatzailerik gabe.", "gl": "Sen Defensor do Lector." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 5, "justification": { "es": "Contenido patrocinado integrado con el editorial. La dependencia publicitaria es total.", "en": "Sponsored content integrated with editorial. Advertising dependence is total.", "ca": "Contingut patrocinat integrat.", "eu": "Babestutako edukia editorialarekin integratua.", "gl": "Contido patrocinado integrado." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre uso de IA.", "en": "No public policy on AI usage.", "ca": "Sense politica sobre IA.", "eu": "IAri buruzko politikarik gabe.", "gl": "Sen politica sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 4.63,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 5.33, "criteria": {
+            "adjectiveLoad": { "score": 5, "justification": { "es": "Carga adjetival moderada-alta en contenido politico. Tono activista en temas sociales.", "en": "Moderate-high adjectival load in political content. Activist tone in social topics.", "ca": "Carrega adjectival moderada-alta.", "eu": "Karga adjektibal moderatu-altua.", "gl": "Carga adxectival moderada-alta." }, "evidence": [] },
+            "attributionVerbs": { "score": 5, "justification": { "es": "Verbos con asimetria progresista moderada.", "en": "Verbs with moderate progressive asymmetry.", "ca": "Verbs amb asimetria progressista.", "eu": "Berboak asimetria progresista moderatuarekin.", "gl": "Verbos con asimetria progresista." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Los blogs de opinion estan separados pero la linea editorial progresista permea todo el contenido.", "en": "Opinion blogs are separated but progressive editorial line permeates all content.", "ca": "Blogs d'opinio separats.", "eu": "Iritzi-blogak bereizita baina lerro editorial progresistak eduki guztia zehazkatzen du.", "gl": "Blogs de opinion separados." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 4.00, "criteria": {
+            "coverageBalance": { "score": 4, "justification": { "es": "Sesgo progresista marcado en seleccion de temas. Alta cobertura de temas de genero, derechos LGTBI y critica a la derecha.", "en": "Marked progressive bias in topic selection. High coverage of gender, LGBTI rights and right-wing criticism.", "ca": "Biaix progressista marcat.", "eu": "Joera progresista markatua gaien hautaketan.", "gl": "Nesgo progresista marcado." }, "evidence": [] },
+            "editorialSymmetry": { "score": 4, "justification": { "es": "Asimetria editorial notable. Escrutinio asimetrico.", "en": "Notable editorial asymmetry. Asymmetric scrutiny.", "ca": "Asimetria editorial notable.", "eu": "Asimetria editorial nabarmena.", "gl": "Asimetria editorial notable." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre progresista en toda la cobertura politica y social.", "en": "Progressive framing in all political and social coverage.", "ca": "Enquadrament progressista.", "eu": "Markaketa progresista estaldura politiko eta sozial guztian.", "gl": "Encadramento progresista." }, "evidence": [] },
+            "surveyTreatment": { "score": 4, "justification": { "es": "Tratamiento de encuestas con sesgo progresista.", "en": "Progressive poll treatment bias.", "ca": "Tractament amb biaix progressista.", "eu": "Inkesten trataera joera progresistaarekin.", "gl": "Tratamento con nesgo progresista." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 5.00, "criteria": {
+            "photoSelection": { "score": 5, "justification": { "es": "Seleccion visual con sesgo moderado. Material viral frecuente.", "en": "Visual selection with moderate bias. Frequent viral material.", "ca": "Seleccio visual amb biaix moderat.", "eu": "Hautaketa bisuala joera moderatuarekin.", "gl": "Seleccion visual con nesgo moderado." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.33, "criteria": {
+            "ownershipTransparency": { "score": 6, "justification": { "es": "Estructura PRISA/BuzzFeed conocida publicamente.", "en": "PRISA/BuzzFeed structure publicly known.", "ca": "Estructura PRISA/BuzzFeed coneguda.", "eu": "PRISA/BuzzFeed egitura publikoki ezaguna.", "gl": "Estrutura PRISA/BuzzFeed conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Alta dependencia publicitaria. Proporcion institucional no desglosada.", "en": "High advertising dependence. Institutional proportion not broken down.", "ca": "Alta dependencia publicitaria.", "eu": "Publizitate-menpekotasun altua.", "gl": "Alta dependencia publicitaria." }, "evidence": [] },
+            "conflictOfInterest": { "score": 3, "justification": { "es": "La relacion con PRISA y la dependencia publicitaria total generan conflictos de interes potenciales no declarados.", "en": "PRISA relationship and total advertising dependence generate potential undeclared conflicts of interest.", "ca": "La relacio amb PRISA i la dependencia publicitaria.", "eu": "PRISArekin harremana eta publizitate-menpekotasun osoak.", "gl": "A relacion con PRISA e a dependencia publicitaria." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.00,
+      "overallGrade": "C"
+    }
+  ]
+}

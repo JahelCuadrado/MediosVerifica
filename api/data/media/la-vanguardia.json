@@ -1,0 +1,110 @@
+{
+  "id": "la-vanguardia",
+  "slug": "la-vanguardia",
+  "name": "La Vanguardia",
+  "logo": "/logos/la-vanguardia.png",
+  "website": "https://www.lavanguardia.com",
+  "type": "newspaper",
+  "ownership": {
+    "company": "Grupo Godo",
+    "shareholders": ["Familia Godo (Conde de Godo, 100%)"],
+    "governmentFunding": false,
+    "fundingNotes": "Family-owned media group based in Barcelona. Revenue from advertising, subscriptions, and diversified media holdings."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 6.48,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": {
+            "weight": 0.30,
+            "score": 6.20,
+            "criteria": {
+              "sourceIdentifiability": { "score": 7, "justification": { "es": "Identificacion de fuentes adecuada en reportajes y noticias propias. Los contenidos de agencia integrados mantienen el formato de atribucion original. Fuentes anonimas presentes en politica catalana.", "en": "Adequate source identification in reports and own news. Integrated wire content maintains original attribution format. Anonymous sources present in Catalan politics.", "ca": "Identificacio de fonts adequada en reportatges i noticies propies. Les fonts anonimes son presents en politica catalana.", "eu": "Iturrien identifikazio egokia erreportaje eta albiste propioetan. Iturri anonimoak Kataluniako politikan daude.", "gl": "Identificacion de fontes adecuada en reportaxes e noticias propias. Fontes anonimas presentes en politica catala." }, "evidence": [] },
+              "sourceDiversity": { "score": 7, "justification": { "es": "Buena diversidad de fuentes en politica nacional e internacional. En la cobertura de la politica catalana, mayor presencia de fuentes del espectro autonomista y centrista.", "en": "Good source diversity in national and international politics. In Catalan politics coverage, greater presence of autonomist and centrist spectrum sources.", "ca": "Bona diversitat de fonts en politica nacional i internacional. En la cobertura de la politica catalana, major presencia de fonts autonomistes.", "eu": "Iturrien aniztasun ona politika nazional eta nazioartekoan. Kataluniako politikan, iturri autonomista eta zentristen presentzia handiagoa.", "gl": "Boa diversidade de fontes en politica nacional e internacional. Na cobertura da politica catala, maior presenza de fontes autonomistas." }, "evidence": [] },
+              "directLinking": { "score": 6, "justification": { "es": "Enlaces a fuentes primarias presentes pero no sistematicos. La version digital enlaza a documentos en investigaciones importantes pero no en noticias del dia.", "en": "Links to primary sources present but not systematic. The digital version links to documents in major investigations but not in daily news.", "ca": "Enllacos a fonts primaries presents pero no sistematics. La versio digital enllaca a documents en investigacions importants.", "eu": "Iturri primariotarako estekak daude baina ez dira sistematikoak. Bertsio digitalak dokumentuetara estekatzen du ikerketa garrantzitsuetan.", "gl": "Enlaces a fontes primarias presentes pero non sistematicos. A version dixital enlaza a documentos en investigacions importantes." }, "evidence": [] },
+              "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion adjunta poco frecuente. Los reportajes incluyen graficos y visualizaciones pero rara vez documentos de soporte descargables.", "en": "Infrequent attached documentation. Reports include graphics and visualizations but rarely downloadable supporting documents.", "ca": "Documentacio adjunta poc frequent. Els reportatges inclouen grafics pero rarament documents descarregables.", "eu": "Erantsitako dokumentazioa gutxitan. Erreportajeek grafikoak jasotzen dituzte baina gutxitan deskargatzeko dokumentuak.", "gl": "Documentacion adxunta pouco frecuente. As reportaxes incluen graficos pero raramente documentos descargables." }, "evidence": [] },
+              "rawDataAccess": { "score": 6, "justification": { "es": "Dispone de seccion de datos y visualizaciones interactivas de calidad. Sin embargo, el acceso a datasets brutos es excepcional.", "en": "Has a quality data and interactive visualizations section. However, access to raw datasets is exceptional.", "ca": "Disposa de seccio de dades i visualitzacions interactives de qualitat. L'acces a datasets bruts es excepcional.", "eu": "Datu eta bistaratzeen atal interaktiboa du. Hala ere, datu gordinetarako sarbidea salbuespenezkoa da.", "gl": "Dispon de seccion de datos e visualizacions interactivas de calidade. O acceso a datasets brutos e excepcional." }, "evidence": [] }
+            }
+          },
+          "errorManagement": {
+            "weight": 0.25,
+            "score": 6.33,
+            "criteria": {
+              "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente pero poco prominente. Las correcciones se aplican en el texto sin notificacion destacada al lector.", "en": "Corrections policy exists but is not prominent. Corrections are applied in text without prominent reader notification.", "ca": "Politica de correccions existent pero poc prominent. Les correccions s'apliquen al text sense notificacio destacada.", "eu": "Zuzenketa-politika existitzen da baina ez da nabarmena. Zuzenketak testuan aplikatzen dira irakurleari jakinarazi gabe.", "gl": "Politica de correccions existente pero pouco prominente. As correccions aplicanse no texto sen notificacion destacada." }, "evidence": [] },
+              "verifiedErrorRatio": { "score": 7, "justification": { "es": "Ratio de errores verificados baja-moderada. Pocos desmentidos por fact-checkers externos. La precision factual es generalmente alta.", "en": "Low-moderate verified error ratio. Few debunks by external fact-checkers. Factual accuracy is generally high.", "ca": "Ratio d'errors verificats baixa-moderada. Pocs desmentits per verificadors externs.", "eu": "Egiaztatutako akatsen ratio baxu-moderatua. Kanpoko egiaztatzaileen gezurtapen gutxi.", "gl": "Ratio de erros verificados baixa-moderada. Poucos desmentidos por verificadores externos." }, "evidence": [] },
+              "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion mayoritariamente reactiva. Corrige errores cuando se senalan externamente pero sin mecanismo proactivo sistematico.", "en": "Mostly reactive rectification. Corrects errors when flagged externally but without systematic proactive mechanism.", "ca": "Rectificacio majoritariament reactiva. Corregeix errors quan se senyalen externament.", "eu": "Zuzenketa gehienbat erreaktiboa. Akatsak kanpotik adierazten direnean zuzentzen ditu.", "gl": "Rectificacion maioritariamente reactiva. Corrixe erros cando se sinalan externamente." }, "evidence": [] }
+            }
+          },
+          "informationQuality": {
+            "weight": 0.25,
+            "score": 7.00,
+            "criteria": {
+              "headlineBodyConsistency": { "score": 6, "justification": { "es": "Tendencia moderada hacia titulares editorizalizados. Los titulares en politica catalana tienden a favorecer posiciones centristas. Menor sensacionalismo que competidores madrilenos.", "en": "Moderate tendency toward editorialized headlines. Headlines in Catalan politics tend to favor centrist positions. Less sensationalism than Madrid-based competitors.", "ca": "Tendencia moderada cap a titulars editorialitzats. Els titulars en politica catalana afavoreixen posicions centristes.", "eu": "Joera moderatua titular editorialtzetara. Kataluniako politikako titularrek posizio zentristak mesedetzeko joera dute.", "gl": "Tendencia moderada cara a titulares editorializados. Os titulares en politica catala favorecen posicions centristas." }, "evidence": [] },
+              "updateTimestamp": { "score": 8, "justification": { "es": "Marcas temporales de publicacion y actualizacion visibles. Formato claro con fecha y hora en todos los articulos.", "en": "Publication and update timestamps visible. Clear format with date and time in all articles.", "ca": "Marques temporals de publicacio i actualitzacio visibles. Format clar amb data i hora.", "eu": "Argitalpen eta eguneratze denbora-markak ikusgai. Formatu argia data eta orduarekin.", "gl": "Marcas temporais de publicacion e actualizacion visibles. Formato claro con data e hora." }, "evidence": [] },
+              "multimediaAccuracy": { "score": 7, "justification": { "es": "Material multimedia correctamente atribuido y relevante. Uso de fotografias propias y de agencias con etiquetado adecuado.", "en": "Correctly attributed and relevant multimedia material. Use of own and agency photographs with adequate labeling.", "ca": "Material multimedia correctament atribuit i rellevant. Us de fotografies propies i d'agencies amb etiquetat adequat.", "eu": "Multimedia materiala behar bezala esleitua eta garrantzitsua. Argazki propio eta agentziakoak etiketatze egokiarekin.", "gl": "Material multimedia correctamente atribuido e relevante. Uso de fotografias propias e de axencias con etiquetado adecuado." }, "evidence": [] },
+              "expertRelevance": { "score": 7, "justification": { "es": "Seleccion de expertos generalmente relevante. Amplia red de colaboradores academicos catalanes. Diversidad de perspectivas expertas aceptable.", "en": "Generally relevant expert selection. Broad network of Catalan academic collaborators. Acceptable diversity of expert perspectives.", "ca": "Seleccio d'experts generalment rellevant. Amplia xarxa de collaboradors academics catalans.", "eu": "Orokorrean garrantzitsua den adituen hautaketa. Kataluniako laguntzaile akademikoen sare zabala.", "gl": "Seleccion de expertos xeralmente relevante. Ampla rede de colaboradores academicos catalans." }, "evidence": [] }
+            }
+          },
+          "outletIdentity": {
+            "weight": 0.20,
+            "score": 6.25,
+            "criteria": {
+              "authorship": { "score": 8, "justification": { "es": "Articulos firmados por periodistas identificados. Amplia plantilla propia con corresponsales y colaboradores reconocibles.", "en": "Articles signed by identified journalists. Large own staff with recognizable correspondents and collaborators.", "ca": "Articles signats per periodistes identificats. Amplia plantilla propia amb corresponsals i collaboradors.", "eu": "Artikuluak identifikatutako kazetariek sinatuak. Plantilla zabal propioa korrespontsale eta lankide ezagunekin.", "gl": "Artigos asinados por xornalistas identificados. Ampla plantilla propia con correspondentes e colaboradores." }, "evidence": [] },
+              "editorialAccountability": { "score": 5, "justification": { "es": "No dispone de Defensor del Lector. El Grupo Godo mantiene un consejo editorial pero sin funcion publica de rendicion de cuentas accesible al lector.", "en": "No Reader's Ombudsman. Grupo Godo maintains an editorial board but without a public accountability function accessible to readers.", "ca": "No disposa de Defensor del Lector. El Grup Godo mante un consell editorial sense funcio publica de rendicio de comptes.", "eu": "Ez du Irakurleen Defendatzailerik. Godo Taldeak kontseilu editoriala mantentzen du baina publikoaren eskura dagoen kontu-emateko funtziorik gabe.", "gl": "Non dispon de Defensor do Lector. O Grupo Godo manten un consello editorial sen funcion publica de rendicion de contas." }, "evidence": [] },
+              "editorialAdSeparation": { "score": 7, "justification": { "es": "Contenido patrocinado etiquetado como tal. La separacion visual entre publicidad y editorial es generalmente clara aunque algunos formatos nativos se integran demasiado.", "en": "Sponsored content labeled as such. Visual separation between advertising and editorial is generally clear though some native formats integrate too closely.", "ca": "Contingut patrocinat etiquetat com a tal. La separacio visual es generalment clara.", "eu": "Babestutako edukia horrela etiketatuta. Banaketa bisuala orokorrean argia da.", "gl": "Contido patrocinado etiquetado como tal. A separacion visual e xeralmente clara." }, "evidence": [] },
+              "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica clara sobre uso de herramientas de IA en la redaccion. No se informa al lector sobre posible uso de IA en contenidos.", "en": "No clear public policy on AI tool usage in the newsroom. Readers not informed about potential AI usage in content.", "ca": "Sense politica publica clara sobre l'us d'eines d'IA a la redaccio.", "eu": "Ez dago IA tresnen erabilerari buruzko politika publiko argirik erredakzioan.", "gl": "Sen politica publica clara sobre o uso de ferramentas de IA na redaccion." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "neutrality": {
+        "score": 5.90,
+        "grade": "B",
+        "categories": {
+          "languageNarrative": {
+            "weight": 0.30,
+            "score": 6.33,
+            "criteria": {
+              "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. Menor que en periodicos madrilenos pero presente en la cobertura de politica catalana, donde se favorece el tono autonomista centrista.", "en": "Moderate adjectival load. Lower than Madrid-based newspapers but present in Catalan politics coverage, where a centrist autonomist tone is favored.", "ca": "Carrega adjectival moderada. Menor que en diaris madrilenys pero present en la cobertura de politica catalana.", "eu": "Karga adjektibal moderatua. Madrilgo egunkarienak baino txikiagoa baina Kataluniako politikaren estaldurean nabarmena.", "gl": "Carga adxectival moderada. Menor que en xornais madrilenos pero presente na cobertura de politica catala." }, "evidence": [] },
+              "attributionVerbs": { "score": 7, "justification": { "es": "Verbos de atribucion generalmente neutros. Menor asimetria que en periodicos de linea ideologica mas marcada.", "en": "Generally neutral attribution verbs. Less asymmetry than in newspapers with more marked ideological lines.", "ca": "Verbs d'atribucio generalment neutres. Menor asimetria que en diaris de linia ideologica mes marcada.", "eu": "Atribuzio-berbo orokorrean neutroak. Asimetria gutxiago lerro ideologiko markatuagoko egunkariekin alderatuta.", "gl": "Verbos de atribucion xeralmente neutros. Menor asimetria que en xornais de lina ideoloxica mais marcada." }, "evidence": [] },
+              "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. Algunas columnas de analisis politico catalan incluyen posicionamiento editorial sin etiquetado claro.", "en": "Differentiated opinion section. Some Catalan political analysis columns include editorial positioning without clear labeling.", "ca": "Seccio d'opinio diferenciada. Algunes columnes d'analisi politica catalana inclouen posicionament editorial.", "eu": "Iritzi-atala bereizita. Kataluniako analisi politikoko zutabe batzuek posizionamendu editoriala jasotzen dute.", "gl": "Seccion de opinion diferenciada. Algunhas columnas de analise politica catala incluen posicionamento editorial." }, "evidence": [] }
+            }
+          },
+          "selectionFraming": {
+            "weight": 0.30,
+            "score": 5.75,
+            "criteria": {
+              "coverageBalance": { "score": 6, "justification": { "es": "Equilibrio razonable en politica nacional. En politica catalana, mayor atencion a posiciones autonomistas centristas que a independentistas o unionistas radicales.", "en": "Reasonable balance in national politics. In Catalan politics, more attention to centrist autonomist positions than to radical independentists or unionists.", "ca": "Equilibri raonable en politica nacional. En politica catalana, major atencio a posicions autonomistes centristes.", "eu": "Oreka arrazoigarria politika nazionalean. Kataluniako politikan, posizio autonomista zentristei arreta handiagoa.", "gl": "Equilibrio razoable en politica nacional. En politica catala, maior atencion a posicions autonomistas centristas." }, "evidence": [] },
+              "editorialSymmetry": { "score": 6, "justification": { "es": "Tratamiento editorial moderadamente simetrico en politica nacional. Mayor sesgo en politica catalana hacia posiciones del espectro centrista catalanista.", "en": "Moderately symmetric editorial treatment in national politics. More bias in Catalan politics toward centrist catalanist spectrum positions.", "ca": "Tractament editorial moderadament simetric en politica nacional. Major biaix en politica catalana.", "eu": "Trataera editorial moderatuki simetrikoa politika nazionalean. Biaix handiagoa Kataluniako politikan.", "gl": "Tratamento editorial moderadamente simetrico en politica nacional. Maior nesgo en politica catala." }, "evidence": [] },
+              "narrativeFraming": { "score": 5, "justification": { "es": "Encuadre narrativo con sesgo catalanista moderado. Las noticias sobre Cataluna se enmarcan desde la perspectiva autonomista. La cobertura nacional tiende al centrismo pragmatico.", "en": "Moderate catalanist narrative framing bias. News about Catalonia framed from the autonomist perspective. National coverage tends toward pragmatic centrism.", "ca": "Enquadrament narratiu amb biaix catalanista moderat. Les noticies sobre Catalunya s'enmarquen des de la perspectiva autonomista.", "eu": "Narrazio-markaketa joera katalanista moderatuarekin. Kataluniari buruzko albisteak perspektiba autonomistatik markatzen dira.", "gl": "Encadramento narrativo con nesgo catalanista moderado. As noticias sobre Cataluna enmarcase dende a perspectiva autonomista." }, "evidence": [] },
+              "surveyTreatment": { "score": 6, "justification": { "es": "Tratamiento de encuestas generalmente neutro. Se presentan con ficha tecnica. Alguna tendencia a destacar encuestas que favorecen posiciones catalanistas.", "en": "Generally neutral poll treatment. Presented with technical sheets. Some tendency to highlight polls favoring catalanist positions.", "ca": "Tractament d'enquestes generalment neutre. Es presenten amb fitxa tecnica.", "eu": "Inkesten trataera orokorrean neutroa. Fitxa teknikoarekin aurkezten dira.", "gl": "Tratamento de enquisas xeralmente neutro. Presentanse con ficha tecnica." }, "evidence": [] }
+            }
+          },
+          "visualRepresentation": {
+            "weight": 0.10,
+            "score": 6.00,
+            "criteria": {
+              "photoSelection": { "score": 6, "justification": { "es": "Seleccion fotografica generalmente equilibrada. Ligera tendencia a imagenes mas favorecedoras para actores catalanistas centristas.", "en": "Generally balanced photo selection. Slight tendency toward more flattering images for centrist catalanist actors.", "ca": "Seleccio fotografica generalment equilibrada. Lleugera tendencia a imatges mes afavoridores per a actors catalanistes.", "eu": "Argazki-hautaketa orokorrean orekatua. Joera txikia aktore katalanista zentristen irudi alaienagoak erabiltzerantz.", "gl": "Seleccion fotografica xeralmente equilibrada. Lixeira tendencia a imaxes mais favorecedoras para actores catalanistas." }, "evidence": [] }
+            }
+          },
+          "interestsFunding": {
+            "weight": 0.30,
+            "score": 5.67,
+            "criteria": {
+              "ownershipTransparency": { "score": 7, "justification": { "es": "Propiedad del Grupo Godo y la familia Conde de Godo es conocida publicamente. Sin embargo, el desglose detallado de la estructura corporativa no se facilita al lector.", "en": "Grupo Godo and Conde de Godo family ownership is publicly known. However, detailed corporate structure breakdown is not provided to readers.", "ca": "La propietat del Grup Godo i la familia Comte de Godo es coneguda publicament.", "eu": "Godo Taldea eta Godo Kontearen familiaren jabetza publikoki ezaguna da.", "gl": "A propiedade do Grupo Godo e a familia Conde de Godo e conecida publicamente." }, "evidence": [] },
+              "institutionalAdvertising": { "score": 5, "justification": { "es": "Recibe publicidad institucional de la Generalitat de Catalunya y otras administraciones. La proporcion no es transparente y puede condicionar la cobertura de las administraciones catalanas.", "en": "Receives institutional advertising from the Generalitat de Catalunya and other administrations. Proportion is not transparent and may condition coverage of Catalan administrations.", "ca": "Rep publicitat institucional de la Generalitat i altres administracions. La proporcio no es transparent.", "eu": "Generalitatetik eta beste administrazio batzuetatik publizitate instituzionala jasotzen du. Proportzioa ez da gardena.", "gl": "Recibe publicidade institucional da Generalitat de Catalunya e outras administracions. A proporcion non e transparente." }, "evidence": [] },
+              "conflictOfInterest": { "score": 5, "justification": { "es": "La cobertura de asuntos que afectan al Grupo Godo, al sector mediatico catalan o a las elites economicas barcelonesas puede verse condicionada por vinculos empresariales.", "en": "Coverage of matters affecting Grupo Godo, the Catalan media sector, or Barcelona economic elites may be conditioned by business ties.", "ca": "La cobertura d'assumptes que afecten el Grup Godo o les elits economiques barcelonines pot veure's condicionada.", "eu": "Godo Taldeari, Kataluniako hedabide-sektoreari edo Bartzelonako elite ekonomikoei eragiten dieten gaien estaldura baldintzatua izan daiteke.", "gl": "A cobertura de asuntos que afectan ao Grupo Godo ou as elites economicas barcelonesas pode verse condicionada." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "overallScore": 6.25,
+      "overallGrade": "B"
+    }
+  ]
+}

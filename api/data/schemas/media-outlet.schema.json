@@ -1,0 +1,345 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "media-outlet.schema.json",
+  "title": "Media Outlet Evaluation",
+  "description": "Complete evaluation data for a single media outlet in MediosVerifica.",
+  "type": "object",
+  "required": ["id", "slug", "name", "logo", "website", "type", "ownership", "evaluations"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Unique kebab-case identifier. Also used as filename."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "URL-friendly slug (usually equals id)."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Official name of the media outlet."
+    },
+    "logo": {
+      "type": "string",
+      "description": "Path to the logo file relative to /public (e.g. /logos/el-pais.svg)."
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "description": "Primary website URL."
+    },
+    "type": {
+      "type": "string",
+      "enum": ["newspaper", "television", "radio", "digital-native", "news-agency", "magazine"],
+      "description": "Classification of the outlet."
+    },
+    "ownership": { "$ref": "#/$defs/OwnershipInfo" },
+    "evaluations": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/Evaluation" },
+      "description": "Chronologically ordered evaluations (newest first)."
+    }
+  },
+  "$defs": {
+    "OwnershipInfo": {
+      "type": "object",
+      "required": ["company", "shareholders", "governmentFunding"],
+      "additionalProperties": false,
+      "properties": {
+        "company": {
+          "type": "string",
+          "description": "Parent company or group name."
+        },
+        "shareholders": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Known major shareholders or controlling entities."
+        },
+        "governmentFunding": {
+          "type": "boolean",
+          "description": "Whether the outlet receives direct government/institutional funding."
+        },
+        "fundingNotes": {
+          "type": "string",
+          "description": "Optional notes on funding structure."
+        }
+      }
+    },
+    "LocalizedText": {
+      "type": "object",
+      "required": ["es", "en", "ca", "eu", "gl"],
+      "additionalProperties": false,
+      "properties": {
+        "es": { "type": "string", "description": "Spanish" },
+        "en": { "type": "string", "description": "English" },
+        "ca": { "type": "string", "description": "Catalan" },
+        "eu": { "type": "string", "description": "Basque" },
+        "gl": { "type": "string", "description": "Galician" }
+      }
+    },
+    "CriterionScore": {
+      "type": "object",
+      "required": ["score", "justification", "evidence"],
+      "additionalProperties": false,
+      "properties": {
+        "score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10,
+          "description": "Numeric score from 0 to 10."
+        },
+        "justification": {
+          "$ref": "#/$defs/LocalizedText",
+          "description": "Per-locale justification text explaining the score."
+        },
+        "evidence": {
+          "type": "array",
+          "items": { "type": "string", "format": "uri" },
+          "description": "URLs to evidence supporting the score."
+        }
+      }
+    },
+    "ReliabilityCriteria_sourceRigor": {
+      "type": "object",
+      "required": ["sourceIdentifiability", "sourceDiversity", "directLinking", "attachedDocumentation", "rawDataAccess"],
+      "additionalProperties": false,
+      "properties": {
+        "sourceIdentifiability": { "$ref": "#/$defs/CriterionScore", "description": "Are sources identified by name and role?" },
+        "sourceDiversity": { "$ref": "#/$defs/CriterionScore", "description": "Are multiple independent sources consulted?" },
+        "directLinking": { "$ref": "#/$defs/CriterionScore", "description": "Does the article link to primary sources?" },
+        "attachedDocumentation": { "$ref": "#/$defs/CriterionScore", "description": "Are supporting documents attached (PDFs, datasets)?" },
+        "rawDataAccess": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet provide access to raw data or complete primary sources?" }
+      }
+    },
+    "ReliabilityCriteria_errorManagement": {
+      "type": "object",
+      "required": ["correctionsPolicy", "verifiedErrorRatio", "proactiveRectification"],
+      "additionalProperties": false,
+      "properties": {
+        "correctionsPolicy": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet have a visible, accessible corrections/errata policy?" },
+        "verifiedErrorRatio": { "$ref": "#/$defs/CriterionScore", "description": "Ratio of IFCN-verified errors relative to publication volume." },
+        "proactiveRectification": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet proactively correct errors without external pressure?" }
+      }
+    },
+    "ReliabilityCriteria_informationQuality": {
+      "type": "object",
+      "required": ["headlineBodyConsistency", "updateTimestamp", "multimediaAccuracy", "expertRelevance"],
+      "additionalProperties": false,
+      "properties": {
+        "headlineBodyConsistency": { "$ref": "#/$defs/CriterionScore", "description": "Do headlines accurately reflect the article body?" },
+        "updateTimestamp": { "$ref": "#/$defs/CriterionScore", "description": "Are publication and update timestamps clearly displayed?" },
+        "multimediaAccuracy": { "$ref": "#/$defs/CriterionScore", "description": "Do images/videos correspond to the reported event?" },
+        "expertRelevance": { "$ref": "#/$defs/CriterionScore", "description": "Are cited experts genuinely relevant to the topic?" }
+      }
+    },
+    "ReliabilityCriteria_outletIdentity": {
+      "type": "object",
+      "required": ["authorship", "editorialAccountability", "editorialAdSeparation", "aiDisclosure"],
+      "additionalProperties": false,
+      "properties": {
+        "authorship": { "$ref": "#/$defs/CriterionScore", "description": "Are articles signed by identifiable journalists?" },
+        "editorialAccountability": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet have an active editorial accountability mechanism?" },
+        "editorialAdSeparation": { "$ref": "#/$defs/CriterionScore", "description": "Is editorial content clearly separated from advertising/sponsored content?" },
+        "aiDisclosure": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet disclose AI usage in content creation?" }
+      }
+    },
+    "NeutralityCriteria_languageNarrative": {
+      "type": "object",
+      "required": ["adjectiveLoad", "attributionVerbs", "opinionLabeling"],
+      "additionalProperties": false,
+      "properties": {
+        "adjectiveLoad": { "$ref": "#/$defs/CriterionScore", "description": "Frequency of value-laden adjectives in news (not opinion) pieces." },
+        "attributionVerbs": { "$ref": "#/$defs/CriterionScore", "description": "Are attribution verbs neutral ('stated') vs biased ('admitted')?" },
+        "opinionLabeling": { "$ref": "#/$defs/CriterionScore", "description": "Is opinion content clearly labeled and separated from news?" }
+      }
+    },
+    "NeutralityCriteria_selectionFraming": {
+      "type": "object",
+      "required": ["coverageBalance", "editorialSymmetry", "narrativeFraming", "surveyTreatment"],
+      "additionalProperties": false,
+      "properties": {
+        "coverageBalance": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet cover stories equivalently regardless of editorial alignment?" },
+        "editorialSymmetry": { "$ref": "#/$defs/CriterionScore", "description": "Are the same editorial standards applied to all political actors?" },
+        "narrativeFraming": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet frame stories neutrally in placement and narrative?" },
+        "surveyTreatment": { "$ref": "#/$defs/CriterionScore", "description": "Are polls presented with full context (funder, methodology, sample size)?" }
+      }
+    },
+    "NeutralityCriteria_visualRepresentation": {
+      "type": "object",
+      "required": ["photoSelection"],
+      "additionalProperties": false,
+      "properties": {
+        "photoSelection": { "$ref": "#/$defs/CriterionScore", "description": "Is photo selection symmetrically flattering/unflattering across actors?" }
+      }
+    },
+    "NeutralityCriteria_interestsFunding": {
+      "type": "object",
+      "required": ["ownershipTransparency", "institutionalAdvertising", "conflictOfInterest"],
+      "additionalProperties": false,
+      "properties": {
+        "ownershipTransparency": { "$ref": "#/$defs/CriterionScore", "description": "Is the ownership structure publicly disclosed?" },
+        "institutionalAdvertising": { "$ref": "#/$defs/CriterionScore", "description": "Is the proportion of institutional advertising transparent?" },
+        "conflictOfInterest": { "$ref": "#/$defs/CriterionScore", "description": "Does the outlet cover its shareholders/funders critically?" }
+      }
+    },
+    "CategoryScore": {
+      "type": "object",
+      "required": ["weight", "score", "criteria"],
+      "additionalProperties": false,
+      "properties": {
+        "weight": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Weight of this category (0–1). All category weights within a dimension must sum to 1."
+        },
+        "score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10,
+          "description": "Weighted average score for this category (0–10)."
+        },
+        "criteria": {
+          "type": "object",
+          "description": "Individual criterion scores."
+        }
+      }
+    },
+    "ReliabilityDimension": {
+      "type": "object",
+      "required": ["score", "grade", "categories"],
+      "additionalProperties": false,
+      "properties": {
+        "score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10,
+          "description": "Final weighted reliability score (0–10)."
+        },
+        "grade": {
+          "type": "string",
+          "enum": ["A", "B", "C", "D", "E"],
+          "description": "Letter grade derived from score."
+        },
+        "categories": {
+          "type": "object",
+          "required": ["sourceRigor", "errorManagement", "informationQuality", "outletIdentity"],
+          "additionalProperties": false,
+          "properties": {
+            "sourceRigor": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/ReliabilityCriteria_sourceRigor" } } }
+              ]
+            },
+            "errorManagement": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/ReliabilityCriteria_errorManagement" } } }
+              ]
+            },
+            "informationQuality": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/ReliabilityCriteria_informationQuality" } } }
+              ]
+            },
+            "outletIdentity": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/ReliabilityCriteria_outletIdentity" } } }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "NeutralityDimension": {
+      "type": "object",
+      "required": ["score", "grade", "categories"],
+      "additionalProperties": false,
+      "properties": {
+        "score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10,
+          "description": "Final weighted neutrality score (0–10)."
+        },
+        "grade": {
+          "type": "string",
+          "enum": ["A", "B", "C", "D", "E"],
+          "description": "Letter grade derived from score."
+        },
+        "categories": {
+          "type": "object",
+          "required": ["languageNarrative", "selectionFraming", "visualRepresentation", "interestsFunding"],
+          "additionalProperties": false,
+          "properties": {
+            "languageNarrative": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/NeutralityCriteria_languageNarrative" } } }
+              ]
+            },
+            "selectionFraming": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/NeutralityCriteria_selectionFraming" } } }
+              ]
+            },
+            "visualRepresentation": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/NeutralityCriteria_visualRepresentation" } } }
+              ]
+            },
+            "interestsFunding": {
+              "allOf": [
+                { "$ref": "#/$defs/CategoryScore" },
+                { "properties": { "criteria": { "$ref": "#/$defs/NeutralityCriteria_interestsFunding" } } }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Evaluation": {
+      "type": "object",
+      "required": ["version", "date", "evaluator", "reliability", "neutrality", "overallScore", "overallGrade"],
+      "additionalProperties": false,
+      "properties": {
+        "version": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}$",
+          "description": "Version identifier in YYYY-MM format (e.g. 2026-05)."
+        },
+        "date": {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 date when the evaluation was created (YYYY-MM-DD)."
+        },
+        "evaluator": {
+          "type": "string",
+          "description": "Identifier of the evaluator (admin handle)."
+        },
+        "reliability": { "$ref": "#/$defs/ReliabilityDimension" },
+        "neutrality": { "$ref": "#/$defs/NeutralityDimension" },
+        "overallScore": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10,
+          "description": "Overall blended score: reliability × 0.60 + neutrality × 0.40."
+        },
+        "overallGrade": {
+          "type": "string",
+          "enum": ["A", "B", "C", "D", "E"],
+          "description": "Overall blended grade."
+        }
+      }
+    }
+  }
+}

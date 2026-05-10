@@ -1,0 +1,78 @@
+{
+  "id": "vozpopuli",
+  "slug": "vozpopuli",
+  "name": "Vozpopuli",
+  "logo": "/logos/vozpopuli.svg",
+  "website": "https://www.vozpopuli.com",
+  "type": "digital-native",
+  "ownership": {
+    "company": "Vozpopuli Digital S.L.",
+    "shareholders": ["Jesus Cacho (fundador)", "Inversores privados"],
+    "governmentFunding": false,
+    "fundingNotes": "Founded in 2011 by Jesus Cacho. Revenue from digital advertising. Known for economic and political investigation with center-right editorial line."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 5.90,
+        "grade": "B",
+        "categories": {
+          "sourceRigor": { "weight": 0.30, "score": 5.80, "criteria": {
+            "sourceIdentifiability": { "score": 6, "justification": { "es": "Identificacion de fuentes moderada. Las exclusivas economicas citan fuentes del sector financiero generalmente anonimas.", "en": "Moderate source identification. Economic exclusives cite generally anonymous financial sector sources.", "ca": "Identificacio de fonts moderada.", "eu": "Iturrien identifikazio moderatua.", "gl": "Identificacion de fontes moderada." }, "evidence": [] },
+            "sourceDiversity": { "score": 6, "justification": { "es": "Diversidad moderada. En economia, fuentes del sector empresarial y financiero. En politica, predominan fuentes criticas con el Gobierno.", "en": "Moderate diversity. In economics, business and financial sector sources. In politics, Government-critical sources predominate.", "ca": "Diversitat moderada.", "eu": "Aniztasun moderatua.", "gl": "Diversidade moderada." }, "evidence": [] },
+            "directLinking": { "score": 6, "justification": { "es": "Buen uso de enlaces como medio digital nativo. Documentos y datos enlazados en investigaciones.", "en": "Good link usage as digital-native outlet. Documents and data linked in investigations.", "ca": "Bon us d'enllacos.", "eu": "Esteken erabilera ona.", "gl": "Bo uso de enlaces." }, "evidence": [] },
+            "attachedDocumentation": { "score": 5, "justification": { "es": "Documentacion adjunta moderada en investigacion economica.", "en": "Moderate attached documentation in economic investigation.", "ca": "Documentacio adjunta moderada.", "eu": "Erantsitako dokumentazio moderatua.", "gl": "Documentacion adxunta moderada." }, "evidence": [] },
+            "rawDataAccess": { "score": 6, "justification": { "es": "Datos economicos y financieros con graficos. Sin seccion de datos abiertos.", "en": "Economic and financial data with graphics. No open data section.", "ca": "Dades economiques amb grafics.", "eu": "Datu ekonomikoak eta finantzarioak grafikoekin.", "gl": "Datos economicos con graficos." }, "evidence": [] }
+          }},
+          "errorManagement": { "weight": 0.25, "score": 6.00, "criteria": {
+            "correctionsPolicy": { "score": 6, "justification": { "es": "Politica de correcciones existente pero poco visible.", "en": "Corrections policy exists but not very visible.", "ca": "Politica de correccions existent.", "eu": "Zuzenketa-politika existitzen da.", "gl": "Politica de correccions existente." }, "evidence": [] },
+            "verifiedErrorRatio": { "score": 6, "justification": { "es": "Ratio de errores moderada. Las exclusivas economicas suelen ser precisas. Mayor riesgo en informacion politica.", "en": "Moderate error ratio. Economic exclusives usually precise. Higher risk in political information.", "ca": "Ratio d'errors moderada.", "eu": "Akatsen ratio moderatua.", "gl": "Ratio de erros moderada." }, "evidence": [] },
+            "proactiveRectification": { "score": 6, "justification": { "es": "Rectificacion moderada.", "en": "Moderate rectification.", "ca": "Rectificacio moderada.", "eu": "Zuzenketa moderatua.", "gl": "Rectificacion moderada." }, "evidence": [] }
+          }},
+          "informationQuality": { "weight": 0.25, "score": 6.25, "criteria": {
+            "headlineBodyConsistency": { "score": 6, "justification": { "es": "Titulares generalmente alineados con el contenido. Cierta tendencia al impacto en exclusivas.", "en": "Headlines generally aligned with content. Some impact tendency in exclusives.", "ca": "Titulars generalment alineats.", "eu": "Titularrak orokorrean edukiarekin lerratuta.", "gl": "Titulares xeralmente alinados." }, "evidence": [] },
+            "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes.", "en": "Timestamps present.", "ca": "Marques temporals presents.", "eu": "Denbora-markak daude.", "gl": "Marcas temporais presentes." }, "evidence": [] },
+            "multimediaAccuracy": { "score": 6, "justification": { "es": "Material multimedia correcto. Sin sesgo visual evidente.", "en": "Correct multimedia material. No evident visual bias.", "ca": "Material multimedia correcte.", "eu": "Multimedia material zuzena.", "gl": "Material multimedia correcto." }, "evidence": [] },
+            "expertRelevance": { "score": 6, "justification": { "es": "Buena seleccion de expertos economicos y financieros. Sesgo centro-derecha en analistas politicos.", "en": "Good economic and financial expert selection. Center-right bias in political analysts.", "ca": "Bona seleccio d'experts economics.", "eu": "Aditu ekonomiko eta finantzarioen hautaketa ona.", "gl": "Boa seleccion de expertos economicos." }, "evidence": [] }
+          }},
+          "outletIdentity": { "weight": 0.20, "score": 5.50, "criteria": {
+            "authorship": { "score": 7, "justification": { "es": "Articulos firmados por periodistas especializados.", "en": "Articles signed by specialized journalists.", "ca": "Articles signats per periodistes especialitzats.", "eu": "Kazetari espezializatuek sinatutako artikuluak.", "gl": "Artigos asinados por xornalistas especializados." }, "evidence": [] },
+            "editorialAccountability": { "score": 4, "justification": { "es": "Sin Defensor del Lector ni mecanismo formal de rendicion de cuentas.", "en": "No Reader's Ombudsman or formal accountability mechanism.", "ca": "Sense Defensor del Lector.", "eu": "Irakurleen Defendatzailerik gabe.", "gl": "Sen Defensor do Lector." }, "evidence": [] },
+            "editorialAdSeparation": { "score": 6, "justification": { "es": "Contenido patrocinado etiquetado. Separacion razonable.", "en": "Labeled sponsored content. Reasonable separation.", "ca": "Contingut patrocinat etiquetat.", "eu": "Etiketatutako babestutako edukia.", "gl": "Contido patrocinado etiquetado." }, "evidence": [] },
+            "aiDisclosure": { "score": 5, "justification": { "es": "Sin politica publica sobre uso de IA.", "en": "No public policy on AI usage.", "ca": "Sense politica sobre IA.", "eu": "IAri buruzko politikarik gabe.", "gl": "Sen politica sobre IA." }, "evidence": [] }
+          }}
+        }
+      },
+      "neutrality": {
+        "score": 5.10,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": { "weight": 0.30, "score": 6.00, "criteria": {
+            "adjectiveLoad": { "score": 6, "justification": { "es": "Carga adjetival moderada. En economia, tono profesional. En politica, mayor carga editorial conservadora.", "en": "Moderate adjectival load. In economics, professional tone. In politics, greater conservative editorial charge.", "ca": "Carrega adjectival moderada.", "eu": "Karga adjektibal moderatua.", "gl": "Carga adxectival moderada." }, "evidence": [] },
+            "attributionVerbs": { "score": 6, "justification": { "es": "Verbos de atribucion con asimetria moderada en politica.", "en": "Attribution verbs with moderate asymmetry in politics.", "ca": "Verbs d'atribucio amb asimetria moderada.", "eu": "Atribuzio-berboak asimetria moderatuarekin.", "gl": "Verbos de atribucion con asimetria moderada." }, "evidence": [] },
+            "opinionLabeling": { "score": 6, "justification": { "es": "Seccion de opinion diferenciada. Algunos analisis economicos mezclan informacion con perspectiva editorial.", "en": "Differentiated opinion section. Some economic analyses mix information with editorial perspective.", "ca": "Seccio d'opinio diferenciada.", "eu": "Iritzi-atala bereizita.", "gl": "Seccion de opinion diferenciada." }, "evidence": [] }
+          }},
+          "selectionFraming": { "weight": 0.30, "score": 4.50, "criteria": {
+            "coverageBalance": { "score": 5, "justification": { "es": "Sesgo moderado centro-derecha en seleccion de temas. Mayor cobertura de escandalos del Gobierno.", "en": "Moderate center-right bias in topic selection. Greater Government scandal coverage.", "ca": "Biaix centre-dreta moderat.", "eu": "Joera zentro-eskuineko moderatua.", "gl": "Nesgo centro-dereita moderado." }, "evidence": [] },
+            "editorialSymmetry": { "score": 5, "justification": { "es": "Asimetria editorial moderada. Mayor escrutinio al Gobierno.", "en": "Moderate editorial asymmetry. Greater Government scrutiny.", "ca": "Asimetria editorial moderada.", "eu": "Asimetria editorial moderatua.", "gl": "Asimetria editorial moderada." }, "evidence": [] },
+            "narrativeFraming": { "score": 4, "justification": { "es": "Encuadre narrativo con perspectiva liberal-conservadora. Las politicas intervencionistas del Gobierno se enmarcan negativamente.", "en": "Liberal-conservative narrative framing perspective. Government interventionist policies framed negatively.", "ca": "Enquadrament liberal-conservador.", "eu": "Narrazio-markaketa perspektiba liberal-kontserbadorearekin.", "gl": "Encadramento liberal-conservador." }, "evidence": [] },
+            "surveyTreatment": { "score": 4, "justification": { "es": "Tratamiento de encuestas con sesgo conservador. Las encuestas del CIS reciben tratamiento critico sistematico.", "en": "Conservative poll treatment bias. CIS polls receive systematic critical treatment.", "ca": "Tractament d'enquestes amb biaix conservador.", "eu": "Inkesten trataera joera kontserbadorearekin.", "gl": "Tratamento de enquisas con nesgo conservador." }, "evidence": [] }
+          }},
+          "visualRepresentation": { "weight": 0.10, "score": 6.00, "criteria": {
+            "photoSelection": { "score": 6, "justification": { "es": "Seleccion fotografica profesional con leve asimetria.", "en": "Professional photo selection with slight asymmetry.", "ca": "Seleccio fotografica professional.", "eu": "Argazki-hautaketa profesionala asimetria txikiarekin.", "gl": "Seleccion fotografica profesional." }, "evidence": [] }
+          }},
+          "interestsFunding": { "weight": 0.30, "score": 4.67, "criteria": {
+            "ownershipTransparency": { "score": 6, "justification": { "es": "Propiedad del fundador conocida. Estructura accionarial detallada poco accesible.", "en": "Founder ownership known. Detailed shareholding structure not very accessible.", "ca": "Propietat del fundador coneguda.", "eu": "Sortzailearen jabetza ezaguna.", "gl": "Propiedade do fundador conecida." }, "evidence": [] },
+            "institutionalAdvertising": { "score": 4, "justification": { "es": "Recibe publicidad institucional. Proporcion no transparente.", "en": "Receives institutional advertising. Proportion not transparent.", "ca": "Rep publicitat institucional.", "eu": "Publizitate instituzionala jasotzen du.", "gl": "Recibe publicidade institucional." }, "evidence": [] },
+            "conflictOfInterest": { "score": 4, "justification": { "es": "La relacion entre el fundador, sus vinculos empresariales y la linea editorial puede generar conflictos de interes.", "en": "Founder's business links and editorial line relationship may generate conflicts of interest.", "ca": "La relacio entre el fundador i la linia editorial pot generar conflictes.", "eu": "Sortzailearen enpresa-loturen eta lerro editorialaren arteko harremanak interes-gatazkak sor ditzake.", "gl": "A relacion entre o fundador e a lina editorial pode xerar conflitos." }, "evidence": [] }
+          }}
+        }
+      },
+      "overallScore": 5.58,
+      "overallGrade": "B"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "la-razon",
+  "slug": "la-razon",
+  "name": "La Razon",
+  "logo": "/logos/la-razon.png",
+  "website": "https://www.larazon.es",
+  "type": "newspaper",
+  "ownership": {
+    "company": "Audiovisual Espanola 2000 S.A.",
+    "shareholders": ["Planeta DeAgostini (Grupo Planeta, majority stake)"],
+    "governmentFunding": false,
+    "fundingNotes": "Owned by Grupo Planeta through Atresmedia parent. Revenue from advertising and institutional contracts."
+  },
+  "evaluations": [
+    {
+      "version": "v4-2026-05",
+      "date": "2026-05-09",
+      "evaluator": "medio-evaluator-v4",
+      "reliability": {
+        "score": 4.73,
+        "grade": "C",
+        "categories": {
+          "sourceRigor": {
+            "weight": 0.30,
+            "score": 4.60,
+            "criteria": {
+              "sourceIdentifiability": { "score": 5, "justification": { "es": "Identificacion de fuentes deficiente en politica. Alto uso de fuentes anonimas sin justificacion editorial. En noticias de sociedad y cultura, la identificacion es algo mejor.", "en": "Deficient source identification in politics. High use of anonymous sources without editorial justification. In society and culture news, identification is somewhat better.", "ca": "Identificacio de fonts deficient en politica. Alt us de fonts anonimes sense justificacio editorial.", "eu": "Iturrien identifikazio eskasa politikan. Iturri anonimoen erabilera altua justifikazio editorialik gabe.", "gl": "Identificacion de fontes deficiente en politica. Alto uso de fontes anonimas sen xustificacion editorial." }, "evidence": [] },
+              "sourceDiversity": { "score": 5, "justification": { "es": "Diversidad de fuentes baja. Predominio de voces conservadoras y gubernamentales del PP. Las voces progresistas aparecen mayoritariamente en contextos criticos.", "en": "Low source diversity. Predominance of conservative and PP governmental voices. Progressive voices appear mainly in critical contexts.", "ca": "Diversitat de fonts baixa. Predomini de veus conservadores i governamentals del PP.", "eu": "Iturrien aniztasun baxua. Ahots kontserbadore eta PPren gobernuko ahotsen nagusitasuna.", "gl": "Diversidade de fontes baixa. Predominio de voces conservadoras e gobernamentais do PP." }, "evidence": [] },
+              "directLinking": { "score": 4, "justification": { "es": "Enlaces a fuentes primarias muy escasos. La gran mayoria de articulos no incluyen enlaces a documentos oficiales o fuentes citadas.", "en": "Very scarce links to primary sources. The vast majority of articles do not include links to official documents or cited sources.", "ca": "Enllacos a fonts primaries molt escassos. La gran majoria d'articles no inclouen enllacos a documents oficials.", "eu": "Iturri primariotarako esteka oso urriak. Artikulu gehien-gehienek ez dituzte dokumentu ofizialetarako estekak jasotzen.", "gl": "Enlaces a fontes primarias moi escasos. A gran maioria dos artigos non incluen enlaces a documentos oficiais." }, "evidence": [] },
+              "attachedDocumentation": { "score": 4, "justification": { "es": "Documentacion adjunta practicamente inexistente. El formato editorial no contempla la adjuncion de documentos de soporte al articulo.", "en": "Attached documentation practically nonexistent. The editorial format does not contemplate attaching supporting documents to articles.", "ca": "Documentacio adjunta practicament inexistent. El format editorial no contempla l'adjuncio de documents.", "eu": "Erantsitako dokumentazioa ia existitzen ez dena. Formatu editorialak ez du dokumentuen eranstea kontuan hartzen.", "gl": "Documentacion adxunta practicamente inexistente. O formato editorial non contempla a adxuncion de documentos." }, "evidence": [] },
+              "rawDataAccess": { "score": 5, "justification": { "es": "Sin seccion de periodismo de datos. No ofrece acceso a datos brutos. Enfoque editorial clasico sin componente de datos abiertos.", "en": "No data journalism section. Does not offer access to raw data. Classic editorial approach without an open data component.", "ca": "Sense seccio de periodisme de dades. No ofereix acces a dades brutes.", "eu": "Datu-kazetaritza atalik gabe. Ez du datu gordinetarako sarbiderik eskaintzen.", "gl": "Sen seccion de xornalismo de datos. Non ofrece acceso a datos brutos." }, "evidence": [] }
+            }
+          },
+          "errorManagement": {
+            "weight": 0.25,
+            "score": 4.67,
+            "criteria": {
+              "correctionsPolicy": { "score": 5, "justification": { "es": "Politica de correcciones muy poco visible. No existe seccion de fe de erratas. Las correcciones se aplican sin transparencia ni nota al lector.", "en": "Very low-visibility corrections policy. No errata section exists. Corrections are applied without transparency or reader notes.", "ca": "Politica de correccions molt poc visible. No existeix seccio de fe d'errates.", "eu": "Oso ikusgarritasun gutxiko zuzenketa-politika. Ez dago akats-atalik.", "gl": "Politica de correccions moi pouco visible. Non existe seccion de fe de erratas." }, "evidence": [] },
+              "verifiedErrorRatio": { "score": 4, "justification": { "es": "Ratio de errores verificados alta. Fact-checkers externos han senalado multiples imprecisiones y datos descontextualizados, especialmente en cobertura politica.", "en": "High verified error ratio. External fact-checkers have flagged multiple inaccuracies and decontextualized data, especially in political coverage.", "ca": "Ratio d'errors verificats alta. Verificadors externs han senyalat multiples imprecisions i dades descontextualitzades.", "eu": "Egiaztatutako akatsen ratio altua. Kanpoko egiaztatzaileek zehaztasunik eza eta testuingurutik ateratako datuak adierazi dituzte.", "gl": "Ratio de erros verificados alta. Verificadores externos sinalaron multiples imprecisions e datos descontextualizados." }, "evidence": [] },
+              "proactiveRectification": { "score": 5, "justification": { "es": "Rectificacion reactiva y lenta. Los errores se corrigen con retraso significativo y frecuentemente sin reconocimiento explicito del error original.", "en": "Reactive and slow rectification. Errors corrected with significant delay and frequently without explicit acknowledgment of the original error.", "ca": "Rectificacio reactiva i lenta. Els errors es corregeixen amb retard significatiu.", "eu": "Zuzenketa erreaktiboa eta motela. Akatsak atzerapen nabarmenarekin zuzentzen dira.", "gl": "Rectificacion reactiva e lenta. Os erros corrixense con atraso significativo." }, "evidence": [] }
+            }
+          },
+          "informationQuality": {
+            "weight": 0.25,
+            "score": 5.50,
+            "criteria": {
+              "headlineBodyConsistency": { "score": 4, "justification": { "es": "Titulares frecuentemente sensacionalistas y desalineados con el contenido. Alta incidencia de clickbait en la edicion digital. El cuerpo del articulo suele matizar lo que el titular exagera.", "en": "Frequently sensationalist headlines misaligned with content. High clickbait incidence in the digital edition. Article body usually qualifies what the headline exaggerates.", "ca": "Titulars frequentment sensacionalistes i desalineats amb el contingut. Alta incidencia de clickbait.", "eu": "Titular sentsazionalistak edukiarekin desalinegatuak maiz. Clickbait intzidentzia altua edizio digitalean.", "gl": "Titulares frecuentemente sensacionalistas e desaliniados co contido. Alta incidencia de clickbait." }, "evidence": [] },
+              "updateTimestamp": { "score": 7, "justification": { "es": "Marcas temporales presentes en los articulos digitales. Formato estandar de fecha y hora.", "en": "Timestamps present in digital articles. Standard date and time format.", "ca": "Marques temporals presents als articles digitals. Format estandard de data i hora.", "eu": "Denbora-markak artikulu digitaletan daude. Data eta ordu formatu estandarra.", "gl": "Marcas temporais presentes nos artigos dixitais. Formato estandar de data e hora." }, "evidence": [] },
+              "multimediaAccuracy": { "score": 6, "justification": { "es": "Material multimedia generalmente correcto en atribucion. Alguna seleccion fotografica tendenciosa en politica con imagenes que refuerzan la narrativa editorial.", "en": "Generally correct multimedia attribution. Some tendentious political photo selection with images reinforcing the editorial narrative.", "ca": "Material multimedia generalment correcte en atribucio. Alguna seleccio fotografica tendenciosa en politica.", "eu": "Multimedia materiala orokorrean zuzena esleipenerako. Zenbait argazki tendentziozko politikoan.", "gl": "Material multimedia xeralmente correcto en atribucion. Algunha seleccion fotografica tendenciosa en politica." }, "evidence": [] },
+              "expertRelevance": { "score": 5, "justification": { "es": "Seleccion de expertos con sesgo ideologico marcado. Los analistas citados comparten mayoritariamente la linea editorial conservadora del medio.", "en": "Expert selection with marked ideological bias. Cited analysts mostly share the outlet's conservative editorial line.", "ca": "Seleccio d'experts amb biaix ideologic marcat. Els analistes citats comparteixen la linia editorial conservadora.", "eu": "Adituen hautaketa joera ideologiko nabarmenarekin. Aipatutako analistek gehienbat lerro editorial kontserbadorea partekatzen dute.", "gl": "Seleccion de expertos con nesgo ideoloxico marcado. Os analistas citados comparten a lina editorial conservadora." }, "evidence": [] }
+            }
+          },
+          "outletIdentity": {
+            "weight": 0.20,
+            "score": 4.25,
+            "criteria": {
+              "authorship": { "score": 7, "justification": { "es": "Articulos generalmente firmados. Columnistas identificados. Algunos contenidos de agencia sin firma individual.", "en": "Articles generally signed. Columnists identified. Some wire content without individual bylines.", "ca": "Articles generalment signats. Columnistes identificats.", "eu": "Artikuluak orokorrean sinatuak. Zutabegileak identifikatuak.", "gl": "Artigos xeralmente asinados. Columnistas identificados." }, "evidence": [] },
+              "editorialAccountability": { "score": 3, "justification": { "es": "Sin Defensor del Lector ni mecanismo de rendicion de cuentas editorial publico. No existe canal visible para que los lectores planteen quejas editoriales.", "en": "No Reader's Ombudsman or public editorial accountability mechanism. No visible channel for readers to raise editorial complaints.", "ca": "Sense Defensor del Lector ni mecanisme de rendicio de comptes editorial public.", "eu": "Irakurleen Defendatzailerik edo kontu-emateko mekanismo editorial publikorik gabe.", "gl": "Sen Defensor do Lector nin mecanismo de rendicion de contas editorial publico." }, "evidence": [] },
+              "editorialAdSeparation": { "score": 5, "justification": { "es": "Separacion entre publicidad y contenido editorial deficiente. Formatos de contenido patrocinado con estetica muy similar al contenido editorial. Etiquetado poco prominente.", "en": "Deficient separation between advertising and editorial content. Sponsored content formats with aesthetics very similar to editorial content. Labeling not prominent.", "ca": "Separacio entre publicitat i contingut editorial deficient. Formats de contingut patrocinat amb estetica similar.", "eu": "Publizitatearen eta eduki editorialaren arteko banaketa eskasa. Babestutako eduki-formatuak estetika antzekoarekin.", "gl": "Separacion entre publicidade e contido editorial deficiente. Formatos de contido patrocinado con estetica similar." }, "evidence": [] },
+              "aiDisclosure": { "score": 2, "justification": { "es": "Sin politica sobre uso de IA. No existe informacion publica sobre el uso de herramientas de inteligencia artificial en la produccion de contenidos.", "en": "No AI usage policy. No public information exists on artificial intelligence tool usage in content production.", "ca": "Sense politica sobre l'us d'IA. No existeix informacio publica sobre l'us d'eines d'IA.", "eu": "IAren erabilerari buruzko politikarik gabe. Ez dago IA tresnen erabilerari buruzko informazio publikorik.", "gl": "Sen politica sobre o uso de IA. Non existe informacion publica sobre o uso de ferramentas de IA." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "neutrality": {
+        "score": 3.73,
+        "grade": "C",
+        "categories": {
+          "languageNarrative": {
+            "weight": 0.30,
+            "score": 4.33,
+            "criteria": {
+              "adjectiveLoad": { "score": 4, "justification": { "es": "Carga adjetival muy alta en cobertura politica. Adjetivos valorativos sistematicos contra el Gobierno: 'autoritario', 'radical', 'polemico'. Tono editorial penetra en las piezas informativas.", "en": "Very high adjectival load in political coverage. Systematic evaluative adjectives against the Government: 'authoritarian', 'radical', 'controversial'. Editorial tone penetrates news pieces.", "ca": "Carrega adjectival molt alta en cobertura politica. Adjectius valoratius sistematics contra el Govern.", "eu": "Karga adjektibal oso altua estaldura politikoan. Balorazio-adjektibo sistematikoak Gobernuaren aurka.", "gl": "Carga adxectival moi alta en cobertura politica. Adxectivos valorativos sistematicos contra o Goberno." }, "evidence": [] },
+              "attributionVerbs": { "score": 4, "justification": { "es": "Verbos de atribucion con fuerte carga connotativa. Los politicos del Gobierno 'imponen', 'amenazan', 'reconocen' mientras que los de la oposicion 'proponen', 'advierten', 'denuncian'.", "en": "Attribution verbs with strong connotative charge. Government politicians 'impose', 'threaten', 'admit' while opposition 'proposes', 'warns', 'denounces'.", "ca": "Verbs d'atribucio amb forta carrega connotativa. Asimetria clara entre govern i oposicio.", "eu": "Atribuzio-berbo konnotazio handikoak. Gobernuko politikariek 'inposatzen', 'mehatxatzen' dute eta oposizioak 'proposatzen', 'salatzen' du.", "gl": "Verbos de atribucion con forte carga connotativa. Asimetria clara entre goberno e oposicion." }, "evidence": [] },
+              "opinionLabeling": { "score": 5, "justification": { "es": "Fronteras difusas entre informacion y opinion. Los articulos informativos incorporan juicios de valor editoriales. La seccion de opinion existe pero el tono opinativo permea las noticias.", "en": "Diffuse boundaries between information and opinion. News articles incorporate editorial value judgments. Opinion section exists but opinionated tone permeates news.", "ca": "Fronteres difuses entre informacio i opinio. Els articles informatius incorporen judicis de valor editorials.", "eu": "Informazioaren eta iritziaren arteko muga lausoak. Albiste-artikuluek balio-judizioak jasotzen dituzte.", "gl": "Fronteiras difusas entre informacion e opinion. Os artigos informativos incorporan xuizos de valor editoriais." }, "evidence": [] }
+            }
+          },
+          "selectionFraming": {
+            "weight": 0.30,
+            "score": 3.50,
+            "criteria": {
+              "coverageBalance": { "score": 3, "justification": { "es": "Desequilibrio severo en seleccion de temas. Cobertura desproporcionada de escandalos del Gobierno frente a cobertura minima de controversias de la oposicion conservadora.", "en": "Severe imbalance in topic selection. Disproportionate Government scandal coverage versus minimal coverage of conservative opposition controversies.", "ca": "Desequilibri sever en seleccio de temes. Cobertura desproporcionada d'escandols del Govern.", "eu": "Desoreka larria gaien hautaketan. Gobernuaren eskandalen estaldura neurrigabea.", "gl": "Desequilibrio severo na seleccion de temas. Cobertura desproporcionada de escandalos do Goberno." }, "evidence": [] },
+              "editorialSymmetry": { "score": 3, "justification": { "es": "Asimetria editorial severa. Los estandares de escrutinio son radicalmente diferentes para actores de gobierno y oposicion. Doble rasero persistente.", "en": "Severe editorial asymmetry. Scrutiny standards are radically different for government and opposition actors. Persistent double standard.", "ca": "Asimetria editorial severa. Els estandards d'escrutini son radicalment diferents per a govern i oposicio.", "eu": "Asimetria editorial larria. Gainbegiratze-estandarrak errotik desberdinak dira gobernurako eta oposiziorako.", "gl": "Asimetria editorial severa. Os estandares de escrutinio son radicalmente diferentes para goberno e oposicion." }, "evidence": [] },
+              "narrativeFraming": { "score": 3, "justification": { "es": "Encuadre narrativo con sesgo conservador fuerte. Las noticias del Gobierno se enmarcan sistematicamente como amenaza o fracaso. Las de la oposicion como solucion o denuncia legitima.", "en": "Strong conservative narrative framing bias. Government news systematically framed as threat or failure. Opposition news framed as solution or legitimate complaint.", "ca": "Enquadrament narratiu amb biaix conservador fort. Les noticies del Govern s'enmarquen com a amenaca o fracas.", "eu": "Narrazio-markaketa joera kontserbadore indartsua. Gobernuaren albisteak mehatxu edo porrot gisa markatzen dira.", "gl": "Encadramento narrativo con nesgo conservador forte. As noticias do Goberno enmarcase como ameaza ou fracaso." }, "evidence": [] },
+              "surveyTreatment": { "score": 5, "justification": { "es": "Tratamiento de encuestas sesgado. Las encuestas favorables al PP reciben mayor prominencia. Las del CIS se presentan con desconfianza sistematica. Ficha tecnica generalmente incluida.", "en": "Biased poll treatment. Polls favorable to PP receive more prominence. CIS polls presented with systematic distrust. Technical sheet generally included.", "ca": "Tractament d'enquestes esbiaixat. Les enquestes favorables al PP reben major prominencia.", "eu": "Inkesten trataera joera duena. PPri aldeko inkestek protagonismo handiagoa jasotzen dute.", "gl": "Tratamento de enquisas nesgo. As enquisas favorables ao PP reciben maior prominencia." }, "evidence": [] }
+            }
+          },
+          "visualRepresentation": {
+            "weight": 0.10,
+            "score": 4.00,
+            "criteria": {
+              "photoSelection": { "score": 4, "justification": { "es": "Asimetria fotografica marcada. Seleccion sistematica de imagenes desfavorecedoras para politicos del Gobierno y favorecedoras para la oposicion.", "en": "Marked photographic asymmetry. Systematic selection of unflattering images for Government politicians and flattering ones for opposition.", "ca": "Asimetria fotografica marcada. Seleccio sistematica d'imatges desfavorables per a politics del Govern.", "eu": "Argazki asimetria nabarmena. Gobernuko politikarientzako irudi kaltegarrien eta oposiziorako aldekoen hautaketa sistematikoa.", "gl": "Asimetria fotografica marcada. Seleccion sistematica de imaxes desfavorecedoras para politicos do Goberno." }, "evidence": [] }
+            }
+          },
+          "interestsFunding": {
+            "weight": 0.30,
+            "score": 3.33,
+            "criteria": {
+              "ownershipTransparency": { "score": 5, "justification": { "es": "Propiedad de Grupo Planeta conocida pero el detalle de la estructura accionarial y los vinculos con Atresmedia no se facilitan al lector en el propio medio.", "en": "Grupo Planeta ownership known but shareholding structure details and Atresmedia links not provided to readers in the outlet itself.", "ca": "Propietat del Grup Planeta coneguda pero els detalls de l'estructura no es faciliten al lector.", "eu": "Planeta Taldearen jabetza ezaguna baina akziodunen egituraren xehetasunak ez zaizkie irakurleei ematen.", "gl": "Propiedade do Grupo Planeta conecida pero os detalles da estrutura non se facilitan ao lector." }, "evidence": [] },
+              "institutionalAdvertising": { "score": 3, "justification": { "es": "Dependencia significativa de publicidad institucional, particularmente de comunidades autonomas gobernadas por el PP. La proporcion no es transparente y condiciona visiblemente la cobertura.", "en": "Significant dependence on institutional advertising, particularly from PP-governed autonomous communities. Proportion not transparent and visibly conditions coverage.", "ca": "Dependencia significativa de publicitat institucional, particularment de comunitats governades pel PP.", "eu": "Publizitate instituzionalaren menpekotasun esanguratsua, bereziki PPk gobernatutako erkidegoetatik.", "gl": "Dependencia significativa de publicidade institucional, particularmente de comunidades gobernadas polo PP." }, "evidence": [] },
+              "conflictOfInterest": { "score": 2, "justification": { "es": "Conflictos de interes severos. La cobertura de Grupo Planeta, Atresmedia y las administraciones del PP es sistematicamente favorable. Falta total de distancia critica con estos actores.", "en": "Severe conflicts of interest. Coverage of Grupo Planeta, Atresmedia, and PP administrations is systematically favorable. Total lack of critical distance with these actors.", "ca": "Conflictes d'interes severs. La cobertura del Grup Planeta i les administracions del PP es sistematicament favorable.", "eu": "Interes-gatazka larriak. Planeta Taldearen eta PPren administrazioen estaldura sistematikoki aldekoa da.", "gl": "Conflitos de interese severos. A cobertura do Grupo Planeta e das administracions do PP e sistematicamente favorable." }, "evidence": [] }
+            }
+          }
+        }
+      },
+      "overallScore": 4.33,
+      "overallGrade": "C"
+    }
+  ]
+}
