@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "MediosVerifica — Espainiako Hedabideen Egiaztapena",
+    "description": "Espainiako hedabideen fidagarritasuna eta neutraltasuna ebaluatzen ditugu datuekin, ebidentziekin eta gardentasunarekin."
+  },
+  "navigation": {
+    "home": "Hasiera",
+    "media": "Hedabideak",
+    "methodology": "Metodologia",
+    "about": "Guri buruz"
+  },
+  "home": {
+    "hero": {
+      "title": "Zenbat fidatu zaitezke zure hedabideaz?",
+      "subtitle": "Espainiako hedabideen fidagarritasuna eta neutraltasuna aztertzen ditugu irizpide objektiboekin, dokumentatutako ebidentziekin eta gardentasun osoarekin.",
+      "searchPlaceholder": "Bilatu hedabide bat...",
+      "ctaExplore": "Hedabideak arakatu",
+      "ctaMethodology": "Metodologia ikusi"
+    },
+    "stats": {
+      "mediaEvaluated": "Ebaluatutako hedabideak",
+      "criteriaAnalyzed": "Aztertutako irizpideak",
+      "evidenceLinks": "Ebidentzia-estekak"
+    },
+    "featured": {
+      "title": "Azken ebaluazioak",
+      "viewAll": "Denak ikusi"
+    },
+    "howItWorks": {
+      "title": "Nola funtzionatzen du?",
+      "step1Title": "25 Irizpide",
+      "step1Description": "Hedabide bakoitza 25 irizpide objektiborekin ebaluatzen dugu, fidagarritasunean eta neutraltasunean banatuta.",
+      "step2Title": "Dokumentatutako ebidentzia",
+      "step2Description": "Puntuazio bakoitzak justifikazio zehatza eta ebidentzietarako estekak ditu.",
+      "step3Title": "A-tik E-ra notak",
+      "step3Description": "Irizpideak garrantziaren arabera haztatzen dira azken nota gardena sortzeko."
+    }
+  },
+  "media": {
+    "title": "Hedabideen Sailkapena",
+    "subtitle": "Espainiako hedabideen sailkapena fidagarritasun eta neutraltasunaren arabera",
+    "filterAll": "Denak",
+    "filterNewspaper": "Prentsa",
+    "filterTelevision": "Telebista",
+    "filterRadio": "Irratia",
+    "filterDigitalNative": "Digitala",
+    "filterNewsAgency": "Agentzia",
+    "filterMagazine": "Aldizkaria",
+    "sortByOverall": "Nota orokorra",
+    "sortByReliability": "Fidagarritasuna",
+    "sortByNeutrality": "Neutraltasuna",
+    "sortByName": "Izena",
+    "noResults": "Ez da hedabiderik aurkitu iragazki horiekin."
+  },
+  "detail": {
+    "reliability": "Fidagarritasuna",
+    "neutrality": "Neutraltasuna",
+    "overall": "Nota orokorra",
+    "lastEvaluation": "Azken ebaluazioa",
+    "website": "Webgunea",
+    "ownership": "Jabetza",
+    "shareholders": "Akziodunak",
+    "governmentFunding": "Finantzaketa publikoa",
+    "yes": "Bai",
+    "no": "Ez",
+    "evaluationHistory": "Ebaluazio-historia",
+    "criterionDetails": "Irizpideen xehetasuna",
+    "evidence": "Ebidentziak",
+    "justification": "Justifikazioa",
+    "categories": {
+      "sourceRigor": "Iturrien zorroztasuna",
+      "errorManagement": "Akatsen kudeaketa",
+      "informationQuality": "Informazioaren kalitatea",
+      "outletIdentity": "Hedabidearen identitatea",
+      "languageNarrative": "Hizkuntza eta narratiba",
+      "selectionFraming": "Hautaketa eta markatzea",
+      "visualRepresentation": "Irudikapen bisuala",
+      "interestsFunding": "Interesak eta finantzaketa"
+    },
+    "criteria": {
+      "sourceIdentifiability": "Iturrien identifikagarritasuna",
+      "sourceDiversity": "Iturrien aniztasuna",
+      "directLinking": "Iturrietarako zuzeneko esteka",
+      "attachedDocumentation": "Erantsitako dokumentazioa",
+      "rawDataAccess": "Jatorrizko datuetarako sarbidea",
+      "correctionsPolicy": "Zuzenketa-politika",
+      "verifiedErrorRatio": "Egiaztatutako akatsen ratioa",
+      "proactiveRectification": "Zuzenketa proaktiboa",
+      "headlineBodyConsistency": "Titular-gorputz koherentzia",
+      "updateTimestamp": "Eguneratze-data",
+      "multimediaAccuracy": "Multimedia-zehaztasuna",
+      "expertRelevance": "Adituen garrantzia",
+      "authorship": "Egilea",
+      "editorialAccountability": "Kontu-ematea editoriala",
+      "editorialAdSeparation": "Editoriala-publizitatea banaketa",
+      "aiDisclosure": "AA erabileraren jakinarazpena",
+      "adjectiveLoad": "Adjektibo-karga",
+      "attributionVerbs": "Esleipen-aditzak",
+      "opinionLabeling": "Iritzi-etiketatzea",
+      "coverageBalance": "Estalduraren oreka",
+      "editorialSymmetry": "Simetria editoriala",
+      "narrativeFraming": "Markaketa narratiboa",
+      "surveyTreatment": "Inkesten tratamendua",
+      "photoSelection": "Argazki-hautaketa",
+      "ownershipTransparency": "Jabetza-gardentasuna",
+      "institutionalAdvertising": "Publizitate instituzionala",
+      "conflictOfInterest": "Interes-gatazkak"
+    }
+  },
+  "methodology": {
+    "title": "Metodologia",
+    "subtitle": "Nola ebaluatzen ditugun hedabideak",
+    "reliabilityTitle": "Fidagarritasuna",
+    "reliabilityDescription": "Hedabidearen gaitasuna neurtzen du ez gezurtzeko eta frogatutako gertaerietara hurbiltzeko.",
+    "neutralityTitle": "Neutraltasuna",
+    "neutralityDescription": "Oreka, zintzotasun ideologikoa eta manipulazio emozionalaren gabezia neurtzen ditu.",
+    "weightsTitle": "Haztapena",
+    "weightsDescription": "Kategoria bakoitzak pisu espezifikoa du azken notan.",
+    "gradesTitle": "Nota-sistema",
+    "gradeA": "Bikaina — Hedabideak fidagarritasun eta neutraltasuneko estandar altuenak betetzen ditu.",
+    "gradeB": "Ona — Hedabidea fidagarria eta nahiko neutrala da, hobetzeko tartearekin.",
+    "gradeC": "Onartgarria — Hedabideak alderdi positiboak ditu baina baita akats esanguratsuak ere.",
+    "gradeD": "Eskasa — Hedabideak fidagarritasun edo neutraltasun arazo larriak aurkezten ditu.",
+    "gradeE": "Oso eskasa — Hedabideak ez ditu gutxieneko estandarrak betetzen."
+  },
+  "about": {
+    "title": "MediosVerifica-ri buruz",
+    "subtitle": "Proiektu independente bat Espainiako hedabide-gardentasunerako."
+  },
+  "grades": {
+    "A": "Bikaina",
+    "B": "Ona",
+    "C": "Onartgarria",
+    "D": "Eskasa",
+    "E": "Oso eskasa"
+  },
+  "common": {
+    "score": "Puntuazioa",
+    "grade": "Nota",
+    "weight": "Pisua",
+    "viewDetails": "Xehetasunak ikusi",
+    "backToList": "Zerrendara itzuli",
+    "language": "Hizkuntza"
+  },
+  "footer": {
+    "description": "MediosVerifica Espainiako hedabideen fidagarritasuna eta neutraltasuna ebaluatzeari eskainitako proiektu independentea da.",
+    "data": "Datuak",
+    "apiDescription": "Gure datu irekiak eskuratu jsDelivr bidez.",
+    "license": "Datuak Creative Commons BY-SA 4.0 lizentziapean argitaratzen dira."
+  }
+}

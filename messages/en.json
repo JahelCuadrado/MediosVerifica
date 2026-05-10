@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "MediosVerifica — Spanish Media Verification",
+    "description": "We evaluate the reliability and neutrality of Spanish media outlets with data, evidence and transparency."
+  },
+  "navigation": {
+    "home": "Home",
+    "media": "Media",
+    "methodology": "Methodology",
+    "about": "About"
+  },
+  "home": {
+    "hero": {
+      "title": "How much can you trust your news source?",
+      "subtitle": "We analyze the reliability and neutrality of Spanish media with objective criteria, documented evidence and full transparency.",
+      "searchPlaceholder": "Search for a media outlet...",
+      "ctaExplore": "Explore media",
+      "ctaMethodology": "View methodology"
+    },
+    "stats": {
+      "mediaEvaluated": "Media outlets evaluated",
+      "criteriaAnalyzed": "Criteria analyzed",
+      "evidenceLinks": "Evidence links"
+    },
+    "featured": {
+      "title": "Latest evaluations",
+      "viewAll": "View all"
+    },
+    "howItWorks": {
+      "title": "How does it work?",
+      "step1Title": "25 Criteria",
+      "step1Description": "We evaluate each outlet with 25 objective criteria divided into reliability and neutrality.",
+      "step2Title": "Documented evidence",
+      "step2Description": "Each score includes a detailed justification and links to supporting evidence.",
+      "step3Title": "Grades from A to E",
+      "step3Description": "Criteria are weighted by importance to generate a transparent final grade."
+    }
+  },
+  "media": {
+    "title": "Media Ranking",
+    "subtitle": "Classification of Spanish media outlets by reliability and neutrality",
+    "filterAll": "All",
+    "filterNewspaper": "Press",
+    "filterTelevision": "Television",
+    "filterRadio": "Radio",
+    "filterDigitalNative": "Digital",
+    "filterNewsAgency": "Agency",
+    "filterMagazine": "Magazine",
+    "sortByOverall": "Overall grade",
+    "sortByReliability": "Reliability",
+    "sortByNeutrality": "Neutrality",
+    "sortByName": "Name",
+    "noResults": "No media outlets found with those filters."
+  },
+  "detail": {
+    "reliability": "Reliability",
+    "neutrality": "Neutrality",
+    "overall": "Overall grade",
+    "lastEvaluation": "Last evaluation",
+    "website": "Website",
+    "ownership": "Ownership",
+    "shareholders": "Shareholders",
+    "governmentFunding": "Public funding",
+    "yes": "Yes",
+    "no": "No",
+    "evaluationHistory": "Evaluation history",
+    "criterionDetails": "Criterion details",
+    "evidence": "Evidence",
+    "justification": "Justification",
+    "categories": {
+      "sourceRigor": "Source rigor",
+      "errorManagement": "Error management",
+      "informationQuality": "Information quality",
+      "outletIdentity": "Outlet identity",
+      "languageNarrative": "Language & narrative",
+      "selectionFraming": "Selection & framing",
+      "visualRepresentation": "Visual representation",
+      "interestsFunding": "Interests & funding"
+    },
+    "criteria": {
+      "sourceIdentifiability": "Source identifiability",
+      "sourceDiversity": "Source diversity",
+      "directLinking": "Direct source linking",
+      "attachedDocumentation": "Attached documentation",
+      "rawDataAccess": "Raw data access",
+      "correctionsPolicy": "Corrections policy",
+      "verifiedErrorRatio": "Verified error ratio",
+      "proactiveRectification": "Proactive rectification",
+      "headlineBodyConsistency": "Headline-body consistency",
+      "updateTimestamp": "Update timestamp",
+      "multimediaAccuracy": "Multimedia accuracy",
+      "expertRelevance": "Expert relevance",
+      "authorship": "Authorship",
+      "editorialAccountability": "Editorial accountability",
+      "editorialAdSeparation": "Editorial-ad separation",
+      "aiDisclosure": "AI disclosure",
+      "adjectiveLoad": "Adjective load",
+      "attributionVerbs": "Attribution verbs",
+      "opinionLabeling": "Opinion labeling",
+      "coverageBalance": "Coverage balance",
+      "editorialSymmetry": "Editorial symmetry",
+      "narrativeFraming": "Narrative framing",
+      "surveyTreatment": "Survey treatment",
+      "photoSelection": "Photo selection",
+      "ownershipTransparency": "Ownership transparency",
+      "institutionalAdvertising": "Institutional advertising",
+      "conflictOfInterest": "Conflict of interest"
+    }
+  },
+  "methodology": {
+    "title": "Methodology",
+    "subtitle": "How we evaluate media outlets",
+    "reliabilityTitle": "Reliability",
+    "reliabilityDescription": "Measures the outlet's ability to be truthful and stick to proven facts.",
+    "neutralityTitle": "Neutrality",
+    "neutralityDescription": "Measures balance, ideological honesty and absence of emotional manipulation.",
+    "weightsTitle": "Weighting",
+    "weightsDescription": "Each category has a specific weight in the final grade.",
+    "gradesTitle": "Grading system",
+    "gradeA": "Excellent — The outlet meets the highest standards of reliability and neutrality.",
+    "gradeB": "Good — The outlet is reliable and fairly neutral, with room for improvement.",
+    "gradeC": "Fair — The outlet has positive aspects but also significant shortcomings.",
+    "gradeD": "Poor — The outlet presents serious reliability or neutrality issues.",
+    "gradeE": "Very Poor — The outlet does not meet minimum standards."
+  },
+  "about": {
+    "title": "About MediosVerifica",
+    "subtitle": "An independent project for media transparency in Spain."
+  },
+  "grades": {
+    "A": "Excellent",
+    "B": "Good",
+    "C": "Fair",
+    "D": "Poor",
+    "E": "Very Poor"
+  },
+  "common": {
+    "score": "Score",
+    "grade": "Grade",
+    "weight": "Weight",
+    "viewDetails": "View details",
+    "backToList": "Back to list",
+    "language": "Language"
+  },
+  "footer": {
+    "description": "MediosVerifica is an independent project dedicated to evaluating the reliability and neutrality of Spanish media outlets.",
+    "data": "Data",
+    "apiDescription": "Access our open data via jsDelivr.",
+    "license": "Data published under Creative Commons BY-SA 4.0 license."
+  }
+}

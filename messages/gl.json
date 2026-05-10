@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "MediosVerifica — Verificación de Medios Españois",
+    "description": "Avaliamos a fiabilidade e neutralidade dos medios de comunicación españois con datos, evidencias e transparencia."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "media": "Medios",
+    "methodology": "Metodoloxía",
+    "about": "Sobre nós"
+  },
+  "home": {
+    "hero": {
+      "title": "Canto podes fiarte do teu medio de comunicación?",
+      "subtitle": "Analizamos a fiabilidade e neutralidade dos medios españois con criterios obxectivos, evidencias documentadas e total transparencia.",
+      "searchPlaceholder": "Busca un medio de comunicación...",
+      "ctaExplore": "Explorar medios",
+      "ctaMethodology": "Ver metodoloxía"
+    },
+    "stats": {
+      "mediaEvaluated": "Medios avaliados",
+      "criteriaAnalyzed": "Criterios analizados",
+      "evidenceLinks": "Ligazóns de evidencia"
+    },
+    "featured": {
+      "title": "Últimas avaliacións",
+      "viewAll": "Ver todos"
+    },
+    "howItWorks": {
+      "title": "Como funciona?",
+      "step1Title": "25 Criterios",
+      "step1Description": "Avaliamos cada medio con 25 criterios obxectivos divididos en fiabilidade e neutralidade.",
+      "step2Title": "Evidencia documentada",
+      "step2Description": "Cada puntuación inclúe unha xustificación detallada e ligazóns ás evidencias.",
+      "step3Title": "Notas de A a E",
+      "step3Description": "Os criterios pondéranse por importancia para xerar unha nota final transparente."
+    }
+  },
+  "media": {
+    "title": "Ranking de Medios",
+    "subtitle": "Clasificación dos medios de comunicación españois por fiabilidade e neutralidade",
+    "filterAll": "Todos",
+    "filterNewspaper": "Prensa",
+    "filterTelevision": "Televisión",
+    "filterRadio": "Radio",
+    "filterDigitalNative": "Dixital",
+    "filterNewsAgency": "Axencia",
+    "filterMagazine": "Revista",
+    "sortByOverall": "Nota global",
+    "sortByReliability": "Fiabilidade",
+    "sortByNeutrality": "Neutralidade",
+    "sortByName": "Nome",
+    "noResults": "Non se atoparon medios con eses filtros."
+  },
+  "detail": {
+    "reliability": "Fiabilidade",
+    "neutrality": "Neutralidade",
+    "overall": "Nota global",
+    "lastEvaluation": "Última avaliación",
+    "website": "Sitio web",
+    "ownership": "Propiedade",
+    "shareholders": "Accionistas",
+    "governmentFunding": "Financiamento público",
+    "yes": "Si",
+    "no": "Non",
+    "evaluationHistory": "Historial de avaliacións",
+    "criterionDetails": "Detalle por criterio",
+    "evidence": "Evidencias",
+    "justification": "Xustificación",
+    "categories": {
+      "sourceRigor": "Rigor coas fontes",
+      "errorManagement": "Xestión do erro",
+      "informationQuality": "Calidade da información",
+      "outletIdentity": "Identidade do medio",
+      "languageNarrative": "Linguaxe e narrativa",
+      "selectionFraming": "Selección e encadre",
+      "visualRepresentation": "Representación visual",
+      "interestsFunding": "Intereses e financiamento"
+    },
+    "criteria": {
+      "sourceIdentifiability": "Identificabilidade de fontes",
+      "sourceDiversity": "Diversidade de fontes",
+      "directLinking": "Ligazón directa a fontes",
+      "attachedDocumentation": "Documentación adxunta",
+      "rawDataAccess": "Acceso a datos orixinais",
+      "correctionsPolicy": "Política de correccións",
+      "verifiedErrorRatio": "Ratio de erros verificados",
+      "proactiveRectification": "Rectificación proactiva",
+      "headlineBodyConsistency": "Consistencia titular-corpo",
+      "updateTimestamp": "Data de actualización",
+      "multimediaAccuracy": "Precisión multimedia",
+      "expertRelevance": "Relevancia de expertos",
+      "authorship": "Autoría",
+      "editorialAccountability": "Rendición de contas editorial",
+      "editorialAdSeparation": "Separación editorial-publicidade",
+      "aiDisclosure": "Divulgación de uso de IA",
+      "adjectiveLoad": "Carga de adxectivos",
+      "attributionVerbs": "Verbos de atribución",
+      "opinionLabeling": "Etiquetado de opinión",
+      "coverageBalance": "Equilibrio de cobertura",
+      "editorialSymmetry": "Simetría editorial",
+      "narrativeFraming": "Encadre narrativo",
+      "surveyTreatment": "Tratamento de enquisas",
+      "photoSelection": "Selección de fotos",
+      "ownershipTransparency": "Transparencia de propiedade",
+      "institutionalAdvertising": "Publicidade institucional",
+      "conflictOfInterest": "Conflitos de interese"
+    }
+  },
+  "methodology": {
+    "title": "Metodoloxía",
+    "subtitle": "Como avaliamos os medios de comunicación",
+    "reliabilityTitle": "Fiabilidade",
+    "reliabilityDescription": "Mide a capacidade do medio para non mentir e para achegarse aos feitos probados.",
+    "neutralityTitle": "Neutralidade",
+    "neutralityDescription": "Mide o equilibrio, a honestidade ideolóxica e a ausencia de manipulación emocional.",
+    "weightsTitle": "Ponderación",
+    "weightsDescription": "Cada categoría ten un peso específico na nota final.",
+    "gradesTitle": "Sistema de notas",
+    "gradeA": "Excelente — O medio cumpre os máis altos estándares de fiabilidade e neutralidade.",
+    "gradeB": "Bo — O medio é fiable e bastante neutral, con marxe de mellora.",
+    "gradeC": "Aceptable — O medio ten aspectos positivos pero tamén deficiencias significativas.",
+    "gradeD": "Deficiente — O medio presenta problemas graves de fiabilidade ou neutralidade.",
+    "gradeE": "Moi deficiente — O medio non cumpre os estándares mínimos."
+  },
+  "about": {
+    "title": "Sobre MediosVerifica",
+    "subtitle": "Un proxecto independente para a transparencia mediática en España."
+  },
+  "grades": {
+    "A": "Excelente",
+    "B": "Bo",
+    "C": "Aceptable",
+    "D": "Deficiente",
+    "E": "Moi deficiente"
+  },
+  "common": {
+    "score": "Puntuación",
+    "grade": "Nota",
+    "weight": "Peso",
+    "viewDetails": "Ver detalles",
+    "backToList": "Volver ao listado",
+    "language": "Idioma"
+  },
+  "footer": {
+    "description": "MediosVerifica é un proxecto independente dedicado a avaliar a fiabilidade e neutralidade dos medios de comunicación españois.",
+    "data": "Datos",
+    "apiDescription": "Accede aos nosos datos abertos vía jsDelivr.",
+    "license": "Os datos publícanse baixo licenza Creative Commons BY-SA 4.0."
+  }
+}
