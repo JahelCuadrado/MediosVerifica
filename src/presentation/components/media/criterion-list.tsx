@@ -1,5 +1,6 @@
 import type { DimensionScore } from "@/domain/entities/evaluation";
 import type { SupportedLocale } from "@/domain/entities/evaluation";
+import { deriveGrade } from "@/application/scoring.service";
 import { ScoreBar } from "../ui/score-bar";
 import { GradeBadge } from "../ui/grade-badge";
 
@@ -33,7 +34,7 @@ export function CriterionList({
                 {(category.weight * 100).toFixed(0)}%
               </span>
               <GradeBadge
-                grade={category.score >= 8 ? "A" : category.score >= 6 ? "B" : category.score >= 4 ? "C" : category.score >= 2 ? "D" : "E"}
+                grade={deriveGrade(category.score)}
                 size="sm"
               />
             </div>
