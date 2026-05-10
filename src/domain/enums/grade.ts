@@ -14,13 +14,13 @@ export enum Grade {
   E = "E",
 }
 
-/** Human-readable label for each grade. */
+/** Human-readable label for each grade (English fallback). */
 export const GRADE_LABELS: Record<Grade, string> = {
-  [Grade.A]: "Excellent",
-  [Grade.B]: "Good",
-  [Grade.C]: "Fair",
-  [Grade.D]: "Poor",
-  [Grade.E]: "Very Poor",
+  [Grade.A]: "Reliable",
+  [Grade.B]: "Improvable",
+  [Grade.C]: "With reservations",
+  [Grade.D]: "Serious",
+  [Grade.E]: "Very serious",
 };
 
 /** Threshold boundaries: score >= threshold → grade. Ordered descending. */
